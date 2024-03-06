@@ -1,0 +1,215 @@
+model name,word,test set definition,ranking
+multi-qa-distilbert-cos-v1,can,a cylindrical container made from metal,3
+multi-qa-distilbert-cos-v1,timpani,a thunder-like drum,-1
+multi-qa-distilbert-cos-v1,sound,"distinguishable, audible signal",-1
+multi-qa-distilbert-cos-v1,guitar,a popular musical instrument with strings and fretted fingerboard,-1
+multi-qa-distilbert-cos-v1,orchestral,marked by involvement of an orchestra,1
+multi-qa-distilbert-cos-v1,cannister,"a round container with a lid, usually made from metal",6
+multi-qa-distilbert-cos-v1,trumpet,a musical instrument made from brass associated with fanfares,-1
+multi-qa-distilbert-cos-v1,bucket,a cylindrical container with top face as opening often with a handle,-1
+multi-qa-distilbert-cos-v1,saxophone,a reeded instrument often used in jazz music,-1
+multi-qa-distilbert-cos-v1,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,-1
+multi-qa-distilbert-cos-v1,bat,a wooden tool designed to hit something,-1
+multi-qa-distilbert-cos-v1,barrel,a large cylindrical container made from wood,-1
+multi-qa-distilbert-cos-v1,cram,to force large amount into a smaller space,-1
+multi-qa-distilbert-cos-v1,harmonica,"a small, informal musical instrument played by mouth producing chords",-1
+multi-qa-distilbert-cos-v1,thump,a blunt sound,-1
+multi-qa-distilbert-cos-v1,band,an informal group of musicians,4
+multi-qa-distilbert-cos-v1,pat,a gentle but fast touch with fingers or palm,3
+multi-qa-distilbert-cos-v1,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",-1
+multi-qa-distilbert-cos-v1,tin,a small container made from metal,-1
+multi-qa-distilbert-cos-v1,rap,spoken song often marked by speed,-1
+multi-qa-distilbert-cos-v1,drumhead,material making up the vibrating surface of a drum,8
+multi-qa-distilbert-cos-v1,bongo,a small hand drum often attached in a pair,8
+multi-qa-distilbert-cos-v1,knock,swiftly hit surface with knuckles creating a sound,-1
+multi-qa-distilbert-cos-v1,pail,a cylindrical container with top face as opening often with a handle,1
+multi-qa-distilbert-cos-v1,clap,a swift motion connecting the palms of one's hands creating a sound,1
+multi-qa-distilbert-cos-v1,slam,to move something forcefully with the expectation it comes to a quick stop,-1
+multi-qa-distilbert-cos-v1,percussion,the collection of instruments or sounds produced by hitting objects,2
+multi-qa-distilbert-cos-v1,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,-1
+multi-qa-distilbert-cos-v1,snare,a small trap for animals,-1
+multi-qa-distilbert-cos-v1,music,the artistical and intentional arrangement of sounds,-1
+multi-qa-distilbert-cos-v1,drummer,someone who plays the drums,1
+multi-qa-distilbert-cos-v1,beat,a rhythm created by percussion,7
+multi-qa-distilbert-cos-v1,bugle,"a small, simple signaling brass instrument",1
+multi-qa-distilbert-cos-v1,tap,to pat gently with fingertips,-1
+multi-qa-distilbert-cos-v1,drum,percussive instrument often used to create rhythm,-1
+multi-qa-distilbert-cos-v1,hit,forceful and fast motion to connect with object,-1
+multi-qa-distilbert-cos-v1,thrum,a motion to play all strings of a guitar,-1
+multi-qa-distilbert-cos-v1,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+multi-qa-distilbert-cos-v1,cymbal,percussive instrument made from thin metal often used in pairs,-1
+multi-qa-distilbert-cos-v1,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,2
+multi-qa-distilbert-cos-v1,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",3
+multi-qa-distilbert-cos-v1,pound,to knock bluntly and repeatedly,-1
+multi-qa-distilbert-cos-v1,djembe,"a goblet shaped, african drum played with hands",-1
+multi-qa-distilbert-cos-v1,educationist,someone who educates or reasons about education as a profession,-1
+multi-qa-distilbert-cos-v1,lyceum,a small lecture theatre,9
+multi-qa-distilbert-cos-v1,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",6
+multi-qa-distilbert-cos-v1,development,progress in growth as a child,-1
+multi-qa-distilbert-cos-v1,society,a set of conventions and norms set in place by a community of humans,-1
+multi-qa-distilbert-cos-v1,lesson,a unit of teaching in time or topic,-1
+multi-qa-distilbert-cos-v1,course,a collection of lessons often with a unified goal or story,-1
+multi-qa-distilbert-cos-v1,classwork,component of learning that is actively completed in class,6
+multi-qa-distilbert-cos-v1,homework,component of learning that is completed at home after time spent with a teacher,9
+multi-qa-distilbert-cos-v1,teacher,leader and educator of a class with specialised knowledge,-1
+multi-qa-distilbert-cos-v1,tuition,specialised teaching often personalised or paid for,1
+multi-qa-distilbert-cos-v1,tutoring,private often additional teaching,-1
+multi-qa-distilbert-cos-v1,knowledge,collection of justified beliefs able to be recalled,1
+multi-qa-distilbert-cos-v1,experience,knowledge gained by having observed a variety of situations,-1
+multi-qa-distilbert-cos-v1,skill,practical knowledge,-1
+multi-qa-distilbert-cos-v1,training,practise of a special skill often with instruction,-1
+multi-qa-distilbert-cos-v1,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,-1
+multi-qa-distilbert-cos-v1,literacy,being able to read and write,1
+multi-qa-distilbert-cos-v1,preparation,the process of transitioning into a state of readiness for a certain task,4
+multi-qa-distilbert-cos-v1,erudition,"having or obtaining rare, deep knowledge",-1
+multi-qa-distilbert-cos-v1,tutelage,"private, individual teaching",2
+multi-qa-distilbert-cos-v1,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",5
+multi-qa-distilbert-cos-v1,educational,with benefit regarding teaching or learning,-1
+multi-qa-distilbert-cos-v1,school,institution of teaching and learning,2
+multi-qa-distilbert-cos-v1,student,a person being taught in an institution,3
+multi-qa-distilbert-cos-v1,pedagogy,the academic study of approaches to teaching and education,4
+multi-qa-distilbert-cos-v1,curriculum,a pre-set outline of topics of study,-1
+multi-qa-distilbert-cos-v1,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",-1
+multi-qa-distilbert-cos-v1,profession,a primary occupation one earns money with,8
+multi-qa-distilbert-cos-v1,schooling,the collection of instruction and teaching given at an institution often a school,9
+multi-qa-distilbert-cos-v1,learning,the process of acquiring a skill or knowledge,-1
+multi-qa-distilbert-cos-v1,instruction,the process of telling someone what to do and how to do it,-1
+multi-qa-distilbert-cos-v1,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",-1
+multi-qa-distilbert-cos-v1,adult,someone responsible for oneself,-1
+multi-qa-distilbert-cos-v1,coeducation,the educational paradigm of mixing children of different genders at school,2
+multi-qa-distilbert-cos-v1,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,2
+multi-qa-distilbert-cos-v1,education,the field of learning and teaching,7
+multi-qa-distilbert-cos-v1,university,an institution of higher learning marked by programs that award degrees and research,1
+multi-qa-distilbert-cos-v1,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,-1
+multi-qa-distilbert-cos-v1,classroom,a room designated for teaching small groups,1
+multi-qa-distilbert-cos-v1,didactics,"teaching in a unforgiving, stern manner often moral",-1
+multi-qa-distilbert-cos-v1,research,gathering of knowledge and novel insights,-1
+multi-qa-distilbert-cos-v1,preschool,"time, age or institution before school",5
+multi-qa-distilbert-cos-v1,humanities,a collection of fields of study relating to the human experience,-1
+multi-qa-distilbert-cos-v1,undergraduate,before obtaining a degree,3
+multi-qa-distilbert-cos-v1,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,-1
+multi-qa-distilbert-cos-v1,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,5
+multi-qa-distilbert-cos-v1,psychology,the field of study of human behaviour,1
+multi-qa-distilbert-cos-v1,sympathy,a feeling marked by similarity or connection,5
+multi-qa-distilbert-cos-v1,fear,feeling in response to danger or anticipated powerlessness or vulnerability,8
+multi-qa-distilbert-cos-v1,chord,a collection of musical notes often creating a sentiment,-1
+multi-qa-distilbert-cos-v1,mood,the combination of emotions felt at a point in time,-1
+multi-qa-distilbert-cos-v1,ardor,"feeling an emotion to a great extent, often enthusiasm",-1
+multi-qa-distilbert-cos-v1,anxiety,a feeling of uncertainty or fear often in anticipation,-1
+multi-qa-distilbert-cos-v1,impression,a shape or emotional state left by something,-1
+multi-qa-distilbert-cos-v1,sentiment,a collection of emotions often of a group of people regarding a particular subject,-1
+multi-qa-distilbert-cos-v1,fervency,feeling marked by strength and sincerity,-1
+multi-qa-distilbert-cos-v1,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,-1
+multi-qa-distilbert-cos-v1,love,"the feeling of deep affection for a small, select group of people",4
+multi-qa-distilbert-cos-v1,intensity,measure of forcefulness or vibrance,-1
+multi-qa-distilbert-cos-v1,anger,"strong, sometimes aggressive feeling of extreme frustration",-1
+multi-qa-distilbert-cos-v1,fire,flaming appearance of energy produced by combustion,3
+multi-qa-distilbert-cos-v1,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,-1
+multi-qa-distilbert-cos-v1,heat,expression of high energy,-1
+multi-qa-distilbert-cos-v1,joy,a feeling of extreme happyness or exultation,4
+multi-qa-distilbert-cos-v1,perception,a notion created by observation,-1
+multi-qa-distilbert-cos-v1,happiness,a positive feeling marked by pleasure or satisfaction,-1
+multi-qa-distilbert-cos-v1,enthusiasm,feeling of excitement marked by great energy and anticipation,-1
+multi-qa-distilbert-cos-v1,sensation,perception of a physical feeling,-1
+multi-qa-distilbert-cos-v1,sense,logical coherence or rationality,-1
+multi-qa-distilbert-cos-v1,consciousness,the ability to observe one's thoughts,-1
+multi-qa-distilbert-cos-v1,excitement,the feeling of being happy in anticipation,-1
+multi-qa-distilbert-cos-v1,emotionality,the state of having or expressing strong feelings,-1
+multi-qa-distilbert-cos-v1,vehemence,measure of great intensity,-1
+multi-qa-distilbert-cos-v1,violence,display or act of physical force causing harm,-1
+multi-qa-distilbert-cos-v1,compassion,the feeling or acting upon profound understanding and kindness,-1
+multi-qa-distilbert-cos-v1,empathy,the ability to put oneself into someone else's situation,-1
+multi-qa-distilbert-cos-v1,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,-1
+multi-qa-distilbert-cos-v1,feeling,a less defined emotion,-1
+multi-qa-distilbert-cos-v1,emotional,marked by emotion often in negative context,-1
+multi-qa-distilbert-cos-v1,emotion,a defined mental state in response to a situation or event,4
+multi-qa-distilbert-cos-v1,fervor,a feeling marked by strength and sincerity,-1
+multi-qa-distilbert-cos-v1,awe,the state of feeling a combination of profound respect and admiration,-1
+multi-qa-distilbert-cos-v1,indignation,a feeling of anger or frustration caused by the perception of something unjust,-1
+multi-qa-distilbert-cos-v1,look,to focus one's gaze in a particular direction,-1
+multi-qa-distilbert-cos-v1,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",1
+multi-qa-distilbert-cos-v1,falcon,a bird of prey often trained for hunting,-1
+multi-qa-distilbert-cos-v1,ferret,"a small, domesticated mammal used for hunting rabbits",-1
+multi-qa-distilbert-cos-v1,fowl,a type of bird kept for producing meat or eggs,-1
+multi-qa-distilbert-cos-v1,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,-1
+multi-qa-distilbert-cos-v1,shoot,fire a projectile or arrow at a target with a weapon,6
+multi-qa-distilbert-cos-v1,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,2
+multi-qa-distilbert-cos-v1,predation,"the process of a predator hunting, killing and eating its prey",7
+multi-qa-distilbert-cos-v1,hunter,someone who hunts,1
+multi-qa-distilbert-cos-v1,prey,an animal that is the object of hunting,-1
+multi-qa-distilbert-cos-v1,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,-1
+multi-qa-distilbert-cos-v1,scouring,to search carefully with vigorous effort,-1
+multi-qa-distilbert-cos-v1,shop,an institution or place offering goods for sale,-1
+multi-qa-distilbert-cos-v1,hound,a type of dog bred or trained for hunting,-1
+multi-qa-distilbert-cos-v1,chase,to follow in an effort to catch or attack,-1
+multi-qa-distilbert-cos-v1,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",1
+multi-qa-distilbert-cos-v1,prospect,the outlook or anticipated result,-1
+multi-qa-distilbert-cos-v1,club,a heavy wooden bat used as a weapon,-1
+multi-qa-distilbert-cos-v1,pursuit,the process of following a particular object or goal in focus,-1
+multi-qa-distilbert-cos-v1,trap,a device or situation that appears to be something else but is designed to capture a victim,-1
+multi-qa-distilbert-cos-v1,trace,a series of hints or marks that can be followed,-1
+multi-qa-distilbert-cos-v1,kill,to take the life of something,-1
+multi-qa-distilbert-cos-v1,snare,a small trap for an animal,9
+multi-qa-distilbert-cos-v1,ambush,a surprise attack,4
+multi-qa-distilbert-cos-v1,bounty,money advertised to be payed in reward of some action,-1
+multi-qa-distilbert-cos-v1,gun,a weapon made from metal that fires a bullet,-1
+multi-qa-distilbert-cos-v1,probe,to carefully advance,-1
+multi-qa-distilbert-cos-v1,manhunt,an organised search for a person,4
+multi-qa-distilbert-cos-v1,quest,a journey with a particular goal,-1
+multi-qa-distilbert-cos-v1,forage,to search for and collect plants or fungi for food or material in the wild,5
+multi-qa-distilbert-cos-v1,catch,to take hold of something mid air,3
+multi-qa-distilbert-cos-v1,track,a trace left in the ground,-1
+multi-qa-distilbert-cos-v1,drive,to chase or heard a particular group of animals in a hunt,-1
+multi-qa-distilbert-cos-v1,foraging,the process of searching for and collecting food or material in the wild,1
+multi-qa-distilbert-cos-v1,pursue,to follow an object or goal with dedication,-1
+multi-qa-distilbert-cos-v1,snipe,to hurt or kill someone from a hiding place at a distance,1
+multi-qa-distilbert-cos-v1,run,to move quickly using one's legs,-1
+multi-qa-distilbert-cos-v1,search,the traversal of a collection or area with the aim of finding a particular thing,-1
+multi-qa-distilbert-cos-v1,hunt,"to identify a target, pursure and capture it",-1
+multi-qa-distilbert-cos-v1,whale,very large mammal that lives in water,-1
+multi-qa-distilbert-cos-v1,shakedown,the act of searching thoroughly a person,-1
+multi-qa-distilbert-cos-v1,explore,to search with curiosity,-1
+multi-qa-distilbert-cos-v1,technology,"the field of human advancement in machines, automation and communication",-1
+multi-qa-distilbert-cos-v1,device,a portable unit of electronic machinery,2
+multi-qa-distilbert-cos-v1,robotics,"the field to make mechanical, moving aids to humans",-1
+multi-qa-distilbert-cos-v1,technical,marked by precision,-1
+multi-qa-distilbert-cos-v1,development,human progress,-1
+multi-qa-distilbert-cos-v1,invention,a novel device or mechanism,-1
+multi-qa-distilbert-cos-v1,telephone,a device enabling remote communication,-1
+multi-qa-distilbert-cos-v1,biomedical,relating to the field of biology and medicine,2
+multi-qa-distilbert-cos-v1,machine,a collection of mechanical parts interacting to achieve a greater goal,-1
+multi-qa-distilbert-cos-v1,expertise,great knowledge,-1
+multi-qa-distilbert-cos-v1,instrument,a specialised tool,-1
+multi-qa-distilbert-cos-v1,automation,the goal or process to reduce the requirement for manual labour,-1
+multi-qa-distilbert-cos-v1,manufacturing,the process of assembling usually by hand,-1
+multi-qa-distilbert-cos-v1,progress,momentum marked by an increase in quality or quantity,-1
+multi-qa-distilbert-cos-v1,wireless,without wires or physical connection,3
+multi-qa-distilbert-cos-v1,computer,a calculating machine operating in binary,-1
+multi-qa-distilbert-cos-v1,digital,discrete valued,6
+multi-qa-distilbert-cos-v1,computing,calculating in a mechanical manner,-1
+multi-qa-distilbert-cos-v1,communication,conveying a message and response,-1
+multi-qa-distilbert-cos-v1,internet,an electronically connected net of resources and communication channels,-1
+multi-qa-distilbert-cos-v1,scientific,marked by empiricism and curiosity,-1
+multi-qa-distilbert-cos-v1,nanotechnology,technology in the scale of atoms and molecules,1
+multi-qa-distilbert-cos-v1,devices,"multiple units of portable, electronic machinery",-1
+multi-qa-distilbert-cos-v1,energy,the work or effort needed or given,-1
+multi-qa-distilbert-cos-v1,hardware,physical components of a machine or system,-1
+multi-qa-distilbert-cos-v1,technological,relating to technology,4
+multi-qa-distilbert-cos-v1,gadget,a device with nifty purpose,4
+multi-qa-distilbert-cos-v1,systems,multiple sets of connected components that work together,-1
+multi-qa-distilbert-cos-v1,innovation,the spirit of novelty and progress,-1
+multi-qa-distilbert-cos-v1,wheel,a circular object on an axis facilitating motion,-1
+multi-qa-distilbert-cos-v1,equipment,a set of tools or supplies needed for a job,-1
+multi-qa-distilbert-cos-v1,biotechnology,a subfield of technology involving or relating to living organisms,2
+multi-qa-distilbert-cos-v1,software,non physical component of a machine or technological process,-1
+multi-qa-distilbert-cos-v1,science,the empirical endeavour to quantify and explain observable phenomena,-1
+multi-qa-distilbert-cos-v1,mechanism,a set of interacting parts to achieve a small function,-1
+multi-qa-distilbert-cos-v1,electronics,a set of components related to the conduction and control of electricity,10
+multi-qa-distilbert-cos-v1,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",-1
+multi-qa-distilbert-cos-v1,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,-1
+multi-qa-distilbert-cos-v1,application,directional addition of something,-1
+multi-qa-distilbert-cos-v1,tech,short for technology,2
+multi-qa-distilbert-cos-v1,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",10
+multi-qa-distilbert-cos-v1,tool,a device intended for and used by a human to help with a specfic task,7
+multi-qa-distilbert-cos-v1,industry,the act or field of labour and manufacture,-1
+multi-qa-distilbert-cos-v1,bionics,technology inspired by biology,4

@@ -1,0 +1,44 @@
+model name,word,test set definition,ranking
+reversedictionary.org,can,a cylindrical container made from metal,1
+reversedictionary.org,timpani,a thunder-like drum,-1
+reversedictionary.org,sound,"distinguishable, audible signal",3
+reversedictionary.org,guitar,a popular musical instrument with strings and fretted fingerboard,1
+reversedictionary.org,orchestral,marked by involvement of an orchestra,4
+reversedictionary.org,cannister,"a round container with a lid, usually made from metal",-1
+reversedictionary.org,trumpet,a musical instrument made from brass associated with fanfares,4
+reversedictionary.org,bucket,a cylindrical container with top face as opening often with a handle,2
+reversedictionary.org,saxophone,a reeded instrument often used in jazz music,30
+reversedictionary.org,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,1
+reversedictionary.org,bat,a wooden tool designed to hit something,29
+reversedictionary.org,barrel,a large cylindrical container made from wood,1
+reversedictionary.org,cram,to force large amount into a smaller space,5
+reversedictionary.org,harmonica,"a small, informal musical instrument played by mouth producing chords",1
+reversedictionary.org,thump,a blunt sound,1
+reversedictionary.org,band,an informal group of musicians,3
+reversedictionary.org,pat,a gentle but fast touch with fingers or palm,5
+reversedictionary.org,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",4
+reversedictionary.org,tin,a small container made from metal,3
+reversedictionary.org,rap,spoken song often marked by speed,-1
+reversedictionary.org,drumhead,material making up the vibrating surface of a drum,5
+reversedictionary.org,bongo,a small hand drum often attached in a pair,4
+reversedictionary.org,knock,swiftly hit surface with knuckles creating a sound,5
+reversedictionary.org,pail,a cylindrical container with top face as opening often with a handle,3
+reversedictionary.org,clap,a swift motion connecting the palms of one's hands creating a sound,1
+reversedictionary.org,slam,to move something forcefully with the expectation it comes to a quick stop,25
+reversedictionary.org,percussion,the collection of instruments or sounds produced by hitting objects,6
+reversedictionary.org,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,3
+reversedictionary.org,snare,a small trap for animals,1
+reversedictionary.org,music,the artistical and intentional arrangement of sounds,17
+reversedictionary.org,drummer,someone who plays the drums,1
+reversedictionary.org,beat,a rhythm created by percussion,4
+reversedictionary.org,bugle,"a small, simple signaling brass instrument",3
+reversedictionary.org,tap,to pat gently with fingertips,9
+reversedictionary.org,drum,percussive instrument often used to create rhythm,18
+reversedictionary.org,hit,forceful and fast motion to connect with object,26
+reversedictionary.org,thrum,a motion to play all strings of a guitar,15
+reversedictionary.org,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+reversedictionary.org,cymbal,percussive instrument made from thin metal often used in pairs,3
+reversedictionary.org,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+reversedictionary.org,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",1
+reversedictionary.org,pound,to knock bluntly and repeatedly,3
+reversedictionary.org,djembe,"a goblet shaped, african drum played with hands",22

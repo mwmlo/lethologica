@@ -1,0 +1,422 @@
+model name,word,test set definition,ranking
+multi-qa-distilbert-cos-v1,can,Buoy round bottom and conical top,1
+multi-qa-distilbert-cos-v1,educationist,Specialist in educational theory,1
+multi-qa-distilbert-cos-v1,lyceum,high school and college; Usually 9th to 12th grade,1
+multi-qa-distilbert-cos-v1,technology,Practical application of science in commerce or industry,1
+multi-qa-distilbert-cos-v1,device,"a device or invention that serves a purpose, especially a machine used to perform one or more relatively simple tasks",1
+multi-qa-distilbert-cos-v1,look,"Use a gaze, especially in a direction or an object to look out a window, look at the floor",2
+multi-qa-distilbert-cos-v1,robotics,The science or study of technology related to production design theory and the use of robots,1
+multi-qa-distilbert-cos-v1,technical,related to or derived from technology,1
+multi-qa-distilbert-cos-v1,foxhunt,Hunting wolves and dogs,3
+multi-qa-distilbert-cos-v1,falcon,"Any bird of prey in the falcon family, and especially in the falcon genus, having a short curved beak and long, pointed, strong wings adapted for rapid flight.",2
+multi-qa-distilbert-cos-v1,ferret,"Stony mammals, usually albinos, Mustela Putorius furo, related to the ogre and usually trained to hunt mice or rabbits.",1
+multi-qa-distilbert-cos-v1,timpani,A set of blankets,-1
+multi-qa-distilbert-cos-v1,sadness,The state or emotion of being sad,1
+multi-qa-distilbert-cos-v1,kindergarten,A program or activity for four to six year olds that is an introduction to school,1
+multi-qa-distilbert-cos-v1,development,Job development,-1
+multi-qa-distilbert-cos-v1,sound,"Vibrations are transmitted through an elastic solid, liquid or gas with frequencies in the Hertz range that can be detected by human hearing.",1
+multi-qa-distilbert-cos-v1,psychology,The science that deals with cognitive processes and behavior,1
+multi-qa-distilbert-cos-v1,invention,The act or process of inventing uses one's own inventive techniques,1
+multi-qa-distilbert-cos-v1,society,A set of social relationships between people,1
+multi-qa-distilbert-cos-v1,telephone,An instrument that converts voice and other sound signals into a form that can be transmitted over long distances and receives the waves and converts them into sound signals.,1
+multi-qa-distilbert-cos-v1,sympathy,A relationship or association between people and things in which what affects one has a corresponding effect on the other,1
+multi-qa-distilbert-cos-v1,fowl,"Any bird of the order Galliformes, especially the common domestic fowl gallus gallus",1
+multi-qa-distilbert-cos-v1,fear,A feeling of restlessness and anxiety due to the presence or impending danger,1
+multi-qa-distilbert-cos-v1,lesson,Some lessons can be learned by observing nature,1
+multi-qa-distilbert-cos-v1,chord,A combination of three or more notes sounding together,1
+multi-qa-distilbert-cos-v1,guitar,"A musical instrument with a round, flat back that curves at the center of a long neck and usually has six strings that are plucked or plucked.",1
+multi-qa-distilbert-cos-v1,mood,A state of mind or emotion,1
+multi-qa-distilbert-cos-v1,course,A comprehensive set of prescribed studies covering the four-year engineering curriculum,1
+multi-qa-distilbert-cos-v1,biomedical,or related to biomedicine,1
+multi-qa-distilbert-cos-v1,orchestral,Of or related to music of an orchestra,1
+multi-qa-distilbert-cos-v1,ardor,Feeling of burning intensity,3
+multi-qa-distilbert-cos-v1,cannister,Especially the typical cylindrical storage bin,1
+multi-qa-distilbert-cos-v1,dog,"Canis familis is a carnivorous mammal, related to wolves and foxes and bred in several breeds.",1
+multi-qa-distilbert-cos-v1,classwork,Part of a scientist's work is done in the classroom,1
+multi-qa-distilbert-cos-v1,shoot,To injure or kill by a projectile fired from a gun,4
+multi-qa-distilbert-cos-v1,trumpet,"A brass instrument for the soprano, consisting of a long metal tube coiled once and ending in a bell, began in the modern type, with three pipes to produce a difference in tone.",1
+multi-qa-distilbert-cos-v1,homework,Tasks such as schoolwork or homework,1
+multi-qa-distilbert-cos-v1,bucket,A cylindrical container used for storing or transporting buckets of liquids or solids,3
+multi-qa-distilbert-cos-v1,anxiety,A state of fear and worry about an uncertain future,1
+multi-qa-distilbert-cos-v1,teacher,"A person who teaches, especially one who teaches",1
+multi-qa-distilbert-cos-v1,tuition,"Tuition fees, especially at a formal educational institution",1
+multi-qa-distilbert-cos-v1,stalk,The stem or main axis of a plant,1
+multi-qa-distilbert-cos-v1,machine,A device with fixed and moving parts that converts mechanical energy into a more useful form,1
+multi-qa-distilbert-cos-v1,predation,The act or habit of stealing or stealing,-1
+multi-qa-distilbert-cos-v1,hunter,Someone who hunts game,1
+multi-qa-distilbert-cos-v1,saxophone,"A woodwind instrument with a reed mouthpiece and usually a curved conical metal pipe, covering the soprano-alto-tenor and baritone scales.",1
+multi-qa-distilbert-cos-v1,impression,An emotional feeling or image that persists as a result of an experience,1
+multi-qa-distilbert-cos-v1,flute,A high woodwind instrument consisting of a thin tube closed at one end with keys and finger holes on the side and a hole near the closed end through which the breath is taken.,1
+multi-qa-distilbert-cos-v1,sentiment,"An opinion or attitude, especially one based largely on emotion rather than reason, and an anti-American sentiment sweeping through the nation.",1
+multi-qa-distilbert-cos-v1,fervency,The state or quality of being warm,-1
+multi-qa-distilbert-cos-v1,tutoring,Private tutor,3
+multi-qa-distilbert-cos-v1,knowledge,state or fact of knowledge,-1
+multi-qa-distilbert-cos-v1,experience,Capture a thought or emotion through the senses or mind during a child's first snow experience,-1
+multi-qa-distilbert-cos-v1,frustration,An act or example of frustration,-1
+multi-qa-distilbert-cos-v1,bat,A strong wooden stick of sticks,-1
+multi-qa-distilbert-cos-v1,prey,An animal that hunts or catches food,-1
+multi-qa-distilbert-cos-v1,searching,To investigate or scrutinize exploratory research into past relationships,-1
+multi-qa-distilbert-cos-v1,barrel,"A large cylindrical container, usually made of sticks tied into rings with a flat top and bottom of the same diameter.",-1
+multi-qa-distilbert-cos-v1,cram,Forcefully grasping or squeezing objects with insufficient space,-1
+multi-qa-distilbert-cos-v1,love,"Deep feelings of inexplicable tenderness of love and prayer for someone, for example, recognition of family in attractive qualities or a feeling of deep unity.",-1
+multi-qa-distilbert-cos-v1,skill,Skills or knowledge acquired or developed through education or experience,-1
+multi-qa-distilbert-cos-v1,harmonica,A small rectangular instrument consisting of a series of loose reeds inserted into the air hole at the back and played by breathing or blowing.,-1
+multi-qa-distilbert-cos-v1,thump,hitting with a blunt object,-1
+multi-qa-distilbert-cos-v1,intensity,Extremely concentrated force or power,-1
+multi-qa-distilbert-cos-v1,band,A group of musicians performs as an ensemble,-1
+multi-qa-distilbert-cos-v1,expertise,Expert advice or opinion,-1
+multi-qa-distilbert-cos-v1,training,The process or routine of an athlete,-1
+multi-qa-distilbert-cos-v1,pat,A quick light stroke with the fingers or hands,-1
+multi-qa-distilbert-cos-v1,instrument,"A measuring or controlling device, especially one that functions as part of a control system",-1
+multi-qa-distilbert-cos-v1,apprenticeship,The student's status or time worked,-1
+multi-qa-distilbert-cos-v1,automation,Automated operation or equipment control is a process or system,-1
+multi-qa-distilbert-cos-v1,scouring,Check the location carefully,-1
+multi-qa-distilbert-cos-v1,literacy,"The state or quality of literacy, especially the ability to read and write",-1
+multi-qa-distilbert-cos-v1,preparation,The act or process of preparation,-1
+multi-qa-distilbert-cos-v1,jazz,"A Native American musical style characterized by a strong but flexible rhythmic structure, solo and ensemble improvisation of basic melodies and chord patterns, and, more recently, a highly complex harmonic idiom.",1
+multi-qa-distilbert-cos-v1,manufacturing,the action of the verb do,-1
+multi-qa-distilbert-cos-v1,erudition,deep learning,1
+multi-qa-distilbert-cos-v1,tin,A nodular silver metal element found mainly in casities,2
+multi-qa-distilbert-cos-v1,progress,act in a way to achieve the goal,-1
+multi-qa-distilbert-cos-v1,anger,A strong feeling of anger or rage,-1
+multi-qa-distilbert-cos-v1,wireless,The word wireless is often used to refer to any type of electrical or electronic operation that takes place without a wired connection.,-1
+multi-qa-distilbert-cos-v1,shop,A small store or a specialty department in a large store,-1
+multi-qa-distilbert-cos-v1,tutelage,"Students are taught individually, usually by a private teacher",-1
+multi-qa-distilbert-cos-v1,computer,"A computing device, especially a programmable electronic machine, that performs mathematical or logical operations at high speed or collects, stores, or processes relevant information.",-1
+multi-qa-distilbert-cos-v1,medicine,"The science of the diagnosis, treatment, or prevention of diseases and other disorders of the body or mind",-1
+multi-qa-distilbert-cos-v1,digital,"connecting or resembling a digit, especially a finger",-1
+multi-qa-distilbert-cos-v1,rap,A quick punch or kick,-1
+multi-qa-distilbert-cos-v1,educational,or related to education,-1
+multi-qa-distilbert-cos-v1,computing,"Determine the amount of tax using mathematics, especially numerical methods",1
+multi-qa-distilbert-cos-v1,communication,The act of sending a communication,3
+multi-qa-distilbert-cos-v1,fire,MOTIVATION,-1
+multi-qa-distilbert-cos-v1,hound,"Any breed of domestic dog, often used for hunting, with lop ears, short coat and a low voice.",-1
+multi-qa-distilbert-cos-v1,school,An educational institution for children or minors,-1
+multi-qa-distilbert-cos-v1,drumhead,The material is stretched over one end of the drum or the other,-1
+multi-qa-distilbert-cos-v1,internet,An interconnected system of networks that connects computers around the world using the TCP IP protocol,-1
+multi-qa-distilbert-cos-v1,scientific,deploy or apply scientific methodology,-1
+multi-qa-distilbert-cos-v1,bongo,One of the pairs played a drum together with short hands,-1
+multi-qa-distilbert-cos-v1,nanotechnology,The science and technology of creating devices such as electronic circuits from individual atoms and molecules,1
+multi-qa-distilbert-cos-v1,student,Anyone who studies or takes classes at a college or university,-1
+multi-qa-distilbert-cos-v1,knock,Big hit,-1
+multi-qa-distilbert-cos-v1,devices,counting device,-1
+multi-qa-distilbert-cos-v1,chase,a quick pursuit to catch or pursue a thief,-1
+multi-qa-distilbert-cos-v1,hunting,tracking activity or game,-1
+multi-qa-distilbert-cos-v1,pedagogy,the art or profession of teaching,-1
+multi-qa-distilbert-cos-v1,prospect,examine or examine,-1
+multi-qa-distilbert-cos-v1,curriculum,all courses offered by the institution,-1
+multi-qa-distilbert-cos-v1,pail,a watertight cylindrical container with an opening at the top and a bucket handle,-1
+multi-qa-distilbert-cos-v1,clap,"a sudden explosive clap, like the clapping of hands",-1
+multi-qa-distilbert-cos-v1,club,"A strong, heavy stick, usually with a thick point, for use as a weapon by bandits",-1
+multi-qa-distilbert-cos-v1,energy,the ability or endurance to do strenuous work,-1
+multi-qa-distilbert-cos-v1,pursuit,to pursue or pursue a course of action or action,-1
+multi-qa-distilbert-cos-v1,slam,to strike or beat with great force,-1
+multi-qa-distilbert-cos-v1,percussion,"Knock between two bodies, especially when it makes a sound.",-1
+multi-qa-distilbert-cos-v1,sentimentality,that the quality or state is excessive or emotionally affected,-1
+multi-qa-distilbert-cos-v1,culture,"the whole of the practices, beliefs, arts, institutions, and other products of human activity and thought.",-1
+multi-qa-distilbert-cos-v1,hardware,informatics A computer and related physical devices directly involved in data processing or communication processes,-1
+multi-qa-distilbert-cos-v1,cylinder,"Mathematics is a rotating straight line that oscillates in a closed plane, either parallel or not parallel to the straight line.",-1
+multi-qa-distilbert-cos-v1,trap,"for catching and restraining animals, such as a hidden burrow or trap",-1
+multi-qa-distilbert-cos-v1,heat,"a form of energy associated with the motion of molecules or particles that can move through solid and liquid media in conduction, fluid, and radiation in space.",-1
+multi-qa-distilbert-cos-v1,profession,"profession or vocation, one of the highest compliments a child can pay his or her parents is a career choice Joan Nathan",1
+multi-qa-distilbert-cos-v1,trace,"a track similar to a footprint made or left by a person, animal, or event",4
+multi-qa-distilbert-cos-v1,technological,"technology, especially scientific technology",3
+multi-qa-distilbert-cos-v1,joy,intense and especially ecstatic or ecstatic joy,-1
+multi-qa-distilbert-cos-v1,gadget,a small specialized mechanical or electronic device,-1
+multi-qa-distilbert-cos-v1,kill,kill,-1
+multi-qa-distilbert-cos-v1,systems,plural form of system,-1
+multi-qa-distilbert-cos-v1,innovation,introduce something new,1
+multi-qa-distilbert-cos-v1,snare,Fishing gear is often part of the line for hunting birds and small mammals.,-1
+multi-qa-distilbert-cos-v1,ambush,expect a sudden attack,-1
+multi-qa-distilbert-cos-v1,wheel,A wheel is a mechanical device in the shape of a disk or sphere,-1
+multi-qa-distilbert-cos-v1,equipment,device configuration or device status,-1
+multi-qa-distilbert-cos-v1,bounty,freedom in giving,-1
+multi-qa-distilbert-cos-v1,schooling,teaching or learning in school,2
+multi-qa-distilbert-cos-v1,gun,A metal tube weapon that fired a flat course at high speed.,-1
+multi-qa-distilbert-cos-v1,perception,the ability to act or feel,-1
+multi-qa-distilbert-cos-v1,probe,a scouting expedition or group specially formed to obtain information and knowledge in a distant or unknown country,-1
+multi-qa-distilbert-cos-v1,music,"the art of timing sounds through the interplay of melody, rhythm, and timbre to create a timeless, cohesive, evocative composition.",-1
+multi-qa-distilbert-cos-v1,learning,"the process, practice, or process of acquiring knowledge or skills",-1
+multi-qa-distilbert-cos-v1,happiness,a feeling of happy joy,-1
+multi-qa-distilbert-cos-v1,drummer,drummer in the band,-1
+multi-qa-distilbert-cos-v1,manhunt,"search for a large organized person, usually an escaped criminal",-1
+multi-qa-distilbert-cos-v1,biotechnology,"The use of microorganisms, such as bacteria or biological agents such as yeast or enzymes, for a specific industrial or manufacturing process.",-1
+multi-qa-distilbert-cos-v1,enthusiasm,great passion or interest in a subject or cause,-1
+multi-qa-distilbert-cos-v1,beat,beat again and again,-1
+multi-qa-distilbert-cos-v1,sensation,"a sensation associated with a sensory organ or position of the body, a burning sensation;",-1
+multi-qa-distilbert-cos-v1,instruction,experience or teaching profession,-1
+multi-qa-distilbert-cos-v1,software,Symbolic languages ​​that govern the organization and operation of computer programs and hardware.,-1
+multi-qa-distilbert-cos-v1,sense,"Any senses that received external or internal stimuli, such as hearing, sight, smell, taste, and balance.",-1
+multi-qa-distilbert-cos-v1,bugle,the brass instrument is shorter than the trumpet and has no key or valve,-1
+multi-qa-distilbert-cos-v1,consciousness,the state or condition of being conscious,1
+multi-qa-distilbert-cos-v1,quest,software search or tracking activity or pattern,3
+multi-qa-distilbert-cos-v1,science,"observation, identification, description of experimental evidence and theoretical explanation of phenomena.",1
+multi-qa-distilbert-cos-v1,forage,to forage or search for food or supplies,1
+multi-qa-distilbert-cos-v1,tap,"to strike lightly, by kicking or pounding",5
+multi-qa-distilbert-cos-v1,adult,reaching maturity or maturity,5
+multi-qa-distilbert-cos-v1,excitement,interesting performance or example,-1
+multi-qa-distilbert-cos-v1,drum,"A piercing made of a hollow cylinder or hemisphere, tightly extended at one or both ends, and struck by hand or sticks.",-1
+multi-qa-distilbert-cos-v1,catch,"to catch or capture, especially after a chase",1
+multi-qa-distilbert-cos-v1,track,a mark or trace left by an event,2
+multi-qa-distilbert-cos-v1,drive,push forward or forward thrust pushing horses into the corridor,1
+multi-qa-distilbert-cos-v1,mechanism,machine or mechanical device,1
+multi-qa-distilbert-cos-v1,foraging,to forage or search for food or supplies,2
+multi-qa-distilbert-cos-v1,pursue,hunting or capturing a fox pursued by hunters,1
+multi-qa-distilbert-cos-v1,coeducation,an educational system in which both men and women attend the same institution or classes,1
+multi-qa-distilbert-cos-v1,electronics,science and technology of electronic phenomena.,1
+multi-qa-distilbert-cos-v1,scholarship,A review of the researcher's or academic's roles and responsibilities.,-1
+multi-qa-distilbert-cos-v1,engineering,"Scientific and mathematical principles for practical applications such as the design, construction and operation of efficient and effective technical structures and systems and processes.",1
+multi-qa-distilbert-cos-v1,transhumanism,"A philosophy of using science and technology, especially neurotechnology, biotechnology, and nanotechnology, to overcome human disabilities and improve human life.",1
+multi-qa-distilbert-cos-v1,hit,"After the assault, he confronted the guard.",-1
+multi-qa-distilbert-cos-v1,thrum,play a string instrument or a guitar solo,-1
+multi-qa-distilbert-cos-v1,education,learning or learning process,1
+multi-qa-distilbert-cos-v1,snipe,"Various large birds of the genus Gallinago or Capella, associated with Indian and scrub, especially g",2
+multi-qa-distilbert-cos-v1,emotionality,state or quality of emotional being,1
+multi-qa-distilbert-cos-v1,university,"a university with teaching and research facilities, including a bachelor's degree offering master's and doctoral degrees, as well as a bachelor's degree.",1
+multi-qa-distilbert-cos-v1,trombone,A windmill consisting of a long cylindrical tube terminating in two bell-shaped mouthpieces and a U-shaped sliding slide for producing different sounds.,1
+multi-qa-distilbert-cos-v1,vehemence,strong strength or ability to concentrate,10
+multi-qa-distilbert-cos-v1,violence,the use of physical force to commit crimes such as offensive or intentional violence,1
+multi-qa-distilbert-cos-v1,breeding,a man of good birth,-1
+multi-qa-distilbert-cos-v1,run,"move quickly with your feet, allowing both feet to leave the ground with each step",1
+multi-qa-distilbert-cos-v1,classroom,"school takes place outside the school, especially in the second grade",1
+multi-qa-distilbert-cos-v1,application,claim,-1
+multi-qa-distilbert-cos-v1,search,make sure you find what you know,-1
+multi-qa-distilbert-cos-v1,cymbal,Made of a perforated brass plate that produces a powerful tone when struck with a drum or drum.,1
+multi-qa-distilbert-cos-v1,didactics,teaching pedagogy,1
+multi-qa-distilbert-cos-v1,compassion,Extreme compassion in an attempt to alleviate another’s suffering.,2
+multi-qa-distilbert-cos-v1,piano,Musical instruments are played with hand-picked keyboards that produce a sound that can be tapped or established with pedals.,-1
+multi-qa-distilbert-cos-v1,empathy,Identify and understand another person’s feelings and reasons.,-1
+multi-qa-distilbert-cos-v1,tech,technology,-1
+multi-qa-distilbert-cos-v1,humility,the quality or state of poor condition,-1
+multi-qa-distilbert-cos-v1,tambourine,An instrument made of a small head with a sound disc on the edge and played by shaking and tapping with the hand.,-1
+multi-qa-distilbert-cos-v1,feeling,a sense that includes tactical sense,-1
+multi-qa-distilbert-cos-v1,research,scientific or academic research or analysis,-1
+multi-qa-distilbert-cos-v1,hunt,Continue playing for food or games,-1
+multi-qa-distilbert-cos-v1,preschool,corresponding to the childhood years before starting primary school,-1
+multi-qa-distilbert-cos-v1,emotional,or related to feelings,-1
+multi-qa-distilbert-cos-v1,apparatus,a device or apparatus for a special purpose,-1
+multi-qa-distilbert-cos-v1,humanities,being the most human,-1
+multi-qa-distilbert-cos-v1,undergraduate,College or university student with an undergraduate degree or equivalent,-1
+multi-qa-distilbert-cos-v1,whale,For biological order see Seashores,-1
+multi-qa-distilbert-cos-v1,homeschooling,teach children at home instead of sending them to school,-1
+multi-qa-distilbert-cos-v1,shakedown,detailed search,-1
+multi-qa-distilbert-cos-v1,tool,a tool such as a saw for performing or controlling manual or mechanical work,-1
+multi-qa-distilbert-cos-v1,emotion,"a state of mind that occurs alone, effortlessly and without many mental changes that result in happiness, sadness, honor, respect, hatred and love.",-1
+multi-qa-distilbert-cos-v1,industry,commercial production and marketing of products,-1
+multi-qa-distilbert-cos-v1,pound,hit often and hard,-1
+multi-qa-distilbert-cos-v1,fervor,extreme heat and strong emotions,-1
+multi-qa-distilbert-cos-v1,explore,systematically explore each possibility,-1
+multi-qa-distilbert-cos-v1,awe,"a feeling of wonder, awe and wonder inspired by the power of a genius of great beauty, glory or astonishment when thinking of a small work.",-1
+multi-qa-distilbert-cos-v1,bionics,"application of biological principles in engineering research and design, particularly in electronic systems",1
+multi-qa-distilbert-cos-v1,djembe,A large leather covered drum that was beaten with the hands used in West Africa with mixed music,-1
+
+multi-qa-distilbert-cos-v1,can,A boa with a rounded bottom and a conical top,2
+multi-qa-distilbert-cos-v1,educationist,Expert in educational theory,1
+multi-qa-distilbert-cos-v1,lyceum,Schooling students between primary school and university; Usually in grades 9 to 12,1
+multi-qa-distilbert-cos-v1,technology,Practical application of science in commerce or industry,1
+multi-qa-distilbert-cos-v1,device,"A design or invention that has a specific purpose, especially a machine for performing one or more simple tasks.",1
+multi-qa-distilbert-cos-v1,look,Point directly at the eye or object by looking out the window and looking down,1
+multi-qa-distilbert-cos-v1,robotics,Scientific or technical research related to the design principles and applications of robotics,1
+multi-qa-distilbert-cos-v1,technical,Pertaining to or based on specialized knowledge,2
+multi-qa-distilbert-cos-v1,foxhunt,"Fox hunting, usually with dogs",1
+multi-qa-distilbert-cos-v1,falcon,"Any species of bird of prey belonging to the Falconidae family, especially the falco species with a short curved beak and long, pointed, strong wings adapted for fast flight.",1
+multi-qa-distilbert-cos-v1,ferret,Albino-like mammals Musella putorius furrow related to ferrets and often trained to hunt mice and rabbits.,1
+multi-qa-distilbert-cos-v1,timpani,Kettle set,-1
+multi-qa-distilbert-cos-v1,sadness,The mood or feeling should be sympathetic,-1
+multi-qa-distilbert-cos-v1,kindergarten,A program or activity for children aged four to six that serves as an introduction to school,1
+multi-qa-distilbert-cos-v1,development,Corrective action,-1
+multi-qa-distilbert-cos-v1,sound,"Strongly transmitted vibrations of elastic materials, liquids or gases with amplitudes in the limited hertz range detected by the human auditory organ.",1
+multi-qa-distilbert-cos-v1,psychology,Psychology and Behavioral Sciences,3
+multi-qa-distilbert-cos-v1,invention,His work or method of creation uses the method he created,1
+multi-qa-distilbert-cos-v1,society,The essence of social relations between people,1
+multi-qa-distilbert-cos-v1,telephone,A device that converts speech and other sound signals into a form that can be transmitted over long distances and that receives and converts waves into sound signals,1
+multi-qa-distilbert-cos-v1,sympathy,A connection or relationship between people or things where whatever affects one affects the other,1
+multi-qa-distilbert-cos-v1,fowl,"Any species of bird in the order Galliformes, especially the chicken Gallus gallus, which is widely domesticated.",1
+multi-qa-distilbert-cos-v1,fear,Feelings of sadness and anxiety caused by the presence or proximity of danger,2
+multi-qa-distilbert-cos-v1,lesson,Something that needs to be concluded when observing nature,1
+multi-qa-distilbert-cos-v1,chord,A combination of three or more sounds heard at the same time,1
+multi-qa-distilbert-cos-v1,guitar,"A musical instrument with a flat, round body, tapering in the middle, and a long running neck, usually played by striking or plucking six strings.",1
+multi-qa-distilbert-cos-v1,mood,A state of mind or feeling,1
+multi-qa-distilbert-cos-v1,course,The complete set of prescribed courses that make up the four-year engineering program,1
+multi-qa-distilbert-cos-v1,biomedical,or related to biomedicine,1
+multi-qa-distilbert-cos-v1,orchestral,Relating to an orchestra or orchestral music,1
+multi-qa-distilbert-cos-v1,ardor,The intensity of emotional fire,1
+multi-qa-distilbert-cos-v1,cannister,Specifically cylindrical storage containers,1
+multi-qa-distilbert-cos-v1,dog,"Domesticated carnivorous mammals related to foxes and wolves, domesticated in various species.",1
+multi-qa-distilbert-cos-v1,classwork,Part of the student's work in class,1
+multi-qa-distilbert-cos-v1,shoot,To injure or kill with an arrow shot from a weapon,4
+multi-qa-distilbert-cos-v1,trumpet,A brass soprano wind instrument consisting of a long steel tube and made of a modern type of flared steel with three variable pitch valves.,1
+multi-qa-distilbert-cos-v1,homework,"Work, such as housework or housework",1
+multi-qa-distilbert-cos-v1,bucket,Cylinders are used to hold or move liquids or solids in piles,4
+multi-qa-distilbert-cos-v1,anxiety,A state of anxiety and fear of impending uncertainty,1
+multi-qa-distilbert-cos-v1,teacher,Who teaches more than teaching,1
+multi-qa-distilbert-cos-v1,tuition,Tuition fees especially in formal educational institutions,1
+multi-qa-distilbert-cos-v1,stalk,The main stem or axis of a herbaceous plant,1
+multi-qa-distilbert-cos-v1,machine,A device consisting of fixed and moving parts that converts mechanical energy and releases it in a more useful way,1
+multi-qa-distilbert-cos-v1,predation,The act or habit of stealing or stealing,-1
+multi-qa-distilbert-cos-v1,hunter,Who hunts animals,1
+multi-qa-distilbert-cos-v1,saxophone,"Woodwind instrument with single reed mouthpiece and collapsible tube, available in soprano alto tenor and baritone sizes.",1
+multi-qa-distilbert-cos-v1,impression,Feelings or images formed as a result of experience,1
+multi-qa-distilbert-cos-v1,flute,"A long wooden wind instrument consisting of a thin tube with holes for keys and fingers at one end, and a hole near the closed end through which air is blown.",1
+multi-qa-distilbert-cos-v1,sentiment,A view or attitude based on emotion rather than simply on the idea that anti-American sentiment has spread throughout the country.,1
+multi-qa-distilbert-cos-v1,fervency,A state or degree of arousal,-1
+multi-qa-distilbert-cos-v1,tutoring,the teacher,-1
+multi-qa-distilbert-cos-v1,knowledge,The state or reality of knowledge,-1
+multi-qa-distilbert-cos-v1,experience,Capturing a small thought or feeling through the senses or mind during a child's first experience in the snow,-1
+multi-qa-distilbert-cos-v1,frustration,Sad work or sad example,-1
+multi-qa-distilbert-cos-v1,bat,A strong stick and rope,-1
+multi-qa-distilbert-cos-v1,prey,Animals that are hunted or caught for the purpose of finding food,-1
+multi-qa-distilbert-cos-v1,searching,Take a closer look or carefully analyze your search terms for their past sales,-1
+multi-qa-distilbert-cos-v1,barrel,A large cylindrical bowl made of wood connected by flat hooks at the top and bottom of the same width,-1
+multi-qa-distilbert-cos-v1,cram,Press or squeeze firmly into a solid container,-1
+multi-qa-distilbert-cos-v1,love,A deep and indescribable feeling of love and care similar to that resulting from the experience of desire or attachment,-1
+multi-qa-distilbert-cos-v1,skill,A center of expertise or intelligence acquired or developed through training or experience,-1
+multi-qa-distilbert-cos-v1,harmonica,A small rectangular instrument consisting of rows of free reeds is pulled into the air hole and played by blowing or blowing.,-1
+multi-qa-distilbert-cos-v1,thump,Struck by trickery,-1
+multi-qa-distilbert-cos-v1,intensity,The power of concentration or the greatest power,-1
+multi-qa-distilbert-cos-v1,band,A group of musicians sing as a group,-1
+multi-qa-distilbert-cos-v1,expertise,Professional advice or opinion,-1
+multi-qa-distilbert-cos-v1,training,Trainee process or practice,-1
+multi-qa-distilbert-cos-v1,pat,A finger swipe or a quick tap or touch,-1
+multi-qa-distilbert-cos-v1,instrument,"A measuring or recording control device, especially a device that is part of a control system",-1
+multi-qa-distilbert-cos-v1,apprenticeship,the situation or while the student is working,-1
+multi-qa-distilbert-cos-v1,automation,"Automatic operation or control of a device, process or system",-1
+multi-qa-distilbert-cos-v1,scouring,To find the site correctly,-1
+multi-qa-distilbert-cos-v1,literacy,"Level or level of education, especially literacy",5
+multi-qa-distilbert-cos-v1,preparation,Preparation activity or process,-1
+multi-qa-distilbert-cos-v1,jazz,"A musical style originally from America, characterized by strong but flexible rhythms developed by soloists and a combination of basic melodies and singing patterns, and more recently, more complex harmonic expressions.",1
+multi-qa-distilbert-cos-v1,manufacturing,Action is about doing something,-1
+multi-qa-distilbert-cos-v1,erudition,Comprehensive deep learning,1
+multi-qa-distilbert-cos-v1,tin,A soft silvery metal found mainly in cassiterite,1
+multi-qa-distilbert-cos-v1,progress,Movement as a forward objective,-1
+multi-qa-distilbert-cos-v1,anger,Strong feelings of anger or hatred,-1
+multi-qa-distilbert-cos-v1,wireless,"The term ""wireless"" is used to describe any type of electrical or electronic operation that can be performed without a wired connection.",-1
+multi-qa-distilbert-cos-v1,shop,A small grocery store or specialty convenience store,-1
+multi-qa-distilbert-cos-v1,tutelage,Students are taught individually at all times by a teacher who works privately,-1
+multi-qa-distilbert-cos-v1,computer,"A computing device, especially a programmable electronic machine, that performs fast mathematical or logical operations or collects information related to data or processes.",-1
+multi-qa-distilbert-cos-v1,medicine,Science determines how to treat or prevent disease and other physical or mental disorders,-1
+multi-qa-distilbert-cos-v1,digital,Pertaining to or resembling digits such as fingers,-1
+multi-qa-distilbert-cos-v1,rap,A quick hit or tap,-1
+multi-qa-distilbert-cos-v1,educational,Education or related to education,-1
+multi-qa-distilbert-cos-v1,computing,Which will be determined mathematically rather than a numerical calculation of the tax to be paid,1
+multi-qa-distilbert-cos-v1,communication,Transfer process,-1
+multi-qa-distilbert-cos-v1,fire,and excitement,-1
+multi-qa-distilbert-cos-v1,hound,"Domestic dogs of many breeds used for hunting have short ears, short hair, and deep, moving voices.",-1
+multi-qa-distilbert-cos-v1,school,Educational institutions for children or schoolchildren,-1
+multi-qa-distilbert-cos-v1,drumhead,Information is extended to the end or end of the drum,-1
+multi-qa-distilbert-cos-v1,internet,An interconnected network system that connects computers around the world through the tcp ip protocol,-1
+multi-qa-distilbert-cos-v1,scientific,About the scientific method or its application,-1
+multi-qa-distilbert-cos-v1,bongo,One of the attached tuning drums is played by striking it with the hands,-1
+multi-qa-distilbert-cos-v1,nanotechnology,"Materials science and technology, such as electronic circuits made of single atoms and molecules",1
+multi-qa-distilbert-cos-v1,student,Enroll in or attend classes at a college or university,-1
+multi-qa-distilbert-cos-v1,knock,hit hard,-1
+multi-qa-distilbert-cos-v1,devices,There is a lot of equipment,-1
+multi-qa-distilbert-cos-v1,chase,Catch or overtake the thief quickly,-1
+multi-qa-distilbert-cos-v1,hunting,Following a career or sport,-1
+multi-qa-distilbert-cos-v1,pedagogy,artwork or teacher,-1
+multi-qa-distilbert-cos-v1,prospect,questions or surveys,-1
+multi-qa-distilbert-cos-v1,curriculum,All educational programs conducted by educational institutions,-1
+multi-qa-distilbert-cos-v1,pail,"A watertight cylindrical vessel, open at the top, with a cup handle",-1
+multi-qa-distilbert-cos-v1,clap,Clapping your fingers with a sudden explosive sound like clapping,-1
+multi-qa-distilbert-cos-v1,club,"A heavy hard rod, usually thick at one end, suitable for use as a hammer",-1
+multi-qa-distilbert-cos-v1,energy,"Work ability or efficiency, strength of power",-1
+multi-qa-distilbert-cos-v1,pursuit,An act or rule that is followed or required to be followed,-1
+multi-qa-distilbert-cos-v1,slam,hitting or falling very hard,-1
+multi-qa-distilbert-cos-v1,percussion,Especially when making noise to smash two things together,-1
+multi-qa-distilbert-cos-v1,sentimentality,a striking or emotional quality or state of affairs,-1
+multi-qa-distilbert-cos-v1,culture,"social practices, belief systems, the arts, and all other products of human activity and imagination, inclusive.",-1
+multi-qa-distilbert-cos-v1,hardware,Computer Science Computers and associated physical equipment directly involved in the processing of data or communication services,-1
+multi-qa-distilbert-cos-v1,cylinder,A geometrical plane in which straight lines intersect each other and move perpendicular to the horizontal axis at the rotating surface.,7
+multi-qa-distilbert-cos-v1,trap,"Another explanation is a device that traps and hangs animals, such as a hidden hole or a pincer-like device that immediately closes.",-1
+multi-qa-distilbert-cos-v1,heat,"Dictionary Definition of Force is a form of energy associated with the motion of atoms or molecules, transferred by friction through solids and liquids, by viscosity through fluids and can be non-linearly nonlinear.",-1
+multi-qa-distilbert-cos-v1,profession,career or profession One of the many compliments a child can give their parents is their career choice John Nathan,1
+multi-qa-distilbert-cos-v1,trace,Marks such as tracks made or left by animals or objects,1
+multi-qa-distilbert-cos-v1,technological,"Pertaining to or pertaining to technology, especially scientific technology",1
+multi-qa-distilbert-cos-v1,joy,happiness and especially joy or happiness,-1
+multi-qa-distilbert-cos-v1,gadget,A small specialized mechanical or electronic device is available,-1
+multi-qa-distilbert-cos-v1,kill,was killed,-1
+multi-qa-distilbert-cos-v1,systems,In terms of quantity,-1
+multi-qa-distilbert-cos-v1,innovation,the act of introducing something new,1
+multi-qa-distilbert-cos-v1,snare,Traps are usually used as nets to catch birds and small animals,-1
+multi-qa-distilbert-cos-v1,ambush,The act of believing in strength,-1
+multi-qa-distilbert-cos-v1,wheel,A wheel is a mechanical disc or circular device,-1
+multi-qa-distilbert-cos-v1,equipment,overlapping actions or events,-1
+multi-qa-distilbert-cos-v1,bounty,To give generously,-1
+multi-qa-distilbert-cos-v1,schooling,A course or course offered in a school,-1
+multi-qa-distilbert-cos-v1,gun,The dictionary definition of a firearm is a steel-barreled weapon that fires a shot with a high velocity along a smooth trajectory.,-1
+multi-qa-distilbert-cos-v1,perception,performance or teacher perception,-1
+multi-qa-distilbert-cos-v1,probe,Navigation is an exploratory activity or a device designed primarily to explore distant or unknown places and obtain information.,-1
+multi-qa-distilbert-cos-v1,music,"Ability to manipulate sounds in time to create a continuous and engaging musical experience with rhythm, harmony, rhythm and rhythm.",-1
+multi-qa-distilbert-cos-v1,learning,work or experience to acquire knowledge or skills,-1
+multi-qa-distilbert-cos-v1,happiness,Feelings of happiness,-1
+multi-qa-distilbert-cos-v1,drummer,It sounded like a drum,-1
+multi-qa-distilbert-cos-v1,manhunt,Often the culprits are being sought,-1
+multi-qa-distilbert-cos-v1,biotechnology,use of organic substances such as bacteria or yeast or enzymes to carry out industrial or manufacturing processes;,-1
+multi-qa-distilbert-cos-v1,enthusiasm,Strong enthusiasm or passion for a topic or activity,-1
+multi-qa-distilbert-cos-v1,beat,Repeated attacks,-1
+multi-qa-distilbert-cos-v1,sensation,"Perception is associated with sensory stimulation or certain physical states, such as temperature and visual sensations",-1
+multi-qa-distilbert-cos-v1,instruction,professional or educational,-1
+multi-qa-distilbert-cos-v1,software,Computer science is the programming of ancient words and symbols that control hardware functions and precise applications,-1
+multi-qa-distilbert-cos-v1,sense,"The power of awareness from outside or from within the body is perceived and experienced as the ability to hear, see, smell, touch, and balance.",-1
+multi-qa-distilbert-cos-v1,bugle,"The metal containers are slightly shorter than the trumpet, and have no keys or knobs",-1
+multi-qa-distilbert-cos-v1,consciousness,state or condition of mind,6
+multi-qa-distilbert-cos-v1,quest,act or action to obtain or carry out,-1
+multi-qa-distilbert-cos-v1,science,"Characterization, Identification, Observation, Experimental Research and Conceptual Explanation of Phenomena",1
+multi-qa-distilbert-cos-v1,forage,The act of foraging for food or supplies or sustenance,2
+multi-qa-distilbert-cos-v1,tap,Gently beat with a gentle stroke or knife,1
+multi-qa-distilbert-cos-v1,adult,adults or persons of legal age,2
+multi-qa-distilbert-cos-v1,excitement,The act or principle of change,-1
+multi-qa-distilbert-cos-v1,drum,The glossary definition of a musical instrument is a cylindrical or conical musical instrument with a ball or string played at one or both ends.,7
+multi-qa-distilbert-cos-v1,catch,"to catch or capture, especially after a chase",1
+multi-qa-distilbert-cos-v1,track,"A sign or series of signs, a thing of the past",-1
+multi-qa-distilbert-cos-v1,drive,Push Push or Push Forward Push the horse forward into the stall,2
+multi-qa-distilbert-cos-v1,mechanism,machine or machine tool,3
+multi-qa-distilbert-cos-v1,foraging,The act of foraging for food or supplies or sustenance,1
+multi-qa-distilbert-cos-v1,pursue,Following the dog’s attempt to cross or catch a pursuing fox,2
+multi-qa-distilbert-cos-v1,coeducation,"Educationally, boys and girls attend the same or the same school",1
+multi-qa-distilbert-cos-v1,electronics,phenomena of the internet of science and technology,1
+multi-qa-distilbert-cos-v1,scholarship,Disciplinary measures and an undergraduate or graduate degree,-1
+multi-qa-distilbert-cos-v1,engineering,"Apply scientific and mathematical principles, such as the design and operation of material and mechanical systems, efficiently and effectively.",1
+multi-qa-distilbert-cos-v1,transhumanism,"The dictionary definition of biotechnology and nanotechnology is a philosophy that advocates the use of science and technology, especially biotechnology, neurotechnology and nanotechnology, to overcome human limitations and improve the human condition.",1
+multi-qa-distilbert-cos-v1,hit,The vehicle collided violently,-1
+multi-qa-distilbert-cos-v1,thrum,slowly playing a placked instrument or playing the guitar in unison,6
+multi-qa-distilbert-cos-v1,education,a learning act or process or learning,1
+multi-qa-distilbert-cos-v1,snipe,"Long-billed species include the Gallinago or Capella variety, which are associated with woodpeckers and songbirds, especially the more frequent G varieties.",1
+multi-qa-distilbert-cos-v1,emotionality,emotional state or quality,1
+multi-qa-distilbert-cos-v1,university,"Universities with teaching and research facilities include graduate and professional schools offering master's and doctoral degrees, as well as undergraduate institutions offering bachelor's degrees.",1
+multi-qa-distilbert-cos-v1,trombone,"A metal device with a long cylindrical tube that doubles as a bell at the end, and a movable U-shaped shaft that produces different types of music.",1
+multi-qa-distilbert-cos-v1,vehemence,a strong contact force or force,-1
+multi-qa-distilbert-cos-v1,violence,violence or physical force,1
+multi-qa-distilbert-cos-v1,breeding,of the same blood as a born nobleman,2
+multi-qa-distilbert-cos-v1,run,Stand up quickly so that both feet leave the ground with each step,1
+multi-qa-distilbert-cos-v1,classroom,"room or place , especially in a school , where second grade and outside the classroom are taught",1
+multi-qa-distilbert-cos-v1,application,the act of performing,-1
+multi-qa-distilbert-cos-v1,search,"to find, to find something to learn",-1
+multi-qa-distilbert-cos-v1,cymbal,The dictionary definition of percussion is a high-pitched brass instrument when drummed or doubled.,1
+multi-qa-distilbert-cos-v1,didactics,Reading Instructions,-1
+multi-qa-distilbert-cos-v1,compassion,a careful awareness of the suffering of others and a desire to alleviate it,1
+multi-qa-distilbert-cos-v1,piano,The dictionary definition of an instrument is an instrument equipped with a mechanical keyboard that operates hammers on the string strings to produce a sound that can be softened or stabilized by the pedal.,-1
+multi-qa-distilbert-cos-v1,empathy,Identify and understand feelings and motivations in other situations,-1
+multi-qa-distilbert-cos-v1,tech,technology,-1
+multi-qa-distilbert-cos-v1,humility,The characteristic or state of poverty,-1
+multi-qa-distilbert-cos-v1,tambourine,"The oldest instrument in the vocabulary is usually played with hand movements and percussion, and consists of a small drum head with a vibrating disc at its base.",-1
+multi-qa-distilbert-cos-v1,feeling,a sensation associated with perception by touch,-1
+multi-qa-distilbert-cos-v1,research,Scientific or expert research or investigation,-1
+multi-qa-distilbert-cos-v1,hunt,Follow the game to food or exercise,1
+multi-qa-distilbert-cos-v1,preschool,What or what does childhood mean before starting primary school,-1
+multi-qa-distilbert-cos-v1,emotional,about or concerning emotions,-1
+multi-qa-distilbert-cos-v1,apparatus,A vehicle or device used for a specific purpose,-1
+multi-qa-distilbert-cos-v1,humanities,the nature of human population growth,-1
+multi-qa-distilbert-cos-v1,undergraduate,students or students without a bachelor’s degree or equivalent,-1
+multi-qa-distilbert-cos-v1,whale,For biological order see Cetaceans,-1
+multi-qa-distilbert-cos-v1,homeschooling,Educate children at home instead of sending them to school,-1
+multi-qa-distilbert-cos-v1,shakedown,Get it right,-1
+multi-qa-distilbert-cos-v1,tool,Equipment for making or preparing manual or mechanical work such as sawing,-1
+multi-qa-distilbert-cos-v1,emotion,"A state of mind that occurs spontaneously, without conscious effort, often accompanied by physical changes, such as joy, sadness, disgust, love.",-1
+multi-qa-distilbert-cos-v1,industry,commercial production and sale of goods,-1
+multi-qa-distilbert-cos-v1,pound,The protests were strong,-1
+multi-qa-distilbert-cos-v1,fervor,Very warm and strong-hearted,-1
+multi-qa-distilbert-cos-v1,explore,Try all the possibilities systematically,-1
+multi-qa-distilbert-cos-v1,awe,"We feel a mixed feeling of reverence, awe and wonder inspired by the tremendous power of beauty and gentleness, or terror when we think of Bach's work.",-1
+multi-qa-distilbert-cos-v1,bionics,"Because the system is electronic, biological principles are used in the study and design of engineering systems",1
+multi-qa-distilbert-cos-v1,djembe,The great West Africans played leather hand drums and some fusion music,-1

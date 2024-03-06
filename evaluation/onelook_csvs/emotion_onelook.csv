@@ -1,0 +1,39 @@
+model name,word,test set definition,ranking
+onelook.com,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,10
+onelook.com,psychology,the field of study of human behaviour,1
+onelook.com,sympathy,a feeling marked by similarity or connection,-1
+onelook.com,fear,feeling in response to danger or anticipated powerlessness or vulnerability,2
+onelook.com,chord,a collection of musical notes often creating a sentiment,-1
+onelook.com,mood,the combination of emotions felt at a point in time,1
+onelook.com,ardor,"feeling an emotion to a great extent, often enthusiasm",4
+onelook.com,anxiety,a feeling of uncertainty or fear often in anticipation,1
+onelook.com,impression,a shape or emotional state left by something,1
+onelook.com,sentiment,a collection of emotions often of a group of people regarding a particular subject,1
+onelook.com,fervency,feeling marked by strength and sincerity,-1
+onelook.com,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,-1
+onelook.com,love,"the feeling of deep affection for a small, select group of people",-1
+onelook.com,intensity,measure of forcefulness or vibrance,1
+onelook.com,anger,"strong, sometimes aggressive feeling of extreme frustration",2
+onelook.com,fire,flaming appearance of energy produced by combustion,2
+onelook.com,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,4
+onelook.com,heat,expression of high energy,-1
+onelook.com,joy,a feeling of extreme happyness or exultation,5
+onelook.com,perception,a notion created by observation,-1
+onelook.com,happiness,a positive feeling marked by pleasure or satisfaction,2
+onelook.com,enthusiasm,feeling of excitement marked by great energy and anticipation,2
+onelook.com,sensation,perception of a physical feeling,1
+onelook.com,sense,logical coherence or rationality,-1
+onelook.com,consciousness,the ability to observe one's thoughts,-1
+onelook.com,excitement,the feeling of being happy in anticipation,1
+onelook.com,emotionality,the state of having or expressing strong feelings,-1
+onelook.com,vehemence,measure of great intensity,-1
+onelook.com,violence,display or act of physical force causing harm,1
+onelook.com,compassion,the feeling or acting upon profound understanding and kindness,1
+onelook.com,empathy,the ability to put oneself into someone else's situation,1
+onelook.com,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,-1
+onelook.com,feeling,a less defined emotion,-1
+onelook.com,emotional,marked by emotion often in negative context,1
+onelook.com,emotion,a defined mental state in response to a situation or event,1
+onelook.com,fervor,a feeling marked by strength and sincerity,7
+onelook.com,awe,the state of feeling a combination of profound respect and admiration,1
+onelook.com,indignation,a feeling of anger or frustration caused by the perception of something unjust,2

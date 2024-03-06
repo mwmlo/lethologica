@@ -1,0 +1,39 @@
+model name,word,test set definition,ranking
+multi-qa-distilbert-cos-v1,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,9
+multi-qa-distilbert-cos-v1,psychology,the field of study of human behaviour,1
+multi-qa-distilbert-cos-v1,sympathy,a feeling marked by similarity or connection,1
+multi-qa-distilbert-cos-v1,fear,feeling in response to danger or anticipated powerlessness or vulnerability,1
+multi-qa-distilbert-cos-v1,chord,a collection of musical notes often creating a sentiment,-1
+multi-qa-distilbert-cos-v1,mood,the combination of emotions felt at a point in time,-1
+multi-qa-distilbert-cos-v1,ardor,"feeling an emotion to a great extent, often enthusiasm",-1
+multi-qa-distilbert-cos-v1,anxiety,a feeling of uncertainty or fear often in anticipation,-1
+multi-qa-distilbert-cos-v1,impression,a shape or emotional state left by something,-1
+multi-qa-distilbert-cos-v1,sentiment,a collection of emotions often of a group of people regarding a particular subject,-1
+multi-qa-distilbert-cos-v1,fervency,feeling marked by strength and sincerity,-1
+multi-qa-distilbert-cos-v1,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,-1
+multi-qa-distilbert-cos-v1,love,"the feeling of deep affection for a small, select group of people",-1
+multi-qa-distilbert-cos-v1,intensity,measure of forcefulness or vibrance,-1
+multi-qa-distilbert-cos-v1,anger,"strong, sometimes aggressive feeling of extreme frustration",-1
+multi-qa-distilbert-cos-v1,fire,flaming appearance of energy produced by combustion,8
+multi-qa-distilbert-cos-v1,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,-1
+multi-qa-distilbert-cos-v1,heat,expression of high energy,-1
+multi-qa-distilbert-cos-v1,joy,a feeling of extreme happyness or exultation,-1
+multi-qa-distilbert-cos-v1,perception,a notion created by observation,-1
+multi-qa-distilbert-cos-v1,happiness,a positive feeling marked by pleasure or satisfaction,-1
+multi-qa-distilbert-cos-v1,enthusiasm,feeling of excitement marked by great energy and anticipation,-1
+multi-qa-distilbert-cos-v1,sensation,perception of a physical feeling,-1
+multi-qa-distilbert-cos-v1,sense,logical coherence or rationality,-1
+multi-qa-distilbert-cos-v1,consciousness,the ability to observe one's thoughts,-1
+multi-qa-distilbert-cos-v1,excitement,the feeling of being happy in anticipation,-1
+multi-qa-distilbert-cos-v1,emotionality,the state of having or expressing strong feelings,-1
+multi-qa-distilbert-cos-v1,vehemence,measure of great intensity,-1
+multi-qa-distilbert-cos-v1,violence,display or act of physical force causing harm,2
+multi-qa-distilbert-cos-v1,compassion,the feeling or acting upon profound understanding and kindness,-1
+multi-qa-distilbert-cos-v1,empathy,the ability to put oneself into someone else's situation,-1
+multi-qa-distilbert-cos-v1,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,-1
+multi-qa-distilbert-cos-v1,feeling,a less defined emotion,-1
+multi-qa-distilbert-cos-v1,emotional,marked by emotion often in negative context,-1
+multi-qa-distilbert-cos-v1,emotion,a defined mental state in response to a situation or event,-1
+multi-qa-distilbert-cos-v1,fervor,a feeling marked by strength and sincerity,-1
+multi-qa-distilbert-cos-v1,awe,the state of feeling a combination of profound respect and admiration,-1
+multi-qa-distilbert-cos-v1,indignation,a feeling of anger or frustration caused by the perception of something unjust,-1

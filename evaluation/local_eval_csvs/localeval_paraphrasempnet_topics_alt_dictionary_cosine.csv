@@ -1,0 +1,236 @@
+model name,word,test set definition,ranking
+paraphrase-multilingual-mpnet-base-v2,probe,"Any of various medical instruments used to explore wounds, organs, etc.",12
+paraphrase-multilingual-mpnet-base-v2,drum,"A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone.",1
+paraphrase-multilingual-mpnet-base-v2,chase,The act of one who chases another; a pursuit.,2
+paraphrase-multilingual-mpnet-base-v2,swot,Vigorous study at an educational institution.,-1
+paraphrase-multilingual-mpnet-base-v2,industry,"Businesses of the same type, considered as a whole. Trade.",1
+paraphrase-multilingual-mpnet-base-v2,impression,"The overall effect of something, e.g., on a person.",1
+paraphrase-multilingual-mpnet-base-v2,hunters,One who hunts game for sport or for food; a huntsman or huntswoman.,-1
+paraphrase-multilingual-mpnet-base-v2,kindergarten,"An educational institution for young children, usually between ages 4 and 6; nursery school.",3
+paraphrase-multilingual-mpnet-base-v2,track,A mark left by something that has passed along.,1
+paraphrase-multilingual-mpnet-base-v2,explore,To seek for something or after someone.,34
+paraphrase-multilingual-mpnet-base-v2,wolves,"The gray wolf, specifically all subspecies of the gray wolf (Canis lupus) that are not dingoes or dogs.",-1
+paraphrase-multilingual-mpnet-base-v2,classwork,That part of a scholar's work that is done in class.,1
+paraphrase-multilingual-mpnet-base-v2,psychology,The study of the human mind.,1
+paraphrase-multilingual-mpnet-base-v2,university,"Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered.",1
+paraphrase-multilingual-mpnet-base-v2,canister,"A cylindrical or rectangular container usually of lightweight metal, plastic, or laminated pasteboard used for holding a dry product (as tea, crackers, flour, matches).",-1
+paraphrase-multilingual-mpnet-base-v2,saxophone,"A single-reed instrument musical instrument of the woodwind family, usually made of brass and with a distinctive loop bringing the bell upwards.",4
+paraphrase-multilingual-mpnet-base-v2,internet,Any set of computer networks that communicate using the Internet Protocol. (An intranet.),1
+paraphrase-multilingual-mpnet-base-v2,breeding,Propagation of offspring through sexual reproduction.,3
+paraphrase-multilingual-mpnet-base-v2,adult,A fully grown human or animal.,2
+paraphrase-multilingual-mpnet-base-v2,culture,"The arts, customs, lifestyles, background, and habits that characterize a particular society or nation.",1
+paraphrase-multilingual-mpnet-base-v2,trombone,"A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭).",1
+paraphrase-multilingual-mpnet-base-v2,happiness,The emotion of being happy; joy.,1
+paraphrase-multilingual-mpnet-base-v2,bugle,"A simple brass instrument consisting of a horn with no valves, playing only pitches in its harmonic series",1
+paraphrase-multilingual-mpnet-base-v2,seek,To try to find; to look for; to search for.,-1
+paraphrase-multilingual-mpnet-base-v2,teacher,"A person who teaches, especially one employed in a school.",1
+paraphrase-multilingual-mpnet-base-v2,hit,A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.,7
+paraphrase-multilingual-mpnet-base-v2,beat,"To strike or pound repeatedly, usually in some sort of rhythm.",2
+paraphrase-multilingual-mpnet-base-v2,schooling,"To educate, teach, or train (often, but not necessarily, in a school).",1
+paraphrase-multilingual-mpnet-base-v2,gun,A device for projecting a hard object very forcefully; a firearm or cannon.,1
+paraphrase-multilingual-mpnet-base-v2,humanities,"The study of language, literature, the arts, and philosophy, sometimes including religion",47
+paraphrase-multilingual-mpnet-base-v2,pail,"A vessel of wood, tin, plastic, etc., usually cylindrical and having a handle -- used especially for carrying liquids, for example water or milk; a bucket (sometimes with a cover).",2
+paraphrase-multilingual-mpnet-base-v2,foxhunt,"A hunt for foxes, usually with dogs.",1
+paraphrase-multilingual-mpnet-base-v2,society,"A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",2
+paraphrase-multilingual-mpnet-base-v2,heat,Thermal energy.,1
+paraphrase-multilingual-mpnet-base-v2,hunt,To find or search for an animal in the wild with the intention of killing the animal for its meat or for sport.,12
+paraphrase-multilingual-mpnet-base-v2,innovations,"Something new, and contrary to established customs, manners, or rites.",-1
+paraphrase-multilingual-mpnet-base-v2,membranophone,Any musical instrument that produces sound via the vibration of a stretched membrane.,-1
+paraphrase-multilingual-mpnet-base-v2,development,"The process of developing; growth, directed change.",1
+paraphrase-multilingual-mpnet-base-v2,violence,"Action which causes destruction, pain, or suffering.",1
+paraphrase-multilingual-mpnet-base-v2,computing,The process or act of calculation.,13
+paraphrase-multilingual-mpnet-base-v2,emotion,"A person's internal state of being and involuntary physiological response to an object or a situation, based on or tied to physical state and sensory data.",9
+paraphrase-multilingual-mpnet-base-v2,capture,"The securing of an object of strife or desire, as by the power of some attraction.",-1
+paraphrase-multilingual-mpnet-base-v2,drive,"Violent or rapid motion; a rushing onward or away; especially, a forced or hurried dispatch of business.",17
+paraphrase-multilingual-mpnet-base-v2,tympan,The stretched membrane of a drum.,-1
+paraphrase-multilingual-mpnet-base-v2,flute,"A woodwind instrument consisting of a tube with a row of holes that produce sound through vibrations caused by air blown across the edge of the holes, often tuned by plugging one or more holes with a finger; the Western concert flute, a transverse side-blown flute of European origin.",1
+paraphrase-multilingual-mpnet-base-v2,snipe,A shot fired from a concealed place.,-1
+paraphrase-multilingual-mpnet-base-v2,invention,The act of discovering or finding; the act of finding out; discovery.,25
+paraphrase-multilingual-mpnet-base-v2,bionics,"The design of engineering systems, especially electronic ones, based on that of biological systems.",1
+paraphrase-multilingual-mpnet-base-v2,humility,The characteristic of being humble; humbleness in character and behavior.,1
+paraphrase-multilingual-mpnet-base-v2,piano,"A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",1
+paraphrase-multilingual-mpnet-base-v2,awe,A feeling of fear and reverence.,1
+paraphrase-multilingual-mpnet-base-v2,tutelage,Instruction; teaching; guidance,9
+paraphrase-multilingual-mpnet-base-v2,medicine,A substance which specifically promotes healing when ingested or consumed in some way.,2
+paraphrase-multilingual-mpnet-base-v2,lesson,Something learned or to be learned.,6
+paraphrase-multilingual-mpnet-base-v2,student,"A person who is formally enrolled at a school, a college or university, or another educational institution.",1
+paraphrase-multilingual-mpnet-base-v2,hardware,"Fixtures, equipment, tools and devices used for general-purpose construction and repair of a structure or object. Also such equipment as sold as stock by a store of the same name, e.g. hardware store.",16
+paraphrase-multilingual-mpnet-base-v2,shoot,The act of shooting; the discharge of a missile; a shot.,1
+paraphrase-multilingual-mpnet-base-v2,computer,"A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media.",1
+paraphrase-multilingual-mpnet-base-v2,chord,A harmonic set of three or more notes that is heard as if sounding simultaneously.,1
+paraphrase-multilingual-mpnet-base-v2,pedagogy,"The activities of educating, teaching or instructing.",3
+paraphrase-multilingual-mpnet-base-v2,zeal,"The fervour or tireless devotion for a person, cause, or ideal and determination in its furtherance; diligent enthusiasm; powerful interest.",-1
+paraphrase-multilingual-mpnet-base-v2,school,"An educational institution providing primary and secondary education, prior to tertiary education (college or university).",3
+paraphrase-multilingual-mpnet-base-v2,knock,"An abrupt rapping sound, as from an impact of a hard object against wood.",4
+paraphrase-multilingual-mpnet-base-v2,classroom,"A room, often in a school, where classes take place",1
+paraphrase-multilingual-mpnet-base-v2,band,"A group of musicians who perform together as an ensemble, usually for a professional recording artist.",1
+paraphrase-multilingual-mpnet-base-v2,sympathy,A feeling of pity or sorrow for the suffering or distress of another; compassion.,10
+paraphrase-multilingual-mpnet-base-v2,technology,The organization of knowledge for practical purposes.,10
+paraphrase-multilingual-mpnet-base-v2,bongo,"Either of a pair of small drums of Cuban origin, played by beating with the hands.",1
+paraphrase-multilingual-mpnet-base-v2,telephone,"A telecommunication device (originally mechanical, and now electronic) used for two-way talking with another person (now often shortened to phone).",9
+paraphrase-multilingual-mpnet-base-v2,progress,"Movement or advancement through a series of events, or points in time; development through time.",1
+paraphrase-multilingual-mpnet-base-v2,tin,"An airtight container, made of tin or another metal, used to preserve food.",10
+paraphrase-multilingual-mpnet-base-v2,pound,"To strike hard, usually repeatedly.",1
+paraphrase-multilingual-mpnet-base-v2,stalk,To approach slowly and quietly in order not to be discovered when getting closer.,-1
+paraphrase-multilingual-mpnet-base-v2,tools,A mechanical device intended to make a task easier.,-1
+paraphrase-multilingual-mpnet-base-v2,robotics,"The science and technology of robots, their design, manufacture, and application",1
+paraphrase-multilingual-mpnet-base-v2,wheel,"A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",2
+paraphrase-multilingual-mpnet-base-v2,falcon,"Any bird of the genus Falco, all of which are birds of prey.",1
+paraphrase-multilingual-mpnet-base-v2,rap,A sharp blow with something hard.,4
+paraphrase-multilingual-mpnet-base-v2,learning,"To acquire, or attempt to acquire knowledge or an ability to do something.",1
+paraphrase-multilingual-mpnet-base-v2,disgust,An intense dislike or loathing someone feels for something bad or nasty.,-1
+paraphrase-multilingual-mpnet-base-v2,harmonica,"A musical wind instrument with a series of holes for the player to blow into, each hole producing a different note",3
+paraphrase-multilingual-mpnet-base-v2,expertise,Great skill or knowledge in a particular field or hobby.,32
+paraphrase-multilingual-mpnet-base-v2,preschool,A nursery school.,5
+paraphrase-multilingual-mpnet-base-v2,perception,"The organisation, identification and interpretation of sensory information.",1
+paraphrase-multilingual-mpnet-base-v2,communication,The concept or state of exchanging data or information between entities.,1
+paraphrase-multilingual-mpnet-base-v2,automation,"The act or process of converting the controlling of a machine or device to a more automatic system, such as computer or electronic controls.",1
+paraphrase-multilingual-mpnet-base-v2,bang,A sudden percussive noise.,-1
+paraphrase-multilingual-mpnet-base-v2,quest,"A journey or effort in pursuit of a goal (often lengthy, ambitious, or fervent); a mission.",3
+paraphrase-multilingual-mpnet-base-v2,orchestral,Relating to an orchestra or to music played by an orchestra.,1
+paraphrase-multilingual-mpnet-base-v2,sentimentality,An act or state of being sentimental.,1
+paraphrase-multilingual-mpnet-base-v2,mechanism,"(within a machine or machinery) Any mechanical means for the conversion or control of motion, or the transmission or control of power.",1
+paraphrase-multilingual-mpnet-base-v2,tambourine,"A percussion instrument consisting of a small, usually wooden, hoop closed on one side with a drum frame and featuring jingling metal disks on the tread; it is most often held in the hand and shaken rhythmically; by extension, any frame drum.",1
+paraphrase-multilingual-mpnet-base-v2,cylinder,Any object in the form of a circular cylinder.,67
+paraphrase-multilingual-mpnet-base-v2,cymbal,"A concave plate of brass or bronze that produces a sharp, ringing sound when struck: played either in pairs, by striking them together, or singly by striking with a drumstick or the like.",1
+paraphrase-multilingual-mpnet-base-v2,manhunt,An organized search for a criminal or enemy.,1
+paraphrase-multilingual-mpnet-base-v2,trace,A residue of some substance or material.,1
+paraphrase-multilingual-mpnet-base-v2,tenderness,"A tendency to express warm, compassionate feelings",-1
+paraphrase-multilingual-mpnet-base-v2,experience,"A collection of events and/or activities from which an individual or group may gather knowledge, opinions, and skills.",71
+paraphrase-multilingual-mpnet-base-v2,percussion,The collision of two bodies in order to produce a sound.,1
+paraphrase-multilingual-mpnet-base-v2,hunting,"The act of finding and killing a wild animal, either for sport or with the intention of using its parts to make food, clothes, etc.",22
+paraphrase-multilingual-mpnet-base-v2,thump,A blow that produces a muffled sound.,2
+paraphrase-multilingual-mpnet-base-v2,capabilities,The power or ability to generate an outcome,-1
+paraphrase-multilingual-mpnet-base-v2,instrument,A device used to produce music.,4
+paraphrase-multilingual-mpnet-base-v2,predation,The action of attacking or plundering.,1
+paraphrase-multilingual-mpnet-base-v2,transhumanism,"A philosophy favouring the use of science and technology, especially neurotechnology, biotechnology, and nanotechnology, to overcome human limitations and improve the human condition.",1
+paraphrase-multilingual-mpnet-base-v2,shop,"An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",1
+paraphrase-multilingual-mpnet-base-v2,barrel,"A round vessel or cask, of greater length than breadth, and bulging in the middle, made of staves bound with hoops, and having flat ends or heads. Sometimes applied to a similar cylindrical container made of metal, usually called a drum.",1
+paraphrase-multilingual-mpnet-base-v2,shakedown,"Extortion, especially through blackmail",77
+paraphrase-multilingual-mpnet-base-v2,research,"Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth.",1
+paraphrase-multilingual-mpnet-base-v2,ardor,Great warmth of feeling; fervor; passion.,2
+paraphrase-multilingual-mpnet-base-v2,consciousness,The state of being conscious or aware; awareness.,1
+paraphrase-multilingual-mpnet-base-v2,preparation,The act of preparing or getting ready.,1
+paraphrase-multilingual-mpnet-base-v2,whale,Any of several species of large sea mammals of the infraorder Cetacea.,1
+paraphrase-multilingual-mpnet-base-v2,curriculum,"The set of courses, coursework, and their content, offered at a school or university.",1
+paraphrase-multilingual-mpnet-base-v2,teaching,The profession of educating people.,-1
+paraphrase-multilingual-mpnet-base-v2,innovation,"Something new, and contrary to established customs, manners, or rites.",1
+paraphrase-multilingual-mpnet-base-v2,technological,"Of, relating to, or involving technology, especially modern scientific technology.",1
+paraphrase-multilingual-mpnet-base-v2,run,"Act or instance of running, of moving rapidly using the feet.",1
+paraphrase-multilingual-mpnet-base-v2,bone,A composite material consisting largely of calcium phosphate and collagen and making up the skeleton of most vertebrates.,-1
+paraphrase-multilingual-mpnet-base-v2,djembe,"A large, skin-covered drum played with the hands, used in West African and some fusion music.",1
+paraphrase-multilingual-mpnet-base-v2,equipment,"The act of equipping, or the state of being equipped, as for a voyage or expedition.",1
+paraphrase-multilingual-mpnet-base-v2,sound,A sensation perceived by the ear caused by the vibration of air or some other medium.,1
+paraphrase-multilingual-mpnet-base-v2,vehemence,A wild or turbulent ferocity or fury.,16
+paraphrase-multilingual-mpnet-base-v2,engineering,"To design, construct or manage something as an engineer.",1
+paraphrase-multilingual-mpnet-base-v2,devices,"Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",31
+paraphrase-multilingual-mpnet-base-v2,academic,"A senior member of an academy, college, or university; a person who attends an academy; a person engaged in scholarly pursuits; one who is academic in practice.",-1
+paraphrase-multilingual-mpnet-base-v2,digital,"Property of representing values as discrete, usually binary, numbers rather than a continuous spectrum.",2
+paraphrase-multilingual-mpnet-base-v2,nanotechnology,The science and technology of creating nanoparticles and of manufacturing machines which have sizes within the range of nanometres.,1
+paraphrase-multilingual-mpnet-base-v2,bat,"Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",45
+paraphrase-multilingual-mpnet-base-v2,slam,A sudden impact or blow.,3
+paraphrase-multilingual-mpnet-base-v2,wireless,The medium of radio communication.,3
+paraphrase-multilingual-mpnet-base-v2,literacy,The ability to read and write.,1
+paraphrase-multilingual-mpnet-base-v2,gadget,"Any device or machine, especially one whose name cannot be recalled. Often either clever or complicated.",1
+paraphrase-multilingual-mpnet-base-v2,pursue,"To follow urgently, originally with intent to capture or harm; to chase.",3
+paraphrase-multilingual-mpnet-base-v2,frustration,The feeling of annoyance when one's actions are criticized or hindered,1
+paraphrase-multilingual-mpnet-base-v2,device,"Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",8
+paraphrase-multilingual-mpnet-base-v2,fervor,A passionate enthusiasm for some cause.,8
+paraphrase-multilingual-mpnet-base-v2,apprenticeship,The system by which a person learning a craft or trade is instructed by a master for a set time under set conditions.,1
+paraphrase-multilingual-mpnet-base-v2,catch,The act of seizing or capturing.,1
+paraphrase-multilingual-mpnet-base-v2,tool,A mechanical device intended to make a task easier.,4
+paraphrase-multilingual-mpnet-base-v2,pursuit,The act of pursuing.,1
+paraphrase-multilingual-mpnet-base-v2,anxiety,"An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",2
+paraphrase-multilingual-mpnet-base-v2,energy,The impetus behind all motion and all activity.,1
+paraphrase-multilingual-mpnet-base-v2,search,An attempt to find something.,4
+paraphrase-multilingual-mpnet-base-v2,indignation,A self-righteous anger or disgust.,-1
+paraphrase-multilingual-mpnet-base-v2,training,To practice an ability.,2
+paraphrase-multilingual-mpnet-base-v2,attitude,The position of the body or way of carrying oneself.,-1
+paraphrase-multilingual-mpnet-base-v2,cram,The act of cramming (forcing or stuffing something).,1
+paraphrase-multilingual-mpnet-base-v2,guitar,"A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick).",1
+paraphrase-multilingual-mpnet-base-v2,can,"A more or less cylindrical vessel for liquids, usually of steel or aluminium, but sometimes of plastic, and with a carrying handle over the top.",10
+paraphrase-multilingual-mpnet-base-v2,drummer,One who plays the drums.,1
+paraphrase-multilingual-mpnet-base-v2,education,"The process of imparting knowledge, skill and judgment.",2
+paraphrase-multilingual-mpnet-base-v2,pat,"A light tap or slap, especially with the hands",1
+paraphrase-multilingual-mpnet-base-v2,fire,"A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",46
+paraphrase-multilingual-mpnet-base-v2,jealousy,A resentment towards someone for a perceived advantage or superiority they hold.,-1
+paraphrase-multilingual-mpnet-base-v2,electronics,The study and use of electrical devices that operate by controlling the flow of electrons or other electrically charged particles or by converting the flow of charged particles to or from other forms of energy.,2
+paraphrase-multilingual-mpnet-base-v2,searching,To look in (a place) for something.,22
+paraphrase-multilingual-mpnet-base-v2,erudition,"Profound knowledge, especially that based on learning and scholarship.",1
+paraphrase-multilingual-mpnet-base-v2,computers,"A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media.",-1
+paraphrase-multilingual-mpnet-base-v2,dog,"A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",1
+paraphrase-multilingual-mpnet-base-v2,club,"An association of members joining together for some common purpose, especially sports or recreation.",61
+paraphrase-multilingual-mpnet-base-v2,college,A specialized division of a university.,-1
+paraphrase-multilingual-mpnet-base-v2,muzzleloader,A variety of firearm in which the weapon is loaded from the end that discharges the projectile (the muzzle).,-1
+paraphrase-multilingual-mpnet-base-v2,sense,"Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",1
+paraphrase-multilingual-mpnet-base-v2,drumfish,Any fish of the family Sciaenidae; they make a loud noise by means of an air bladder.,-1
+paraphrase-multilingual-mpnet-base-v2,ergonomics,"The science of the design of equipment, especially so as to reduce operator fatigue, discomfort and injury.",-1
+paraphrase-multilingual-mpnet-base-v2,music,"A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",1
+paraphrase-multilingual-mpnet-base-v2,prey,A living thing that is eaten by another living thing.,1
+paraphrase-multilingual-mpnet-base-v2,excitement,The state of being excited (emotionally aroused).,13
+paraphrase-multilingual-mpnet-base-v2,undergraduate,A student at a university who has not yet received a degree.,1
+paraphrase-multilingual-mpnet-base-v2,trap,"A machine or other device designed to catch (and sometimes kill) animals, either by holding them in a container, or by catching hold of part of the body.",1
+paraphrase-multilingual-mpnet-base-v2,scholarship,A grant-in-aid to a student.,24
+paraphrase-multilingual-mpnet-base-v2,empathy,"Identification with or understanding of the thoughts, feelings, or emotional state of another person.",1
+paraphrase-multilingual-mpnet-base-v2,machine,"A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",1
+paraphrase-multilingual-mpnet-base-v2,homework,"Work that is done at home, especially school exercises assigned by a teacher.",1
+paraphrase-multilingual-mpnet-base-v2,ambush,The act of concealing oneself and lying in wait to attack by surprise.,1
+paraphrase-multilingual-mpnet-base-v2,science,"A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",75
+paraphrase-multilingual-mpnet-base-v2,hunter,One who hunts game for sport or for food; a huntsman or huntswoman.,1
+paraphrase-multilingual-mpnet-base-v2,thrum,"To cause a steady rhythmic vibration, usually by plucking.",8
+paraphrase-multilingual-mpnet-base-v2,trumpet,"A musical instrument of the brass family, generally tuned to the key of B-flat; by extension, any type of lip-vibrated aerophone, most often valveless and not chromatic.",2
+paraphrase-multilingual-mpnet-base-v2,jazz,"A musical art form rooted in West African cultural and musical expression and in the African American blues tradition, with diverse influences over time, commonly characterized by blue notes, syncopation, swing, call and response, polyrhythms and improvisation.",1
+paraphrase-multilingual-mpnet-base-v2,bounty,"A reward for some specific act, especially one given by an authority or a government.",9
+paraphrase-multilingual-mpnet-base-v2,coeducation,The education of male and female students in the same institution,1
+paraphrase-multilingual-mpnet-base-v2,application,A computer program or the set of software that the end user perceives as a single entity as a tool for a well-defined purpose. (Also called: application program; application software.),29
+paraphrase-multilingual-mpnet-base-v2,timpani,The set of precision kettledrums in an orchestra.,1
+paraphrase-multilingual-mpnet-base-v2,fowl,A bird.,1
+paraphrase-multilingual-mpnet-base-v2,feeling,"Sensation, particularly through the skin.",1
+paraphrase-multilingual-mpnet-base-v2,sensation,A physical feeling or perception from something that comes into contact with the body; something sensed.,2
+paraphrase-multilingual-mpnet-base-v2,ferret,"An often domesticated mammal (Mustela putorius furo) rather like a weasel, descended from the polecat and often trained to hunt burrowing animals.",1
+paraphrase-multilingual-mpnet-base-v2,scouring,"To clean, polish, or wash something by rubbing and scrubbing it vigorously, frequently with an abrasive or cleaning agent.",8
+paraphrase-multilingual-mpnet-base-v2,sadness,The state or emotion of being sad.,1
+paraphrase-multilingual-mpnet-base-v2,kill,The act of killing.,1
+paraphrase-multilingual-mpnet-base-v2,instruction,"The act of instructing, teaching, or furnishing with information or knowledge.",2
+paraphrase-multilingual-mpnet-base-v2,sentiment,"A general thought, feeling, or sense.",6
+paraphrase-multilingual-mpnet-base-v2,enthusiasm,Intensity of feeling; excited interest or eagerness.,2
+paraphrase-multilingual-mpnet-base-v2,compassion,"Deep awareness of the suffering of another, coupled with the wish to relieve it.",1
+paraphrase-multilingual-mpnet-base-v2,homeschooling,Teaching children at home instead of sending them to school.,1
+paraphrase-multilingual-mpnet-base-v2,sociology,"The study of society, human social interaction and the rules and processes that bind and separate people not only as individuals, but as members of associations, groups and institutions",-1
+paraphrase-multilingual-mpnet-base-v2,fear,"A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",1
+paraphrase-multilingual-mpnet-base-v2,knowledge,Awareness of a particular fact or situation; a state of having been informed or made aware of something.,1
+paraphrase-multilingual-mpnet-base-v2,joy,"A feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good.",1
+paraphrase-multilingual-mpnet-base-v2,emotional,Of or relating to the emotions.,1
+paraphrase-multilingual-mpnet-base-v2,biotechnology,"The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",1
+paraphrase-multilingual-mpnet-base-v2,manufacturing,"To make things, usually on a large scale, with tools and either physical labor or machinery.",5
+paraphrase-multilingual-mpnet-base-v2,tech,Technology,1
+paraphrase-multilingual-mpnet-base-v2,love,Strong affection.,1
+paraphrase-multilingual-mpnet-base-v2,technical,"Of or pertaining to the useful or mechanic arts, or to any academic, legal, science, engineering, business, or the like terminology with specific and precise meaning or (frequently, as a degree of distinction) shades of meaning; specially appropriate to any art, science or engineering field, or business",1
+paraphrase-multilingual-mpnet-base-v2,tuition,The training or instruction provided by a teacher or tutor.,21
+paraphrase-multilingual-mpnet-base-v2,snare,A set of stiff wires held under tension against the lower skin of a drum to create a rattling sound.,35
+paraphrase-multilingual-mpnet-base-v2,affection,A feeling of love or strong attachment.,-1
+paraphrase-multilingual-mpnet-base-v2,tap,"To touch one's finger, foot, or other body parts on a surface (usually) repeatedly.",6
+paraphrase-multilingual-mpnet-base-v2,apparatus,A complex machine or instrument.,6
+paraphrase-multilingual-mpnet-base-v2,biomedical,A product of the biomedicine industry.,1
+paraphrase-multilingual-mpnet-base-v2,forage,(of an animal) To seek out and eat food.,2
+paraphrase-multilingual-mpnet-base-v2,skill,To have personal or practical knowledge; be versed or practised; be expert or dextrous.,1
+paraphrase-multilingual-mpnet-base-v2,tutoring,"To instruct or teach, especially an individual or small group.",7
+paraphrase-multilingual-mpnet-base-v2,clap,"The act of striking the palms of the hands, or any two surfaces, together.",2
+paraphrase-multilingual-mpnet-base-v2,prospect,The act of looking forward; foresight; anticipation.,22
+paraphrase-multilingual-mpnet-base-v2,passion,"Any great, strong, powerful emotion, especially romantic love or extreme hate.",-1
+paraphrase-multilingual-mpnet-base-v2,drumhead,"The thin circle of material attached to the top of a drum shell for the purpose of striking, sometimes made of skin and in such occurrences sometimes referred to as a skin, or drum-skin, but often synthetic.",1
+paraphrase-multilingual-mpnet-base-v2,poachers,"A person who trespasses in order to take game illegally, one who poaches; a person who illegally takes animals or plants from the wild.",-1
+paraphrase-multilingual-mpnet-base-v2,bucket,"A container made of rigid material, often with a handle, used to carry liquids or small items.",2
+paraphrase-multilingual-mpnet-base-v2,anger,"A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",1
+paraphrase-multilingual-mpnet-base-v2,profession,"An occupation, trade, craft, or activity in which one has a professed expertise in a particular area; a job, especially one requiring a high level of skill or training.",16
+paraphrase-multilingual-mpnet-base-v2,intensity,The degree of strength.,2
+paraphrase-multilingual-mpnet-base-v2,educational,"Instructive, or helping to educate.",3
+paraphrase-multilingual-mpnet-base-v2,systems,A collection of organized things; a whole composed of relationships among its members.,3
+paraphrase-multilingual-mpnet-base-v2,hound,"A dog, particularly a breed with a good sense of smell developed for hunting other animals.",1
+paraphrase-multilingual-mpnet-base-v2,course,A path that something or someone moves along.,-1
+paraphrase-multilingual-mpnet-base-v2,software,"Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",1
+paraphrase-multilingual-mpnet-base-v2,scientific,"Of, or having to do with science.",1
+paraphrase-multilingual-mpnet-base-v2,applications,"The act of applying or laying on, in a literal sense",-1
+paraphrase-multilingual-mpnet-base-v2,mood,"A mental or emotional state, composure.",1
+paraphrase-multilingual-mpnet-base-v2,warmth,A moderate degree of heat; the sensation of being warm.,-1
+paraphrase-multilingual-mpnet-base-v2,foraging,"To search for and gather food for animals, particularly cattle and horses.",3

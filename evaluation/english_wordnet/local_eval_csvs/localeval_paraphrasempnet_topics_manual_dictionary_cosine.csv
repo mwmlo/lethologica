@@ -1,0 +1,215 @@
+model name,word,test set definition,ranking
+paraphrase-multilingual-mpnet-base-v2,can,a cylindrical container made from metal,3
+paraphrase-multilingual-mpnet-base-v2,timpani,a thunder-like drum,13
+paraphrase-multilingual-mpnet-base-v2,sound,"distinguishable, audible signal",1
+paraphrase-multilingual-mpnet-base-v2,guitar,a popular musical instrument with strings and fretted fingerboard,3
+paraphrase-multilingual-mpnet-base-v2,orchestral,marked by involvement of an orchestra,1
+paraphrase-multilingual-mpnet-base-v2,cannister,"a round container with a lid, usually made from metal",7
+paraphrase-multilingual-mpnet-base-v2,trumpet,a musical instrument made from brass associated with fanfares,2
+paraphrase-multilingual-mpnet-base-v2,bucket,a cylindrical container with top face as opening often with a handle,2
+paraphrase-multilingual-mpnet-base-v2,saxophone,a reeded instrument often used in jazz music,76
+paraphrase-multilingual-mpnet-base-v2,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,1
+paraphrase-multilingual-mpnet-base-v2,bat,a wooden tool designed to hit something,84
+paraphrase-multilingual-mpnet-base-v2,barrel,a large cylindrical container made from wood,2
+paraphrase-multilingual-mpnet-base-v2,cram,to force large amount into a smaller space,1
+paraphrase-multilingual-mpnet-base-v2,harmonica,"a small, informal musical instrument played by mouth producing chords",8
+paraphrase-multilingual-mpnet-base-v2,thump,a blunt sound,10
+paraphrase-multilingual-mpnet-base-v2,band,an informal group of musicians,1
+paraphrase-multilingual-mpnet-base-v2,pat,a gentle but fast touch with fingers or palm,2
+paraphrase-multilingual-mpnet-base-v2,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",2
+paraphrase-multilingual-mpnet-base-v2,tin,a small container made from metal,4
+paraphrase-multilingual-mpnet-base-v2,rap,spoken song often marked by speed,8
+paraphrase-multilingual-mpnet-base-v2,drumhead,material making up the vibrating surface of a drum,6
+paraphrase-multilingual-mpnet-base-v2,bongo,a small hand drum often attached in a pair,1
+paraphrase-multilingual-mpnet-base-v2,knock,swiftly hit surface with knuckles creating a sound,7
+paraphrase-multilingual-mpnet-base-v2,pail,a cylindrical container with top face as opening often with a handle,3
+paraphrase-multilingual-mpnet-base-v2,clap,a swift motion connecting the palms of one's hands creating a sound,13
+paraphrase-multilingual-mpnet-base-v2,slam,to move something forcefully with the expectation it comes to a quick stop,10
+paraphrase-multilingual-mpnet-base-v2,percussion,the collection of instruments or sounds produced by hitting objects,2
+paraphrase-multilingual-mpnet-base-v2,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,3
+paraphrase-multilingual-mpnet-base-v2,snare,a small trap for animals,1
+paraphrase-multilingual-mpnet-base-v2,music,the artistical and intentional arrangement of sounds,1
+paraphrase-multilingual-mpnet-base-v2,drummer,someone who plays the drums,1
+paraphrase-multilingual-mpnet-base-v2,beat,a rhythm created by percussion,2
+paraphrase-multilingual-mpnet-base-v2,bugle,"a small, simple signaling brass instrument",1
+paraphrase-multilingual-mpnet-base-v2,tap,to pat gently with fingertips,2
+paraphrase-multilingual-mpnet-base-v2,drum,percussive instrument often used to create rhythm,2
+paraphrase-multilingual-mpnet-base-v2,hit,forceful and fast motion to connect with object,16
+paraphrase-multilingual-mpnet-base-v2,thrum,a motion to play all strings of a guitar,3
+paraphrase-multilingual-mpnet-base-v2,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+paraphrase-multilingual-mpnet-base-v2,cymbal,percussive instrument made from thin metal often used in pairs,12
+paraphrase-multilingual-mpnet-base-v2,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+paraphrase-multilingual-mpnet-base-v2,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",5
+paraphrase-multilingual-mpnet-base-v2,pound,to knock bluntly and repeatedly,4
+paraphrase-multilingual-mpnet-base-v2,djembe,"a goblet shaped, african drum played with hands",-1
+paraphrase-multilingual-mpnet-base-v2,educationist,someone who educates or reasons about education as a profession,2
+paraphrase-multilingual-mpnet-base-v2,lyceum,a small lecture theatre,1
+paraphrase-multilingual-mpnet-base-v2,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",2
+paraphrase-multilingual-mpnet-base-v2,development,progress in growth as a child,11
+paraphrase-multilingual-mpnet-base-v2,society,a set of conventions and norms set in place by a community of humans,7
+paraphrase-multilingual-mpnet-base-v2,lesson,a unit of teaching in time or topic,2
+paraphrase-multilingual-mpnet-base-v2,course,a collection of lessons often with a unified goal or story,1
+paraphrase-multilingual-mpnet-base-v2,classwork,component of learning that is actively completed in class,2
+paraphrase-multilingual-mpnet-base-v2,homework,component of learning that is completed at home after time spent with a teacher,5
+paraphrase-multilingual-mpnet-base-v2,teacher,leader and educator of a class with specialised knowledge,1
+paraphrase-multilingual-mpnet-base-v2,tuition,specialised teaching often personalised or paid for,2
+paraphrase-multilingual-mpnet-base-v2,tutoring,private often additional teaching,-1
+paraphrase-multilingual-mpnet-base-v2,knowledge,collection of justified beliefs able to be recalled,37
+paraphrase-multilingual-mpnet-base-v2,experience,knowledge gained by having observed a variety of situations,5
+paraphrase-multilingual-mpnet-base-v2,skill,practical knowledge,26
+paraphrase-multilingual-mpnet-base-v2,training,practise of a special skill often with instruction,3
+paraphrase-multilingual-mpnet-base-v2,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,11
+paraphrase-multilingual-mpnet-base-v2,literacy,being able to read and write,1
+paraphrase-multilingual-mpnet-base-v2,preparation,the process of transitioning into a state of readiness for a certain task,1
+paraphrase-multilingual-mpnet-base-v2,erudition,"having or obtaining rare, deep knowledge",7
+paraphrase-multilingual-mpnet-base-v2,tutelage,"private, individual teaching",1
+paraphrase-multilingual-mpnet-base-v2,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",3
+paraphrase-multilingual-mpnet-base-v2,educational,with benefit regarding teaching or learning,7
+paraphrase-multilingual-mpnet-base-v2,school,institution of teaching and learning,1
+paraphrase-multilingual-mpnet-base-v2,student,a person being taught in an institution,2
+paraphrase-multilingual-mpnet-base-v2,pedagogy,the academic study of approaches to teaching and education,7
+paraphrase-multilingual-mpnet-base-v2,curriculum,a pre-set outline of topics of study,4
+paraphrase-multilingual-mpnet-base-v2,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",1
+paraphrase-multilingual-mpnet-base-v2,profession,a primary occupation one earns money with,4
+paraphrase-multilingual-mpnet-base-v2,schooling,the collection of instruction and teaching given at an institution often a school,2
+paraphrase-multilingual-mpnet-base-v2,learning,the process of acquiring a skill or knowledge,1
+paraphrase-multilingual-mpnet-base-v2,instruction,the process of telling someone what to do and how to do it,3
+paraphrase-multilingual-mpnet-base-v2,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",-1
+paraphrase-multilingual-mpnet-base-v2,adult,someone responsible for oneself,-1
+paraphrase-multilingual-mpnet-base-v2,coeducation,the educational paradigm of mixing children of different genders at school,1
+paraphrase-multilingual-mpnet-base-v2,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,1
+paraphrase-multilingual-mpnet-base-v2,education,the field of learning and teaching,1
+paraphrase-multilingual-mpnet-base-v2,university,an institution of higher learning marked by programs that award degrees and research,2
+paraphrase-multilingual-mpnet-base-v2,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,1
+paraphrase-multilingual-mpnet-base-v2,classroom,a room designated for teaching small groups,1
+paraphrase-multilingual-mpnet-base-v2,didactics,"teaching in a unforgiving, stern manner often moral",32
+paraphrase-multilingual-mpnet-base-v2,research,gathering of knowledge and novel insights,1
+paraphrase-multilingual-mpnet-base-v2,preschool,"time, age or institution before school",5
+paraphrase-multilingual-mpnet-base-v2,humanities,a collection of fields of study relating to the human experience,51
+paraphrase-multilingual-mpnet-base-v2,undergraduate,before obtaining a degree,3
+paraphrase-multilingual-mpnet-base-v2,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,-1
+paraphrase-multilingual-mpnet-base-v2,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,1
+paraphrase-multilingual-mpnet-base-v2,psychology,the field of study of human behaviour,17
+paraphrase-multilingual-mpnet-base-v2,sympathy,a feeling marked by similarity or connection,6
+paraphrase-multilingual-mpnet-base-v2,fear,feeling in response to danger or anticipated powerlessness or vulnerability,1
+paraphrase-multilingual-mpnet-base-v2,chord,a collection of musical notes often creating a sentiment,1
+paraphrase-multilingual-mpnet-base-v2,mood,the combination of emotions felt at a point in time,19
+paraphrase-multilingual-mpnet-base-v2,ardor,"feeling an emotion to a great extent, often enthusiasm",3
+paraphrase-multilingual-mpnet-base-v2,anxiety,a feeling of uncertainty or fear often in anticipation,4
+paraphrase-multilingual-mpnet-base-v2,impression,a shape or emotional state left by something,33
+paraphrase-multilingual-mpnet-base-v2,sentiment,a collection of emotions often of a group of people regarding a particular subject,20
+paraphrase-multilingual-mpnet-base-v2,fervency,feeling marked by strength and sincerity,28
+paraphrase-multilingual-mpnet-base-v2,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,18
+paraphrase-multilingual-mpnet-base-v2,love,"the feeling of deep affection for a small, select group of people",1
+paraphrase-multilingual-mpnet-base-v2,intensity,measure of forcefulness or vibrance,7
+paraphrase-multilingual-mpnet-base-v2,anger,"strong, sometimes aggressive feeling of extreme frustration",1
+paraphrase-multilingual-mpnet-base-v2,fire,flaming appearance of energy produced by combustion,1
+paraphrase-multilingual-mpnet-base-v2,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,10
+paraphrase-multilingual-mpnet-base-v2,heat,expression of high energy,1
+paraphrase-multilingual-mpnet-base-v2,joy,a feeling of extreme happyness or exultation,2
+paraphrase-multilingual-mpnet-base-v2,perception,a notion created by observation,1
+paraphrase-multilingual-mpnet-base-v2,happiness,a positive feeling marked by pleasure or satisfaction,7
+paraphrase-multilingual-mpnet-base-v2,enthusiasm,feeling of excitement marked by great energy and anticipation,1
+paraphrase-multilingual-mpnet-base-v2,sensation,perception of a physical feeling,23
+paraphrase-multilingual-mpnet-base-v2,sense,logical coherence or rationality,6
+paraphrase-multilingual-mpnet-base-v2,consciousness,the ability to observe one's thoughts,14
+paraphrase-multilingual-mpnet-base-v2,excitement,the feeling of being happy in anticipation,5
+paraphrase-multilingual-mpnet-base-v2,emotionality,the state of having or expressing strong feelings,38
+paraphrase-multilingual-mpnet-base-v2,vehemence,measure of great intensity,3
+paraphrase-multilingual-mpnet-base-v2,violence,display or act of physical force causing harm,3
+paraphrase-multilingual-mpnet-base-v2,compassion,the feeling or acting upon profound understanding and kindness,8
+paraphrase-multilingual-mpnet-base-v2,empathy,the ability to put oneself into someone else's situation,1
+paraphrase-multilingual-mpnet-base-v2,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,13
+paraphrase-multilingual-mpnet-base-v2,feeling,a less defined emotion,5
+paraphrase-multilingual-mpnet-base-v2,emotional,marked by emotion often in negative context,1
+paraphrase-multilingual-mpnet-base-v2,emotion,a defined mental state in response to a situation or event,-1
+paraphrase-multilingual-mpnet-base-v2,fervor,a feeling marked by strength and sincerity,27
+paraphrase-multilingual-mpnet-base-v2,awe,the state of feeling a combination of profound respect and admiration,2
+paraphrase-multilingual-mpnet-base-v2,indignation,a feeling of anger or frustration caused by the perception of something unjust,1
+paraphrase-multilingual-mpnet-base-v2,look,to focus one's gaze in a particular direction,1
+paraphrase-multilingual-mpnet-base-v2,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",1
+paraphrase-multilingual-mpnet-base-v2,falcon,a bird of prey often trained for hunting,1
+paraphrase-multilingual-mpnet-base-v2,ferret,"a small, domesticated mammal used for hunting rabbits",1
+paraphrase-multilingual-mpnet-base-v2,fowl,a type of bird kept for producing meat or eggs,1
+paraphrase-multilingual-mpnet-base-v2,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,19
+paraphrase-multilingual-mpnet-base-v2,shoot,fire a projectile or arrow at a target with a weapon,2
+paraphrase-multilingual-mpnet-base-v2,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,1
+paraphrase-multilingual-mpnet-base-v2,predation,"the process of a predator hunting, killing and eating its prey",1
+paraphrase-multilingual-mpnet-base-v2,hunter,someone who hunts,1
+paraphrase-multilingual-mpnet-base-v2,prey,an animal that is the object of hunting,1
+paraphrase-multilingual-mpnet-base-v2,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,20
+paraphrase-multilingual-mpnet-base-v2,scouring,to search carefully with vigorous effort,37
+paraphrase-multilingual-mpnet-base-v2,shop,an institution or place offering goods for sale,1
+paraphrase-multilingual-mpnet-base-v2,hound,a type of dog bred or trained for hunting,1
+paraphrase-multilingual-mpnet-base-v2,chase,to follow in an effort to catch or attack,1
+paraphrase-multilingual-mpnet-base-v2,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",2
+paraphrase-multilingual-mpnet-base-v2,prospect,the outlook or anticipated result,2
+paraphrase-multilingual-mpnet-base-v2,club,a heavy wooden bat used as a weapon,6
+paraphrase-multilingual-mpnet-base-v2,pursuit,the process of following a particular object or goal in focus,47
+paraphrase-multilingual-mpnet-base-v2,trap,a device or situation that appears to be something else but is designed to capture a victim,1
+paraphrase-multilingual-mpnet-base-v2,trace,a series of hints or marks that can be followed,1
+paraphrase-multilingual-mpnet-base-v2,kill,to take the life of something,1
+paraphrase-multilingual-mpnet-base-v2,snare,a small trap for an animal,1
+paraphrase-multilingual-mpnet-base-v2,ambush,a surprise attack,1
+paraphrase-multilingual-mpnet-base-v2,bounty,money advertised to be payed in reward of some action,1
+paraphrase-multilingual-mpnet-base-v2,gun,a weapon made from metal that fires a bullet,2
+paraphrase-multilingual-mpnet-base-v2,probe,to carefully advance,40
+paraphrase-multilingual-mpnet-base-v2,manhunt,an organised search for a person,2
+paraphrase-multilingual-mpnet-base-v2,quest,a journey with a particular goal,18
+paraphrase-multilingual-mpnet-base-v2,forage,to search for and collect plants or fungi for food or material in the wild,1
+paraphrase-multilingual-mpnet-base-v2,catch,to take hold of something mid air,1
+paraphrase-multilingual-mpnet-base-v2,track,a trace left in the ground,14
+paraphrase-multilingual-mpnet-base-v2,drive,to chase or heard a particular group of animals in a hunt,15
+paraphrase-multilingual-mpnet-base-v2,foraging,the process of searching for and collecting food or material in the wild,1
+paraphrase-multilingual-mpnet-base-v2,pursue,to follow an object or goal with dedication,20
+paraphrase-multilingual-mpnet-base-v2,snipe,to hurt or kill someone from a hiding place at a distance,3
+paraphrase-multilingual-mpnet-base-v2,run,to move quickly using one's legs,1
+paraphrase-multilingual-mpnet-base-v2,search,the traversal of a collection or area with the aim of finding a particular thing,2
+paraphrase-multilingual-mpnet-base-v2,hunt,"to identify a target, pursure and capture it",8
+paraphrase-multilingual-mpnet-base-v2,whale,very large mammal that lives in water,1
+paraphrase-multilingual-mpnet-base-v2,shakedown,the act of searching thoroughly a person,4
+paraphrase-multilingual-mpnet-base-v2,explore,to search with curiosity,19
+paraphrase-multilingual-mpnet-base-v2,technology,"the field of human advancement in machines, automation and communication",25
+paraphrase-multilingual-mpnet-base-v2,device,a portable unit of electronic machinery,39
+paraphrase-multilingual-mpnet-base-v2,robotics,"the field to make mechanical, moving aids to humans",72
+paraphrase-multilingual-mpnet-base-v2,technical,marked by precision,65
+paraphrase-multilingual-mpnet-base-v2,development,human progress,10
+paraphrase-multilingual-mpnet-base-v2,invention,a novel device or mechanism,1
+paraphrase-multilingual-mpnet-base-v2,telephone,a device enabling remote communication,10
+paraphrase-multilingual-mpnet-base-v2,biomedical,relating to the field of biology and medicine,1
+paraphrase-multilingual-mpnet-base-v2,machine,a collection of mechanical parts interacting to achieve a greater goal,2
+paraphrase-multilingual-mpnet-base-v2,expertise,great knowledge,10
+paraphrase-multilingual-mpnet-base-v2,instrument,a specialised tool,3
+paraphrase-multilingual-mpnet-base-v2,automation,the goal or process to reduce the requirement for manual labour,30
+paraphrase-multilingual-mpnet-base-v2,manufacturing,the process of assembling usually by hand,5
+paraphrase-multilingual-mpnet-base-v2,progress,momentum marked by an increase in quality or quantity,3
+paraphrase-multilingual-mpnet-base-v2,wireless,without wires or physical connection,1
+paraphrase-multilingual-mpnet-base-v2,computer,a calculating machine operating in binary,1
+paraphrase-multilingual-mpnet-base-v2,digital,discrete valued,17
+paraphrase-multilingual-mpnet-base-v2,computing,calculating in a mechanical manner,1
+paraphrase-multilingual-mpnet-base-v2,communication,conveying a message and response,2
+paraphrase-multilingual-mpnet-base-v2,internet,an electronically connected net of resources and communication channels,3
+paraphrase-multilingual-mpnet-base-v2,scientific,marked by empiricism and curiosity,85
+paraphrase-multilingual-mpnet-base-v2,nanotechnology,technology in the scale of atoms and molecules,1
+paraphrase-multilingual-mpnet-base-v2,devices,"multiple units of portable, electronic machinery",-1
+paraphrase-multilingual-mpnet-base-v2,energy,the work or effort needed or given,12
+paraphrase-multilingual-mpnet-base-v2,hardware,physical components of a machine or system,3
+paraphrase-multilingual-mpnet-base-v2,technological,relating to technology,9
+paraphrase-multilingual-mpnet-base-v2,gadget,a device with nifty purpose,3
+paraphrase-multilingual-mpnet-base-v2,systems,multiple sets of connected components that work together,-1
+paraphrase-multilingual-mpnet-base-v2,innovation,the spirit of novelty and progress,3
+paraphrase-multilingual-mpnet-base-v2,wheel,a circular object on an axis facilitating motion,1
+paraphrase-multilingual-mpnet-base-v2,equipment,a set of tools or supplies needed for a job,43
+paraphrase-multilingual-mpnet-base-v2,biotechnology,a subfield of technology involving or relating to living organisms,1
+paraphrase-multilingual-mpnet-base-v2,software,non physical component of a machine or technological process,44
+paraphrase-multilingual-mpnet-base-v2,science,the empirical endeavour to quantify and explain observable phenomena,72
+paraphrase-multilingual-mpnet-base-v2,mechanism,a set of interacting parts to achieve a small function,1
+paraphrase-multilingual-mpnet-base-v2,electronics,a set of components related to the conduction and control of electricity,4
+paraphrase-multilingual-mpnet-base-v2,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",-1
+paraphrase-multilingual-mpnet-base-v2,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,-1
+paraphrase-multilingual-mpnet-base-v2,application,directional addition of something,11
+paraphrase-multilingual-mpnet-base-v2,tech,short for technology,-1
+paraphrase-multilingual-mpnet-base-v2,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",1
+paraphrase-multilingual-mpnet-base-v2,tool,a device intended for and used by a human to help with a specfic task,9
+paraphrase-multilingual-mpnet-base-v2,industry,the act or field of labour and manufacture,2
+paraphrase-multilingual-mpnet-base-v2,bionics,technology inspired by biology,2

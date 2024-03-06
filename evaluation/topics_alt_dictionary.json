@@ -1,0 +1,942 @@
+[
+  {
+    "word": "probe",
+    "definitions": "Any of various medical instruments used to explore wounds, organs, etc."
+  },
+  {
+    "word": "drum",
+    "definitions": "A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone."
+  },
+  {
+    "word": "chase",
+    "definitions": "The act of one who chases another; a pursuit."
+  },
+  {
+    "word": "swot",
+    "definitions": "Vigorous study at an educational institution."
+  },
+  {
+    "word": "industry",
+    "definitions": "Businesses of the same type, considered as a whole. Trade."
+  },
+  {
+    "word": "impression",
+    "definitions": "The overall effect of something, e.g., on a person."
+  },
+  {
+    "word": "hunters",
+    "definitions": "One who hunts game for sport or for food; a huntsman or huntswoman."
+  },
+  {
+    "word": "kindergarten",
+    "definitions": "An educational institution for young children, usually between ages 4 and 6; nursery school."
+  },
+  {
+    "word": "track",
+    "definitions": "A mark left by something that has passed along."
+  },
+  {
+    "word": "explore",
+    "definitions": "To seek for something or after someone."
+  },
+  {
+    "word": "wolves",
+    "definitions": "The gray wolf, specifically all subspecies of the gray wolf (Canis lupus) that are not dingoes or dogs."
+  },
+  {
+    "word": "classwork",
+    "definitions": "That part of a scholar's work that is done in class."
+  },
+  {
+    "word": "psychology",
+    "definitions": "The study of the human mind."
+  },
+  {
+    "word": "university",
+    "definitions": "Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered."
+  },
+  {
+    "word": "canister",
+    "definitions": "A cylindrical or rectangular container usually of lightweight metal, plastic, or laminated pasteboard used for holding a dry product (as tea, crackers, flour, matches)."
+  },
+  {
+    "word": "saxophone",
+    "definitions": "A single-reed instrument musical instrument of the woodwind family, usually made of brass and with a distinctive loop bringing the bell upwards."
+  },
+  {
+    "word": "internet",
+    "definitions": "Any set of computer networks that communicate using the Internet Protocol. (An intranet.)"
+  },
+  {
+    "word": "breeding",
+    "definitions": "Propagation of offspring through sexual reproduction."
+  },
+  {
+    "word": "adult",
+    "definitions": "A fully grown human or animal."
+  },
+  {
+    "word": "culture",
+    "definitions": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation."
+  },
+  {
+    "word": "trombone",
+    "definitions": "A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B sharp (contra B sharp)."
+  },
+  {
+    "word": "happiness",
+    "definitions": "The emotion of being happy; joy."
+  },
+  {
+    "word": "bugle",
+    "definitions": "A simple brass instrument consisting of a horn with no valves, playing only pitches in its harmonic series"
+  },
+  {
+    "word": "seek",
+    "definitions": "To try to find; to look for; to search for."
+  },
+  {
+    "word": "teacher",
+    "definitions": "A person who teaches, especially one employed in a school."
+  },
+  {
+    "word": "hit",
+    "definitions": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything."
+  },
+  {
+    "word": "beat",
+    "definitions": "To strike or pound repeatedly, usually in some sort of rhythm."
+  },
+  {
+    "word": "schooling",
+    "definitions": "To educate, teach, or train (often, but not necessarily, in a school)."
+  },
+  {
+    "word": "gun",
+    "definitions": "A device for projecting a hard object very forcefully; a firearm or cannon."
+  },
+  {
+    "word": "humanities",
+    "definitions": "The study of language, literature, the arts, and philosophy, sometimes including religion"
+  },
+  {
+    "word": "pail",
+    "definitions": "A vessel of wood, tin, plastic, etc., usually cylindrical and having a handle -- used especially for carrying liquids, for example water or milk; a bucket (sometimes with a cover)."
+  },
+  {
+    "word": "foxhunt",
+    "definitions": "A hunt for foxes, usually with dogs."
+  },
+  {
+    "word": "society",
+    "definitions": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms."
+  },
+  {
+    "word": "heat",
+    "definitions": "Thermal energy."
+  },
+  {
+    "word": "hunt",
+    "definitions": "To find or search for an animal in the wild with the intention of killing the animal for its meat or for sport."
+  },
+  {
+    "word": "innovations",
+    "definitions": "Something new, and contrary to established customs, manners, or rites."
+  },
+  {
+    "word": "membranophone",
+    "definitions": "Any musical instrument that produces sound via the vibration of a stretched membrane."
+  },
+  {
+    "word": "development",
+    "definitions": "The process of developing; growth, directed change."
+  },
+  {
+    "word": "violence",
+    "definitions": "Action which causes destruction, pain, or suffering."
+  },
+  {
+    "word": "computing",
+    "definitions": "The process or act of calculation."
+  },
+  {
+    "word": "emotion",
+    "definitions": "A person's internal state of being and involuntary physiological response to an object or a situation, based on or tied to physical state and sensory data."
+  },
+  {
+    "word": "capture",
+    "definitions": "The securing of an object of strife or desire, as by the power of some attraction."
+  },
+  {
+    "word": "drive",
+    "definitions": "Violent or rapid motion; a rushing onward or away; especially, a forced or hurried dispatch of business."
+  },
+  {
+    "word": "tympan",
+    "definitions": "The stretched membrane of a drum."
+  },
+  {
+    "word": "flute",
+    "definitions": "A woodwind instrument consisting of a tube with a row of holes that produce sound through vibrations caused by air blown across the edge of the holes, often tuned by plugging one or more holes with a finger; the Western concert flute, a transverse side-blown flute of European origin."
+  },
+  {
+    "word": "snipe",
+    "definitions": "A shot fired from a concealed place."
+  },
+  {
+    "word": "invention",
+    "definitions": "The act of discovering or finding; the act of finding out; discovery."
+  },
+  {
+    "word": "bionics",
+    "definitions": "The design of engineering systems, especially electronic ones, based on that of biological systems."
+  },
+  {
+    "word": "humility",
+    "definitions": "The characteristic of being humble; humbleness in character and behavior."
+  },
+  {
+    "word": "piano",
+    "definitions": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings"
+  },
+  {
+    "word": "awe",
+    "definitions": "A feeling of fear and reverence."
+  },
+  {
+    "word": "tutelage",
+    "definitions": "Instruction; teaching; guidance"
+  },
+  {
+    "word": "medicine",
+    "definitions": "A substance which specifically promotes healing when ingested or consumed in some way."
+  },
+  {
+    "word": "lesson",
+    "definitions": "Something learned or to be learned."
+  },
+  {
+    "word": "student",
+    "definitions": "A person who is formally enrolled at a school, a college or university, or another educational institution."
+  },
+  {
+    "word": "hardware",
+    "definitions": "Fixtures, equipment, tools and devices used for general-purpose construction and repair of a structure or object. Also such equipment as sold as stock by a store of the same name, e.g. hardware store."
+  },
+  {
+    "word": "shoot",
+    "definitions": "The act of shooting; the discharge of a missile; a shot."
+  },
+  {
+    "word": "computer",
+    "definitions": "A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media."
+  },
+  {
+    "word": "chord",
+    "definitions": "A harmonic set of three or more notes that is heard as if sounding simultaneously."
+  },
+  {
+    "word": "pedagogy",
+    "definitions": "The activities of educating, teaching or instructing."
+  },
+  {
+    "word": "zeal",
+    "definitions": "The fervour or tireless devotion for a person, cause, or ideal and determination in its furtherance; diligent enthusiasm; powerful interest."
+  },
+  {
+    "word": "school",
+    "definitions": "An educational institution providing primary and secondary education, prior to tertiary education (college or university)."
+  },
+  {
+    "word": "knock",
+    "definitions": "An abrupt rapping sound, as from an impact of a hard object against wood."
+  },
+  {
+    "word": "classroom",
+    "definitions": "A room, often in a school, where classes take place"
+  },
+  {
+    "word": "band",
+    "definitions": "A group of musicians who perform together as an ensemble, usually for a professional recording artist."
+  },
+  {
+    "word": "sympathy",
+    "definitions": "A feeling of pity or sorrow for the suffering or distress of another; compassion."
+  },
+  {
+    "word": "technology",
+    "definitions": "The organization of knowledge for practical purposes."
+  },
+  {
+    "word": "bongo",
+    "definitions": "Either of a pair of small drums of Cuban origin, played by beating with the hands."
+  },
+  {
+    "word": "telephone",
+    "definitions": "A telecommunication device (originally mechanical, and now electronic) used for two-way talking with another person (now often shortened to phone)."
+  },
+  {
+    "word": "progress",
+    "definitions": "Movement or advancement through a series of events, or points in time; development through time."
+  },
+  {
+    "word": "tin",
+    "definitions": "An airtight container, made of tin or another metal, used to preserve food."
+  },
+  {
+    "word": "pound",
+    "definitions": "To strike hard, usually repeatedly."
+  },
+  {
+    "word": "stalk",
+    "definitions": "To approach slowly and quietly in order not to be discovered when getting closer."
+  },
+  {
+    "word": "tools",
+    "definitions": "A mechanical device intended to make a task easier."
+  },
+  {
+    "word": "robotics",
+    "definitions": "The science and technology of robots, their design, manufacture, and application"
+  },
+  {
+    "word": "wheel",
+    "definitions": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines."
+  },
+  {
+    "word": "falcon",
+    "definitions": "Any bird of the genus Falco, all of which are birds of prey."
+  },
+  {
+    "word": "rap",
+    "definitions": "A sharp blow with something hard."
+  },
+  {
+    "word": "learning",
+    "definitions": "To acquire, or attempt to acquire knowledge or an ability to do something."
+  },
+  {
+    "word": "disgust",
+    "definitions": "An intense dislike or loathing someone feels for something bad or nasty."
+  },
+  {
+    "word": "harmonica",
+    "definitions": "A musical wind instrument with a series of holes for the player to blow into, each hole producing a different note"
+  },
+  {
+    "word": "expertise",
+    "definitions": "Great skill or knowledge in a particular field or hobby."
+  },
+  {
+    "word": "preschool",
+    "definitions": "A nursery school."
+  },
+  {
+    "word": "perception",
+    "definitions": "The organisation, identification and interpretation of sensory information."
+  },
+  {
+    "word": "communication",
+    "definitions": "The concept or state of exchanging data or information between entities."
+  },
+  {
+    "word": "automation",
+    "definitions": "The act or process of converting the controlling of a machine or device to a more automatic system, such as computer or electronic controls."
+  },
+  {
+    "word": "bang",
+    "definitions": "A sudden percussive noise."
+  },
+  {
+    "word": "quest",
+    "definitions": "A journey or effort in pursuit of a goal (often lengthy, ambitious, or fervent); a mission."
+  },
+  {
+    "word": "orchestral",
+    "definitions": "Relating to an orchestra or to music played by an orchestra."
+  },
+  {
+    "word": "sentimentality",
+    "definitions": "An act or state of being sentimental."
+  },
+  {
+    "word": "mechanism",
+    "definitions": "(within a machine or machinery) Any mechanical means for the conversion or control of motion, or the transmission or control of power."
+  },
+  {
+    "word": "tambourine",
+    "definitions": "A percussion instrument consisting of a small, usually wooden, hoop closed on one side with a drum frame and featuring jingling metal disks on the tread; it is most often held in the hand and shaken rhythmically; by extension, any frame drum."
+  },
+  {
+    "word": "cylinder",
+    "definitions": "Any object in the form of a circular cylinder."
+  },
+  {
+    "word": "cymbal",
+    "definitions": "A concave plate of brass or bronze that produces a sharp, ringing sound when struck: played either in pairs, by striking them together, or singly by striking with a drumstick or the like."
+  },
+  {
+    "word": "manhunt",
+    "definitions": "An organized search for a criminal or enemy."
+  },
+  {
+    "word": "trace",
+    "definitions": "A residue of some substance or material."
+  },
+  {
+    "word": "tenderness",
+    "definitions": "A tendency to express warm, compassionate feelings"
+  },
+  {
+    "word": "experience",
+    "definitions": "A collection of events and or activities from which an individual or group may gather knowledge, opinions, and skills."
+  },
+  {
+    "word": "percussion",
+    "definitions": "The collision of two bodies in order to produce a sound."
+  },
+  {
+    "word": "hunting",
+    "definitions": "The act of finding and killing a wild animal, either for sport or with the intention of using its parts to make food, clothes, etc."
+  },
+  {
+    "word": "thump",
+    "definitions": "A blow that produces a muffled sound."
+  },
+  {
+    "word": "capabilities",
+    "definitions": "The power or ability to generate an outcome"
+  },
+  {
+    "word": "instrument",
+    "definitions": "A device used to produce music."
+  },
+  {
+    "word": "predation",
+    "definitions": "The action of attacking or plundering."
+  },
+  {
+    "word": "transhumanism",
+    "definitions": "A philosophy favouring the use of science and technology, especially neurotechnology, biotechnology, and nanotechnology, to overcome human limitations and improve the human condition."
+  },
+  {
+    "word": "shop",
+    "definitions": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well."
+  },
+  {
+    "word": "barrel",
+    "definitions": "A round vessel or cask, of greater length than breadth, and bulging in the middle, made of staves bound with hoops, and having flat ends or heads. Sometimes applied to a similar cylindrical container made of metal, usually called a drum."
+  },
+  {
+    "word": "shakedown",
+    "definitions": "Extortion, especially through blackmail"
+  },
+  {
+    "word": "research",
+    "definitions": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+  },
+  {
+    "word": "ardor",
+    "definitions": "Great warmth of feeling; fervor; passion."
+  },
+  {
+    "word": "consciousness",
+    "definitions": "The state of being conscious or aware; awareness."
+  },
+  {
+    "word": "preparation",
+    "definitions": "The act of preparing or getting ready."
+  },
+  {
+    "word": "whale",
+    "definitions": "Any of several species of large sea mammals of the infraorder Cetacea."
+  },
+  {
+    "word": "curriculum",
+    "definitions": "The set of courses, coursework, and their content, offered at a school or university."
+  },
+  {
+    "word": "teaching",
+    "definitions": "The profession of educating people."
+  },
+  {
+    "word": "innovation",
+    "definitions": "Something new, and contrary to established customs, manners, or rites."
+  },
+  {
+    "word": "technological",
+    "definitions": "Of, relating to, or involving technology, especially modern scientific technology."
+  },
+  {
+    "word": "run",
+    "definitions": "Act or instance of running, of moving rapidly using the feet."
+  },
+  {
+    "word": "bone",
+    "definitions": "A composite material consisting largely of calcium phosphate and collagen and making up the skeleton of most vertebrates."
+  },
+  {
+    "word": "djembe",
+    "definitions": "A large, skin-covered drum played with the hands, used in West African and some fusion music."
+  },
+  {
+    "word": "equipment",
+    "definitions": "The act of equipping, or the state of being equipped, as for a voyage or expedition."
+  },
+  {
+    "word": "sound",
+    "definitions": "A sensation perceived by the ear caused by the vibration of air or some other medium."
+  },
+  {
+    "word": "vehemence",
+    "definitions": "A wild or turbulent ferocity or fury."
+  },
+  {
+    "word": "engineering",
+    "definitions": "To design, construct or manage something as an engineer."
+  },
+  {
+    "word": "devices",
+    "definitions": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one."
+  },
+  {
+    "word": "academic",
+    "definitions": "A senior member of an academy, college, or university; a person who attends an academy; a person engaged in scholarly pursuits; one who is academic in practice."
+  },
+  {
+    "word": "digital",
+    "definitions": "Property of representing values as discrete, usually binary, numbers rather than a continuous spectrum."
+  },
+  {
+    "word": "nanotechnology",
+    "definitions": "The science and technology of creating nanoparticles and of manufacturing machines which have sizes within the range of nanometres."
+  },
+  {
+    "word": "bat",
+    "definitions": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous."
+  },
+  {
+    "word": "slam",
+    "definitions": "A sudden impact or blow."
+  },
+  {
+    "word": "wireless",
+    "definitions": "The medium of radio communication."
+  },
+  {
+    "word": "literacy",
+    "definitions": "The ability to read and write."
+  },
+  {
+    "word": "gadget",
+    "definitions": "Any device or machine, especially one whose name cannot be recalled. Often either clever or complicated."
+  },
+  {
+    "word": "pursue",
+    "definitions": "To follow urgently, originally with intent to capture or harm; to chase."
+  },
+  {
+    "word": "frustration",
+    "definitions": "The feeling of annoyance when one's actions are criticized or hindered"
+  },
+  {
+    "word": "device",
+    "definitions": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one."
+  },
+  {
+    "word": "fervor",
+    "definitions": "A passionate enthusiasm for some cause."
+  },
+  {
+    "word": "apprenticeship",
+    "definitions": "The system by which a person learning a craft or trade is instructed by a master for a set time under set conditions."
+  },
+  {
+    "word": "catch",
+    "definitions": "The act of seizing or capturing."
+  },
+  {
+    "word": "tool",
+    "definitions": "A mechanical device intended to make a task easier."
+  },
+  {
+    "word": "pursuit",
+    "definitions": "The act of pursuing."
+  },
+  {
+    "word": "anxiety",
+    "definitions": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event."
+  },
+  {
+    "word": "energy",
+    "definitions": "The impetus behind all motion and all activity."
+  },
+  {
+    "word": "search",
+    "definitions": "An attempt to find something."
+  },
+  {
+    "word": "indignation",
+    "definitions": "A self-righteous anger or disgust."
+  },
+  {
+    "word": "training",
+    "definitions": "To practice an ability."
+  },
+  {
+    "word": "attitude",
+    "definitions": "The position of the body or way of carrying oneself."
+  },
+  {
+    "word": "cram",
+    "definitions": "The act of cramming (forcing or stuffing something)."
+  },
+  {
+    "word": "guitar",
+    "definitions": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick)."
+  },
+  {
+    "word": "can",
+    "definitions": "A more or less cylindrical vessel for liquids, usually of steel or aluminium, but sometimes of plastic, and with a carrying handle over the top."
+  },
+  {
+    "word": "drummer",
+    "definitions": "One who plays the drums."
+  },
+  {
+    "word": "education",
+    "definitions": "The process of imparting knowledge, skill and judgment."
+  },
+  {
+    "word": "pat",
+    "definitions": "A light tap or slap, especially with the hands"
+  },
+  {
+    "word": "fire",
+    "definitions": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering."
+  },
+  {
+    "word": "jealousy",
+    "definitions": "A resentment towards someone for a perceived advantage or superiority they hold."
+  },
+  {
+    "word": "electronics",
+    "definitions": "The study and use of electrical devices that operate by controlling the flow of electrons or other electrically charged particles or by converting the flow of charged particles to or from other forms of energy."
+  },
+  {
+    "word": "searching",
+    "definitions": "To look in (a place) for something."
+  },
+  {
+    "word": "erudition",
+    "definitions": "Profound knowledge, especially that based on learning and scholarship."
+  },
+  {
+    "word": "computers",
+    "definitions": "A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media."
+  },
+  {
+    "word": "dog",
+    "definitions": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding."
+  },
+  {
+    "word": "club",
+    "definitions": "An association of members joining together for some common purpose, especially sports or recreation."
+  },
+  {
+    "word": "college",
+    "definitions": "A specialized division of a university."
+  },
+  {
+    "word": "muzzleloader",
+    "definitions": "A variety of firearm in which the weapon is loaded from the end that discharges the projectile (the muzzle)."
+  },
+  {
+    "word": "sense",
+    "definitions": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste."
+  },
+  {
+    "word": "drumfish",
+    "definitions": "Any fish of the family Sciaenidae; they make a loud noise by means of an air bladder."
+  },
+  {
+    "word": "ergonomics",
+    "definitions": "The science of the design of equipment, especially so as to reduce operator fatigue, discomfort and injury."
+  },
+  {
+    "word": "music",
+    "definitions": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood."
+  },
+  {
+    "word": "prey",
+    "definitions": "A living thing that is eaten by another living thing."
+  },
+  {
+    "word": "excitement",
+    "definitions": "The state of being excited (emotionally aroused)."
+  },
+  {
+    "word": "undergraduate",
+    "definitions": "A student at a university who has not yet received a degree."
+  },
+  {
+    "word": "trap",
+    "definitions": "A machine or other device designed to catch (and sometimes kill) animals, either by holding them in a container, or by catching hold of part of the body."
+  },
+  {
+    "word": "scholarship",
+    "definitions": "A grant-in-aid to a student."
+  },
+  {
+    "word": "empathy",
+    "definitions": "Identification with or understanding of the thoughts, feelings, or emotional state of another person."
+  },
+  {
+    "word": "machine",
+    "definitions": "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+  },
+  {
+    "word": "homework",
+    "definitions": "Work that is done at home, especially school exercises assigned by a teacher."
+  },
+  {
+    "word": "ambush",
+    "definitions": "The act of concealing oneself and lying in wait to attack by surprise."
+  },
+  {
+    "word": "science",
+    "definitions": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability."
+  },
+  {
+    "word": "hunter",
+    "definitions": "One who hunts game for sport or for food; a huntsman or huntswoman."
+  },
+  {
+    "word": "thrum",
+    "definitions": "To cause a steady rhythmic vibration, usually by plucking."
+  },
+  {
+    "word": "trumpet",
+    "definitions": "A musical instrument of the brass family, generally tuned to the key of B-flat; by extension, any type of lip-vibrated aerophone, most often valveless and not chromatic."
+  },
+  {
+    "word": "jazz",
+    "definitions": "A musical art form rooted in West African cultural and musical expression and in the African American blues tradition, with diverse influences over time, commonly characterized by blue notes, syncopation, swing, call and response, polyrhythms and improvisation."
+  },
+  {
+    "word": "bounty",
+    "definitions": "A reward for some specific act, especially one given by an authority or a government."
+  },
+  {
+    "word": "coeducation",
+    "definitions": "The education of male and female students in the same institution"
+  },
+  {
+    "word": "application",
+    "definitions": "A computer program or the set of software that the end user perceives as a single entity as a tool for a well-defined purpose. (Also called: application program; application software.)"
+  },
+  {
+    "word": "timpani",
+    "definitions": "The set of precision kettledrums in an orchestra."
+  },
+  {
+    "word": "fowl",
+    "definitions": "A bird."
+  },
+  {
+    "word": "feeling",
+    "definitions": "Sensation, particularly through the skin."
+  },
+  {
+    "word": "sensation",
+    "definitions": "A physical feeling or perception from something that comes into contact with the body; something sensed."
+  },
+  {
+    "word": "ferret",
+    "definitions": "An often domesticated mammal (Mustela putorius furo) rather like a weasel, descended from the polecat and often trained to hunt burrowing animals."
+  },
+  {
+    "word": "scouring",
+    "definitions": "To clean, polish, or wash something by rubbing and scrubbing it vigorously, frequently with an abrasive or cleaning agent."
+  },
+  {
+    "word": "sadness",
+    "definitions": "The state or emotion of being sad."
+  },
+  {
+    "word": "kill",
+    "definitions": "The act of killing."
+  },
+  {
+    "word": "instruction",
+    "definitions": "The act of instructing, teaching, or furnishing with information or knowledge."
+  },
+  {
+    "word": "sentiment",
+    "definitions": "A general thought, feeling, or sense."
+  },
+  {
+    "word": "enthusiasm",
+    "definitions": "Intensity of feeling; excited interest or eagerness."
+  },
+  {
+    "word": "compassion",
+    "definitions": "Deep awareness of the suffering of another, coupled with the wish to relieve it."
+  },
+  {
+    "word": "homeschooling",
+    "definitions": "Teaching children at home instead of sending them to school."
+  },
+  {
+    "word": "sociology",
+    "definitions": "The study of society, human social interaction and the rules and processes that bind and separate people not only as individuals, but as members of associations, groups and institutions"
+  },
+  {
+    "word": "fear",
+    "definitions": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+  },
+  {
+    "word": "knowledge",
+    "definitions": "Awareness of a particular fact or situation; a state of having been informed or made aware of something."
+  },
+  {
+    "word": "joy",
+    "definitions": "A feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good."
+  },
+  {
+    "word": "emotional",
+    "definitions": "Of or relating to the emotions."
+  },
+  {
+    "word": "biotechnology",
+    "definitions": "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications."
+  },
+  {
+    "word": "manufacturing",
+    "definitions": "To make things, usually on a large scale, with tools and either physical labor or machinery."
+  },
+  {
+    "word": "tech",
+    "definitions": "Technology"
+  },
+  {
+    "word": "love",
+    "definitions": "Strong affection."
+  },
+  {
+    "word": "technical",
+    "definitions": "Of or pertaining to the useful or mechanic arts, or to any academic, legal, science, engineering, business, or the like terminology with specific and precise meaning or (frequently, as a degree of distinction) shades of meaning; specially appropriate to any art, science or engineering field, or business"
+  },
+  {
+    "word": "tuition",
+    "definitions": "The training or instruction provided by a teacher or tutor."
+  },
+  {
+    "word": "snare",
+    "definitions": "A set of stiff wires held under tension against the lower skin of a drum to create a rattling sound."
+  },
+  {
+    "word": "affection",
+    "definitions": "A feeling of love or strong attachment."
+  },
+  {
+    "word": "tap",
+    "definitions": "To touch one's finger, foot, or other body parts on a surface (usually) repeatedly."
+  },
+  {
+    "word": "apparatus",
+    "definitions": "A complex machine or instrument."
+  },
+  {
+    "word": "biomedical",
+    "definitions": "A product of the biomedicine industry."
+  },
+  {
+    "word": "forage",
+    "definitions": "(of an animal) To seek out and eat food."
+  },
+  {
+    "word": "skill",
+    "definitions": "To have personal or practical knowledge; be versed or practised; be expert or dextrous."
+  },
+  {
+    "word": "tutoring",
+    "definitions": "To instruct or teach, especially an individual or small group."
+  },
+  {
+    "word": "clap",
+    "definitions": "The act of striking the palms of the hands, or any two surfaces, together."
+  },
+  {
+    "word": "prospect",
+    "definitions": "The act of looking forward; foresight; anticipation."
+  },
+  {
+    "word": "passion",
+    "definitions": "Any great, strong, powerful emotion, especially romantic love or extreme hate."
+  },
+  {
+    "word": "drumhead",
+    "definitions": "The thin circle of material attached to the top of a drum shell for the purpose of striking, sometimes made of skin and in such occurrences sometimes referred to as a skin, or drum-skin, but often synthetic."
+  },
+  {
+    "word": "poachers",
+    "definitions": "A person who trespasses in order to take game illegally, one who poaches; a person who illegally takes animals or plants from the wild."
+  },
+  {
+    "word": "bucket",
+    "definitions": "A container made of rigid material, often with a handle, used to carry liquids or small items."
+  },
+  {
+    "word": "anger",
+    "definitions": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm."
+  },
+  {
+    "word": "profession",
+    "definitions": "An occupation, trade, craft, or activity in which one has a professed expertise in a particular area; a job, especially one requiring a high level of skill or training."
+  },
+  {
+    "word": "intensity",
+    "definitions": "The degree of strength."
+  },
+  {
+    "word": "educational",
+    "definitions": "Instructive, or helping to educate."
+  },
+  {
+    "word": "systems",
+    "definitions": "A collection of organized things; a whole composed of relationships among its members."
+  },
+  {
+    "word": "hound",
+    "definitions": "A dog, particularly a breed with a good sense of smell developed for hunting other animals."
+  },
+  {
+    "word": "course",
+    "definitions": "A path that something or someone moves along."
+  },
+  {
+    "word": "software",
+    "definitions": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM)."
+  },
+  {
+    "word": "scientific",
+    "definitions": "Of, or having to do with science."
+  },
+  {
+    "word": "applications",
+    "definitions": "The act of applying or laying on, in a literal sense"
+  },
+  {
+    "word": "mood",
+    "definitions": "A mental or emotional state, composure."
+  },
+  {
+    "word": "warmth",
+    "definitions": "A moderate degree of heat; the sensation of being warm."
+  },
+  {
+    "word": "foraging",
+    "definitions": "To search for and gather food for animals, particularly cattle and horses."
+  }
+]

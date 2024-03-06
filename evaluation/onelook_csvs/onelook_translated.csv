@@ -1,0 +1,367 @@
+model name,word,test set definition,ranking
+OneLook,can,Buoy round bottom and conical top,4
+OneLook,educationist,Specialist in educational theory,6
+OneLook,lyceum,high school and college; Usually 9th to 12th grade,84
+OneLook,technology,Practical application of science in commerce or industry,1
+OneLook,device,"a device or invention that serves a purpose, especially a machine used to perform one or more relatively simple tasks",-1
+OneLook,look,"Use a gaze, especially in a direction or an object to look out a window, look at the floor",-1
+OneLook,robotics,The science or study of technology related to production design theory and the use of robots,1
+OneLook,techical,related to or derived from technology,66
+OneLook,foxhunt,Hunting wolves and dogs,-1
+OneLook,falcon,"Any bird of prey in the falcon family, and especially in the falcon genus, having a short curved beak and long, pointed, strong wings adapted for rapid flight.",-1
+OneLook,ferret,"Stony mammals, usually albinos, Mustela Putorius furo, related to the ogre and usually trained to hunt mice or rabbits.",1
+OneLook,timpani,A set of blankets,-1
+OneLook,sadness,The state or emotion of being sad,1
+OneLook,kindergarten,A program or activity for four to six year olds that is an introduction to school,2
+OneLook,development,Job development,-1
+OneLook,sound,"Vibrations are transmitted through an elastic solid, liquid or gas with frequencies in the Hertz range that can be detected by human hearing.",1
+OneLook,psychology,The science that deals with cognitive processes and behavior,1
+OneLook,invention,The act or process of inventing uses one's own inventive techniques,18
+OneLook,society,A set of social relationships between people,-1
+OneLook,telephone,An instrument that converts voice and other sound signals into a form that can be transmitted over long distances and receives the waves and converts them into sound signals.,1
+OneLook,sympathy,A relationship or association between people and things in which what affects one has a corresponding effect on the other,1
+OneLook,fowl,"Any bird of the order Galliformes, especially the common domestic fowl gallus gallus",-1
+OneLook,fear,A feeling of restlessness and anxiety due to the presence or impending danger,5
+OneLook,lesson,Some lessons can be learned by observing nature,-1
+OneLook,chord,A combination of three or more notes sounding together,1
+OneLook,guitar,A musical instrument with a round, flat back that curves at the center of a long neck and usually has six strings that are plucked or plucked.,2
+OneLook,mood,A state of mind or emotion,1
+OneLook,course,A comprehensive set of prescribed studies covering the four-year engineering curriculum,5
+OneLook,biomedical,or related to biomedicine,1
+OneLook,orchestral,Of or related to music of an orchestra,1
+OneLook,ardor,Feeling of burning intensity,3
+OneLook,cannister,Especially the typical cylindrical storage bin,-1
+OneLook,dog,"Canis familis is a carnivorous mammal, related to wolves and foxes and bred in several breeds.",1
+OneLook,classwork,Part of a scientist's work is done in the classroom,-1
+OneLook,shoot,To injure or kill by a projectile fired from a gun,1
+OneLook,trumpet,"A brass instrument for the soprano, consisting of a long metal tube coiled once and ending in a bell, began in the modern type, with three pipes to produce a difference in tone.",2
+OneLook,homework,Tasks such as schoolwork or homework,30
+OneLook,bucket,A cylindrical container used for storing or transporting buckets of liquids or solids,18
+OneLook,anxiety,A state of fear and worry about an uncertain future,1
+OneLook,teacher,"A person who teaches, especially one who teaches",4
+OneLook,tuition,"Tuition fees, especially at a formal educational institution",-1
+OneLook,stalk,The stem or main axis of a plant,2
+OneLook,machine,A device with fixed and moving parts that converts mechanical energy into a more useful form,1
+OneLook,predation,The act or habit of stealing or stealing,-1
+OneLook,hunter,Someone who hunts game,1
+OneLook,saxophone,"A woodwind instrument with a reed mouthpiece and usually a curved conical metal pipe, covering the soprano-alto-tenor and baritone scales.",1
+OneLook,impression,An emotional feeling or image that persists as a result of an experience,2
+OneLook,flute,A high woodwind instrument consisting of a thin tube closed at one end with keys and finger holes on the side and a hole near the closed end through which the breath is taken.,1
+OneLook,sentiment,"An opinion or attitude, especially one based largely on emotion rather than reason, and an anti-American sentiment sweeping through the nation.",-1
+OneLook,fervency,The state or quality of being warm,-1
+OneLook,tutoring,Private tutor,-1
+OneLook,knowledge,state or fact of knowledge,34
+OneLook,experience,Capture a thought or emotion through the senses or mind during a child's first snow experience,-1
+OneLook,frustration,An act or example of frustration,52
+OneLook,bat,A strong wooden stick of sticks,-1
+OneLook,prey,An animal that hunts or catches food,-1
+OneLook,searching,To investigate or scrutinize exploratory research into past relationships,-1
+OneLook,barrel,"A large cylindrical container, usually made of sticks tied into rings with a flat top and bottom of the same diameter.",1
+OneLook,cram,Forcefully grasping or squeezing objects with insufficient space,53
+OneLook,love,Deep feelings of inexplicable tenderness of love and prayer for someone, for example, recognition of family in attractive qualities or a feeling of deep unity.,-1
+OneLook,skill,Skills or knowledge acquired or developed through education or experience,31
+OneLook,harmonica,A small rectangular instrument consisting of a series of loose reeds inserted into the air hole at the back and played by breathing or blowing.,1
+OneLook,thump,hitting with a blunt object,-1
+OneLook,intensity,Extremely concentrated force or power,1
+OneLook,band,A group of musicians performs as an ensemble,2
+OneLook,expertise,Expert advice or opinion,3
+OneLook,training,The process or routine of an athlete,1
+OneLook,pat,A quick light stroke with the fingers or hands,3
+OneLook,instrument,A measuring or controlling device, especially one that functions as part of a control system,4
+OneLook,apprenticeship,The student's status or time worked,-1
+OneLook,automation,Automated operation or equipment control is a process or system,1
+OneLook,scouring,Check the location carefully,-1
+OneLook,literacy,"The state or quality of literacy, especially the ability to read and write",1
+OneLook,preparation,The act or process of preparation,7
+OneLook,jazz,"A Native American musical style characterized by a strong but flexible rhythmic structure, solo and ensemble improvisation of basic melodies and chord patterns, and, more recently, a highly complex harmonic idiom.",1
+OneLook,manufacturing,the action of the verb do,-1
+OneLook,erudition,deep learning,-1
+OneLook,tin,A nodular silver metal element found mainly in casities,33
+OneLook,progress,act in a way to achieve the goal,-1
+OneLook,anger,A strong feeling of anger or rage,6
+OneLook,wireless,The word wireless is often used to refer to any type of electrical or electronic operation that takes place without a wired connection.,-1
+OneLook,shop,A small store or a specialty department in a large store,2
+OneLook,tutelage,"Students are taught individually, usually by a private teacher",8
+OneLook,computer,"A computing device, especially a programmable electronic machine, that performs mathematical or logical operations at high speed or collects, stores, or processes relevant information.",1
+OneLook,medicine,The science of the diagnosis, treatment, or prevention of diseases and other disorders of the body or mind,2
+OneLook,digital,connecting or resembling a digit, especially a finger,1
+OneLook,rap,A quick punch or kick,-1
+OneLook,educational,or related to education,1
+OneLook,computing,"Determine the amount of tax using mathematics, especially numerical methods",-1
+OneLook,communication,The act of sending a communication,-1
+OneLook,fire,MOTIVATION,-1
+OneLook,hound,"Any breed of domestic dog, often used for hunting, with lop ears, short coat and a low voice.",2
+OneLook,school,An educational institution for children or minors,1
+OneLook,drumhead,The material is stretched over one end of the drum or the other,1
+OneLook,internet,An interconnected system of networks that connects computers around the world using the TCP IP protocol,1
+OneLook,scientific,deploy or apply scientific methodology,-1
+OneLook,bongo,One of the pairs played a drum together with short hands,-1
+OneLook,nanotechnology,The science and technology of creating devices such as electronic circuits from individual atoms and molecules,1
+OneLook,student,Anyone who studies or takes classes at a college or university,1
+OneLook,knock,Big hit,-1
+OneLook,devices,counting device,-1
+OneLook,chase,a quick pursuit to catch or pursue a thief,1
+OneLook,hunting,tracking activity or game,-1
+OneLook,pedagogy,the art or profession of teaching,2
+OneLook,prospect,examine or examine,-1
+OneLook,curriculum,all courses offered by the institution,1
+OneLook,pail,a watertight cylindrical container with an opening at the top and a bucket handle,1
+OneLook,clap,a sudden explosive clap, like the clapping of hands,-1
+OneLook,club,"A strong, heavy stick, usually with a thick point, for use as a weapon by bandits",1
+OneLook,energy,the ability or endurance to do strenuous work,-1
+OneLook,pursuit,to pursue or pursue a course of action or action,-1
+OneLook,slam,to strike or beat with great force,-1
+OneLook,percussion,"Knock between two bodies, especially when it makes a sound.",-1
+OneLook,sentimentality,that the quality or state is excessive or emotionally affected,-1
+OneLook,culture,"the whole of the practices, beliefs, arts, institutions, and other products of human activity and thought.",1
+OneLook,hardware,informatics A computer and related physical devices directly involved in data processing or communication processes,2
+OneLook,cylinder,"Mathematics is a rotating straight line that oscillates in a closed plane, either parallel or not parallel to the straight line.",5
+OneLook,trap,"for catching and restraining animals, such as a hidden burrow or trap",-1
+OneLook,heat,"a form of energy associated with the motion of molecules or particles that can move through solid and liquid media in conduction, fluid, and radiation in space.",1
+OneLook,profession,"profession or vocation, one of the highest compliments a child can pay his or her parents is a career choice Joan Nathan",-1
+OneLook,trace,"a track similar to a footprint made or left by a person, animal, or event",1
+OneLook,technological, "technology, especially scientific technology",-1
+OneLook,joy,intense and especially ecstatic or ecstatic joy,-1
+OneLook,gadget,a small specialized mechanical or electronic device,1
+OneLook,kill,kill,-1
+OneLook,systems,plural form of system,1
+OneLook,innovation,introduce something new,-1
+OneLook,snare,Fishing gear is often part of the line for hunting birds and small mammals.,2
+OneLook,ambush,expect a sudden attack,-1
+OneLook,wheel,A wheel is a mechanical device in the shape of a disk or sphere,-1
+OneLook,equipment,device configuration or device status,-1
+OneLook,bounty,freedom in giving,9
+OneLook,schooling,teaching or learning in school,3
+OneLook,gun,A metal tube weapon that fired a flat course at high speed.,5
+OneLook,perception,the ability to act or feel,-1
+OneLook,probe,a scouting expedition or group specially formed to obtain information and knowledge in a distant or unknown country,6
+OneLook,music,"the art of timing sounds through the interplay of melody, rhythm, and timbre to create a timeless, cohesive, evocative composition.",1
+OneLook,learning,"the process, practice, or process of acquiring knowledge or skills",1
+OneLook,happiness,a feeling of happy joy,5
+OneLook,drummer,drummer in the band,-1
+OneLook,manhunt,"search for a large organized person, usually an escaped criminal",1
+OneLook,biotechnology,"The use of microorganisms, such as bacteria or biological agents such as yeast or enzymes, for a specific industrial or manufacturing process.",1
+OneLook,enthusiasm,great passion or interest in a subject or cause,1
+OneLook,beat,beat again and again,-1
+OneLook,sensation,"a sensation associated with a sensory organ or position of the body, a burning sensation;",-1
+OneLook,instruction,experience or teaching profession,-1
+OneLook,software,Symbolic languages \u200b\u200bthat govern the organization and operation of computer programs and hardware.,1
+OneLook,sense,"Any senses that received external or internal stimuli, such as hearing, sight, smell, taste, and balance.",1
+OneLook,bugle,the brass instrument is shorter than the trumpet and has no key or valve,2
+OneLook,consciousness,the state or condition of being conscious,1
+OneLook,quest,software search or tracking activity or pattern,-1
+OneLook,science,"observation, identification, description of experimental evidence and theoretical explanation of phenomena.",1
+OneLook,forage,to forage or search for food or supplies,8
+OneLook,tap,to strike lightly, by kicking or pounding,1
+OneLook,adult,reaching maturity or maturity,-1
+OneLook,excitement,interesting performance or example,-1
+OneLook,drum,"A piercing made of a hollow cylinder or hemisphere, tightly extended at one or both ends, and struck by hand or sticks.",1
+OneLook,catch,"to catch or capture, especially after a chase",-1
+OneLook,track,a mark or trace left by an event,-1
+OneLook,drive,push forward or forward thrust pushing horses into the corridor,1
+OneLook,mechanism,machine or mechanical device,3
+OneLook,foraging,to forage or search for food or supplies,-1
+OneLook,pursue,hunting or capturing a fox pursued by hunters,7
+OneLook,coeducation,an educational system in which both men and women attend the same institution or classes,1
+OneLook,electronics,science and technology of electronic phenomena.,1
+OneLook,scholarship,A review of the researcher's or academic's roles and responsibilities.,-1
+OneLook,engineering,"Scientific and mathematical principles for practical applications such as the design, construction and operation of efficient and effective technical structures and systems and processes.",1
+OneLook,transhumanism,"A philosophy of using science and technology, especially neurotechnology, biotechnology, and nanotechnology, to overcome human disabilities and improve human life.",1
+OneLook,hit,"After the assault, he confronted the guard.",-1
+OneLook,thrum,play a string instrument or a guitar solo,-1
+OneLook,education,learning or learning process,1
+OneLook,snipe,"Various large birds of the genus Gallinago or Capella, associated with Indian and scrub, especially g",-1
+OneLook,emotionality,state or quality of emotional being,1
+OneLook,university,"a university with teaching and research facilities, including a bachelor's degree offering master's and doctoral degrees, as well as a bachelor's degree.",-1
+OneLook,trombone,A windmill consisting of a long cylindrical tube terminating in two bell-shaped mouthpieces and a U-shaped sliding slide for producing different sounds.,1
+OneLook,vehemence,strong strength or ability to concentrate,-1
+OneLook,violence,the use of physical force to commit crimes such as offensive or intentional violence,-1
+OneLook,breeding,a man of good birth,-1
+OneLook,run,"move quickly with your feet, allowing both feet to leave the ground with each step",1
+OneLook,classroom,"school takes place outside the school, especially in the second grade",8
+OneLook,application,claim,94
+OneLook,search,make sure you find what you know,-1
+OneLook,cymbal,Made of a perforated brass plate that produces a powerful tone when struck with a drum or drum.,1
+OneLook,didactics,teaching pedagogy,4
+OneLook,compassion,Extreme compassion in an attempt to alleviate another\u2019s suffering.,-1
+OneLook,piano,Musical instruments are played with hand-picked keyboards that produce a sound that can be tapped or established with pedals.,-1
+OneLook,empathy,Identify and understand another person\u2019s feelings and reasons.,-1
+OneLook,tech,technology,4
+OneLook,humility,the quality or state of poor condition,-1
+OneLook,tambourine,An instrument made of a small head with a sound disc on the edge and played by shaking and tapping with the hand.,-1
+OneLook,feeling,a sense that includes tactical sense,-1
+OneLook,research,scientific or academic research or analysis,98
+OneLook,hunt,Continue playing for food or games,-1
+OneLook,preschool,corresponding to the childhood years before starting primary school,1
+OneLook,emotional,or related to feelings,1
+OneLook,apparatus,a device or apparatus for a special purpose,5
+OneLook,humanities,being the most human,-1
+OneLook,undergraduate,College or university student with an undergraduate degree or equivalent,-1
+OneLook,whale,For biological order see Seashores,-1
+OneLook,homeschooling,teach children at home instead of sending them to school,-1
+OneLook,shakedown,detailed search,-1
+OneLook,tool,a tool such as a saw for performing or controlling manual or mechanical work,14
+OneLook,emotion,"a state of mind that occurs alone, effortlessly and without many mental changes that result in happiness, sadness, honor, respect, hatred and love.",17
+OneLook,industry,commercial production and marketing of products,2
+OneLook,pound,hit often and hard,5
+OneLook,fervor,extreme heat and strong emotions,11
+OneLook,explore,systematically explore each possibility,-1
+OneLook,awe,"a feeling of wonder, awe and wonder inspired by the power of a genius of great beauty, glory or astonishment when thinking of a small work.",-1
+OneLook,bionics,"application of biological principles in engineering research and design, particularly in electronic systems",-1
+OneLook,djembe,A large leather covered drum that was beaten with the hands used in West Africa with mixed music,1
+
+onelook.com,can,a buoy with a round bottom and conical top,4
+onelook.com,educationist,a specialist in the theory of education,4
+onelook.com,lyceum,a school for students intermediate between elementary school and college ; usually grades 9 to 12,5
+onelook.com,technology,the practical application of science to commerce or industry,1
+onelook.com,device,a contrivance or an invention serving a particular purpose especially a machine used to perform one or more relatively simple tasks,1
+onelook.com,look,to employ one s sight especially in a given direction or on a given object looking out the window looked at the floor,1
+onelook.com,robotics,the science or study of the technology associated with the design fabrication theory and application of robots,1
+onelook.com,technical,of relating to or derived from technique,1
+onelook.com,foxhunt,a hunt for foxes normally with dogs,3
+onelook.com,falcon,any of various birds of prey of the family falconidae and especially of the genus falco having a short curved beak and long pointed powerful wings adapted for swift flight,1
+onelook.com,ferret,a weasellike usually albino mammal mustela putorius furo related to the polecat and often trained to hunt rats or rabbits,1
+onelook.com,timpani,a set of kettledrums,1
+onelook.com,sadness,the state or emotion of being sad,1
+onelook.com,kindergarten,a program or class for four year old to six year old children that serves as an introduction to school,1
+onelook.com,development,the act of developing,1
+onelook.com,sound,vibrations transmitted through an elastic solid or a liquid or gas with frequencies in the approximate range of to hertz capable of being detected by human organs of hearing,1
+onelook.com,psychology,the science that deals with mental processes and behavior,1
+onelook.com,invention,the act or process of inventing used a technique of her own invention,9
+onelook.com,society,the totality of social relationships among humans,-1
+onelook.com,telephone,an instrument that converts voice and other sound signals into a form that can be transmitted to remote locations and that receives and reconverts waves into sound signals,1
+onelook.com,sympathy,a relationship or an affinity between people or things in which whatever affects one correspondingly affects the other,1
+onelook.com,fowl,any of various birds of the order galliformes especially the common widely domesticated chicken gallus gallus,1
+onelook.com,fear,a feeling of agitation and anxiety caused by the presence or imminence of danger,1
+onelook.com,lesson,something to be learned lessons from observing nature,5
+onelook.com,chord,a combination of three or more pitches sounded simultaneously,1
+onelook.com,guitar,a musical instrument having a flat backed rounded body that narrows in the middle a long fretted neck and usually six strings played by strumming or plucking,1
+onelook.com,mood,a state of mind or emotion,1
+onelook.com,course,a complete body of prescribed studies constituting a curriculum a four year course in engineering,-1
+onelook.com,biomedical,of or pertaining to biomedicine,1
+onelook.com,orchestral,relating to an orchestra or to music played by an orchestra,1
+onelook.com,ardor,fiery intensity of feeling,3
+onelook.com,cannister,a usually cylindrical storage container especially,-1
+onelook.com,dog,a domesticated carnivorous mammal canis familiaris related to the foxes and wolves and raised in a wide variety of breeds,-1
+onelook.com,classwork,that part of a scholar s work that is done in class,5
+onelook.com,shoot,to hit wound or kill with a missile fired from a weapon,1
+onelook.com,trumpet,a soprano brass wind instrument consisting of a long metal tube looped once and ending in a flared bell the modern type being equipped with three valves for producing variations in pitch,2
+onelook.com,homework,work such as schoolwork or piecework that is done at home,1
+onelook.com,bucket,a cylindrical vessel used for holding or carrying liquids or solids a pail,1
+onelook.com,anxiety,a state of uneasiness and apprehension as about future uncertainties,1
+onelook.com,teacher,one who teaches especially one hired to teach,3
+onelook.com,tuition,a fee for instruction especially at a formal institution of learning,1
+onelook.com,stalk,a stem or main axis of a herbaceous plant,1
+onelook.com,machine,a device consisting of fixed and moving parts that modifies mechanical energy and transmits it in a more useful form,1
+onelook.com,predation,the act or practice of plundering or marauding,32
+onelook.com,hunter,one who hunts game,1
+onelook.com,saxophone,a woodwind instrument with a single reed mouthpiece and a usually curved conical metal tube including soprano alto tenor and baritone sizes,1
+onelook.com,impression,an effect feeling or image retained as a consequence of experience,2
+onelook.com,flute,a high pitched woodwind instrument consisting of a slender tube closed at one end with keys and finger holes on the side and an opening near the closed end across which the breath is blown,1
+onelook.com,sentiment,a thought view or attitude especially one based mainly on emotion instead of reason an anti american sentiment swept through the country,-1
+onelook.com,fervency,the condition or quality of being fervent,1
+onelook.com,tutoring,a private instructor,-1
+onelook.com,knowledge,the state or fact of knowing,1
+onelook.com,experience,the apprehension of an object thought or emotion through the senses or mind a child s first experience of snow,-1
+onelook.com,frustration,the act of frustrating or an instance of being frustrated,1
+onelook.com,bat,a stout wooden stick a cudgel,-1
+onelook.com,prey,an animal hunted or caught for food quarry,2
+onelook.com,searching,examining closely or thoroughly probing a searching investigation of their past dealings,-1
+onelook.com,barrel,a large cylindrical container usually made of staves bound together with hoops with a flat top and bottom of equal diameter,1
+onelook.com,cram,to force press or squeeze into an insufficient space stuff,1
+onelook.com,love,a deep tender ineffable feeling of affection and solicitude toward a person such as that arising from kinship recognition of attractive qualities or a sense of underlying oneness,1
+onelook.com,skill,proficiency facility or dexterity that is acquired or developed through training or experience,1
+onelook.com,harmonica,a small rectangular instrument consisting of a row of free reeds set back in air holes played by exhaling or inhaling,1
+onelook.com,thump,a blow with a blunt object,5
+onelook.com,intensity,exceptionally great concentration power or force,2
+onelook.com,band,a group of musicians who perform as an ensemble,2
+onelook.com,expertise,expert advice or opinion,3
+onelook.com,training,the process or routine of one who trains,6
+onelook.com,pat,a light quik blow or stroke with the fingers or hand a tap,1
+onelook.com,instrument,a device for recording measuring or controlling especially such a device functioning as part of a control system,1
+onelook.com,apprenticeship,the condition of or the time served by an apprentice,1
+onelook.com,automation,the automatic operation or control of equipment a process or a system,1
+onelook.com,scouring,to search an area thoroughly,-1
+onelook.com,literacy,the condition or quality of being literate especially the ability to read and write,1
+onelook.com,preparation,the act or process of preparing,1
+onelook.com,jazz,a style of music native to america characterized by a strong but flexible rhythmic understructure with solo and ensemble improvisations on basic tunes and chord patterns and more recently a highly sophisticated harmonic idiom,1
+onelook.com,manufacturing,the action of the verb to manufacture,1
+onelook.com,erudition,deep extensive learning,6
+onelook.com,tin,a malleable silvery metallic element obtained chiefly from cassiterite,1
+onelook.com,progress,movement as toward a goal advance,6
+onelook.com,anger,a strong feeling of displeasure or hostility,-1
+onelook.com,wireless,the word wireless is normally used to refer to any type of electrical or electronic operation which is done without a hard wired connection,-1
+onelook.com,shop,a small retail store or a specialty department in a large store,2
+onelook.com,tutelage,teaching pupils individually usually by a tutor hired privately,5
+onelook.com,computer,a device that computes especially a programmable electronic machine that performs high speed mathematical or logical operations or that assembles stores correlates or otherwise processes information,1
+onelook.com,medicine,the science of diagnosing treating or preventing disease and other damage to the body or mind,1
+onelook.com,digital,of relating to or resembling a digit especially a finger,1
+onelook.com,rap,a quick light blow or knock,-1
+onelook.com,educational,of or relating to education,1
+onelook.com,computing,to determine by mathematics especially by numerical methods computed the tax due,-1
+onelook.com,communication,the act of communicating transmission,1
+onelook.com,fire,enthusiasm,-1
+onelook.com,hound,a domestic dog of any of various breeds commonly used for hunting characteristically having drooping ears a short coat and a deep resonant voice,1
+onelook.com,school,an institution for the instruction of children or people under college age,1
+onelook.com,drumhead,the material stretched over one end or either of both ends of a drum,1
+onelook.com,internet,an interconnected system of networks that connects computers around the world via the tcp ip protocol,1
+onelook.com,scientific,of relating to or employing the methodology of science,1
+onelook.com,bongo,one of a pair of connected tuned drums that are played by beating with the hands,37
+onelook.com,nanotechnology,the science and technology of building devices such as electronic circuits from single atoms and molecules,1
+onelook.com,student,one who is enrolled or attends classes at a school college or university,1
+onelook.com,knock,to strike with a hard blow,72
+onelook.com,devices,plural form of device,1
+onelook.com,chase,to follow rapidly in order to catch or overtake pursue chased the thief,1
+onelook.com,hunting,the activity or sport of pursuing game,1
+onelook.com,pedagogy,the art or profession of teaching,2
+onelook.com,prospect,the act of surveying or examining,161
+onelook.com,curriculum,all the courses of study offered by an educational institution,1
+onelook.com,pail,a watertight cylindrical vessel open at the top and fitted with a handle a bucket,1
+onelook.com,clap,to strike the palms of the hands together with a sudden explosive sound as in applauding,1
+onelook.com,club,a stout heavy stick usually thicker at one end suitable for use as a weapon a cudgel,1
+onelook.com,energy,the capacity for work or vigorous activity vigor power,1
+onelook.com,pursuit,the act or an instance of chasing or pursuing,1
+onelook.com,slam,to hit or strike with great force,83
+onelook.com,percussion,the striking together of two bodies especially when noise is produced,-1
+onelook.com,sentimentality,the quality or condition of being excessively or affectedly sentimental,1
+onelook.com,culture,the totality of socially transmitted behavior patterns arts beliefs institutions and all other products of human work and thought,1
+onelook.com,hardware,computer science a computer and the associated physical equipment directly involved in the performance of data processing or communications functions,1
+onelook.com,cylinder,mathematics the surface generated by a straight line intersecting and moving along a closed plane curve the directrix while remaining parallel to a fixed straight line that is not on or parallel to the plane of the directrix,1
+onelook.com,trap,a contrivance for catching and holding animals as a concealed pit or a clamplike device that springs shut suddenly,1
+onelook.com,heat,a form of energy associated with the motion of atoms or molecules and capable of being transmitted through solid and fluid media by conduction through fluid media by convection and through empty space by radiation,1
+onelook.com,profession,an occupation or career one of the highest compliments a child can pay a parent is to choose his or her profession joan nathan,-1
+onelook.com,trace,a visible mark such as a footprint made or left by the passage of a person animal or thing,3
+onelook.com,technological,relating to or involving technology especially scientific technology,1
+onelook.com,joy,intense and especially ecstatic or exultant happiness,5
+onelook.com,gadget,a small specialized mechanical or electronic device a contrivance,1
+onelook.com,kill,to put to death,2
+onelook.com,systems,plural form of system,1
+onelook.com,innovation,the act of introducing something new,1
+onelook.com,snare,a trapping device often consisting of a noose used for capturing birds and small mammals,1
+onelook.com,ambush,the act of lying in wait to attack by surprise,1
+onelook.com,wheel,a wheel is a disc or circle shaped mechanical device,84
+onelook.com,equipment,the act of equipping or the state of being equipped,57
+onelook.com,bounty,liberality in giving,21
+onelook.com,schooling,instruction or training given at school,-1
+onelook.com,gun,a weapon consisting of a metal tube from which a projectile is fired at high velocity into a relatively flat trajectory,1
+onelook.com,perception,the process act or faculty of perceiving,1
+onelook.com,probe,an exploratory action expedition or device especially one designed to investigate and obtain information on a remote or unknown region,1
+onelook.com,music,the art of arranging sounds in time so as to produce a continuous unified and evocative composition as through melody harmony rhythm and timbre,1
+onelook.com,learning,the act process or experience of gaining knowledge or skill,1
+onelook.com,happiness,the emotion of being happy joy,1
+onelook.com,drummer,one who plays a drum as in a band,1
+onelook.com,manhunt,an organized extensive search for a person usually a fugitive criminal,1
+onelook.com,biotechnology,the use of microorganisms such as bacteria or yeasts or biological substances such as enzymes to perform specific industrial or manufacturing processes,1
+onelook.com,enthusiasm,great excitement for or interest in a subject or cause,1
+onelook.com,beat,to strike repeatedly,2
+onelook.com,sensation,a perception associated with stimulation of a sense organ or with a specific body condition the sensation of heat a visual sensation,-1
+onelook.com,instruction,the act practice or profession of instructing,3
+onelook.com,software,computer science the programs routines and symbolic languages that control the functioning of the hardware and direct its operation,1
+onelook.com,sense,any of the faculties by which stimuli from outside or inside the body are received and felt as the faculties of hearing sight smell touch taste and equilibrium,1
+onelook.com,bugle,a brass wind instrument somewhat shorter than a trumpet and lacking keys or valves,2
+onelook.com,consciousness,the state or condition of being conscious,1
+onelook.com,quest,the act or an instance of seeking or pursuing something a search,1
+onelook.com,science,the observation identification description experimental investigation and theoretical explanation of phenomena,1
+onelook.com,forage,the act of looking or searching for food or provisions,-1
+onelook.com,tap,to strike gently with a light blow or blows,1
+onelook.com,adult,one who has attained maturity or legal age,1

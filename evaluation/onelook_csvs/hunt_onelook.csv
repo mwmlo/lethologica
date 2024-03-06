@@ -1,0 +1,44 @@
+model name,word,test set definition,ranking
+onelook.com,look,to focus one's gaze in a particular direction,3
+onelook.com,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",-1
+onelook.com,falcon,a bird of prey often trained for hunting,1
+onelook.com,ferret,"a small, domesticated mammal used for hunting rabbits",1
+onelook.com,fowl,a type of bird kept for producing meat or eggs,60
+onelook.com,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,1
+onelook.com,shoot,fire a projectile or arrow at a target with a weapon,1
+onelook.com,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,1
+onelook.com,predation,"the process of a predator hunting, killing and eating its prey",1
+onelook.com,hunter,someone who hunts,1
+onelook.com,prey,an animal that is the object of hunting,2
+onelook.com,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,-1
+onelook.com,scouring,to search carefully with vigorous effort,-1
+onelook.com,shop,an institution or place offering goods for sale,2
+onelook.com,hound,a type of dog bred or trained for hunting,58
+onelook.com,chase,to follow in an effort to catch or attack,2
+onelook.com,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",1
+onelook.com,prospect,the outlook or anticipated result,1
+onelook.com,club,a heavy wooden bat used as a weapon,1
+onelook.com,pursuit,the process of following a particular object or goal in focus,1
+onelook.com,trap,a device or situation that appears to be something else but is designed to capture a victim,1
+onelook.com,trace,a series of hints or marks that can be followed,-1
+onelook.com,kill,to take the life of something,1
+onelook.com,snare,a small trap for an animal,1
+onelook.com,ambush,a surprise attack,1
+onelook.com,bounty,money advertised to be payed in reward of some action,1
+onelook.com,gun,a weapon made from metal that fires a bullet,1
+onelook.com,probe,to carefully advance,-1
+onelook.com,manhunt,an organised search for a person,1
+onelook.com,quest,a journey with a particular goal,1
+onelook.com,forage,to search for and collect plants or fungi for food or material in the wild,1
+onelook.com,catch,to take hold of something mid air,1
+onelook.com,track,a trace left in the ground,4
+onelook.com,drive,to chase or heard a particular group of animals in a hunt,3
+onelook.com,foraging,the process of searching for and collecting food or material in the wild,1
+onelook.com,pursue,to follow an object or goal with dedication,1
+onelook.com,snipe,to hurt or kill someone from a hiding place at a distance,1
+onelook.com,run,to move quickly using one's legs,1
+onelook.com,search,the traversal of a collection or area with the aim of finding a particular thing,1
+onelook.com,hunt,"to identify a target, pursure and capture it",1
+onelook.com,whale,very large mammal that lives in water,1
+onelook.com,shakedown,the act of searching thoroughly a person,-1
+onelook.com,explore,to search with curiosity,1

@@ -1,0 +1,44 @@
+model name,word,test set definition,ranking
+multi-qa-distilbert-cos-v1,can,a cylindrical container made from metal,-1
+multi-qa-distilbert-cos-v1,timpani,a thunder-like drum,-1
+multi-qa-distilbert-cos-v1,sound,"distinguishable, audible signal",2
+multi-qa-distilbert-cos-v1,guitar,a popular musical instrument with strings and fretted fingerboard,1
+multi-qa-distilbert-cos-v1,orchestral,marked by involvement of an orchestra,1
+multi-qa-distilbert-cos-v1,cannister,"a round container with a lid, usually made from metal",7
+multi-qa-distilbert-cos-v1,trumpet,a musical instrument made from brass associated with fanfares,-1
+multi-qa-distilbert-cos-v1,bucket,a cylindrical container with top face as opening often with a handle,1
+multi-qa-distilbert-cos-v1,saxophone,a reeded instrument often used in jazz music,4
+multi-qa-distilbert-cos-v1,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,3
+multi-qa-distilbert-cos-v1,bat,a wooden tool designed to hit something,-1
+multi-qa-distilbert-cos-v1,barrel,a large cylindrical container made from wood,-1
+multi-qa-distilbert-cos-v1,cram,to force large amount into a smaller space,-1
+multi-qa-distilbert-cos-v1,harmonica,"a small, informal musical instrument played by mouth producing chords",-1
+multi-qa-distilbert-cos-v1,thump,a blunt sound,-1
+multi-qa-distilbert-cos-v1,band,an informal group of musicians,-1
+multi-qa-distilbert-cos-v1,pat,a gentle but fast touch with fingers or palm,-1
+multi-qa-distilbert-cos-v1,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",4
+multi-qa-distilbert-cos-v1,tin,a small container made from metal,2
+multi-qa-distilbert-cos-v1,rap,spoken song often marked by speed,-1
+multi-qa-distilbert-cos-v1,drumhead,material making up the vibrating surface of a drum,-1
+multi-qa-distilbert-cos-v1,bongo,a small hand drum often attached in a pair,-1
+multi-qa-distilbert-cos-v1,knock,swiftly hit surface with knuckles creating a sound,-1
+multi-qa-distilbert-cos-v1,pail,a cylindrical container with top face as opening often with a handle,-1
+multi-qa-distilbert-cos-v1,clap,a swift motion connecting the palms of one's hands creating a sound,-1
+multi-qa-distilbert-cos-v1,slam,to move something forcefully with the expectation it comes to a quick stop,-1
+multi-qa-distilbert-cos-v1,percussion,the collection of instruments or sounds produced by hitting objects,-1
+multi-qa-distilbert-cos-v1,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,-1
+multi-qa-distilbert-cos-v1,snare,a small trap for animals,-1
+multi-qa-distilbert-cos-v1,music,the artistical and intentional arrangement of sounds,-1
+multi-qa-distilbert-cos-v1,drummer,someone who plays the drums,-1
+multi-qa-distilbert-cos-v1,beat,a rhythm created by percussion,-1
+multi-qa-distilbert-cos-v1,bugle,"a small, simple signaling brass instrument",-1
+multi-qa-distilbert-cos-v1,tap,to pat gently with fingertips,7
+multi-qa-distilbert-cos-v1,drum,percussive instrument often used to create rhythm,6
+multi-qa-distilbert-cos-v1,hit,forceful and fast motion to connect with object,-1
+multi-qa-distilbert-cos-v1,thrum,a motion to play all strings of a guitar,2
+multi-qa-distilbert-cos-v1,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+multi-qa-distilbert-cos-v1,cymbal,percussive instrument made from thin metal often used in pairs,-1
+multi-qa-distilbert-cos-v1,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,-1
+multi-qa-distilbert-cos-v1,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",-1
+multi-qa-distilbert-cos-v1,pound,to knock bluntly and repeatedly,-1
+multi-qa-distilbert-cos-v1,djembe,"a goblet shaped, african drum played with hands",-1

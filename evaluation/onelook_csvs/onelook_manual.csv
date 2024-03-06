@@ -1,0 +1,219 @@
+model name,word,test set definition,ranking
+onelook.com,can,a cylindrical container made from metal,-1
+onelook.com,timpani,a thunder-like drum,2
+onelook.com,sound,"distinguishable, audible signal",-1
+onelook.com,guitar,a popular musical instrument with strings and fretted fingerboard,1
+onelook.com,orchestral,marked by involvement of an orchestra,1
+onelook.com,cannister,"a round container with a lid, usually made from metal",-1
+onelook.com,trumpet,a musical instrument made from brass associated with fanfares,1
+onelook.com,bucket,a cylindrical container with top face as opening often with a handle,-1
+onelook.com,saxophone,a reeded instrument often used in jazz music,1
+onelook.com,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,114
+onelook.com,bat,a wooden tool designed to hit something,-1
+onelook.com,barrel,a large cylindrical container made from wood,1
+onelook.com,cram,to force large amount into a smaller space,10
+onelook.com,harmonica,"a small, informal musical instrument played by mouth producing chords",1
+onelook.com,thump,a blunt sound,3
+onelook.com,band,an informal group of musicians,1
+onelook.com,pat,a gentle but fast touch with fingers or palm,3
+onelook.com,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",159
+onelook.com,tin,a small container made from metal,1
+onelook.com,rap,spoken song often marked by speed,1
+onelook.com,drumhead,material making up the vibrating surface of a drum,1
+onelook.com,bongo,a small hand drum often attached in a pair,3
+onelook.com,knock,swiftly hit surface with knuckles creating a sound,1
+onelook.com,pail,a cylindrical container with top face as opening often with a handle,-1
+onelook.com,clap,a swift motion connecting the palms of one's hands creating a sound,1
+onelook.com,slam,to move something forcefully with the expectation it comes to a quick stop,-1
+onelook.com,percussion,the collection of instruments or sounds produced by hitting objects,1
+onelook.com,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,10
+onelook.com,snare,a small trap for animals,1
+onelook.com,music,the artistical and intentional arrangement of sounds,1
+onelook.com,drummer,someone who plays the drums,1
+onelook.com,beat,a rhythm created by percussion,1
+onelook.com,bugle,"a small, simple signaling brass instrument",1
+onelook.com,tap,to pat gently with fingertips,-1
+onelook.com,drum,percussive instrument often used to create rhythm,1
+onelook.com,hit,forceful and fast motion to connect with object,2
+onelook.com,thrum,a motion to play all strings of a guitar,10
+onelook.com,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+onelook.com,cymbal,percussive instrument made from thin metal often used in pairs,1
+onelook.com,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+onelook.com,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",13
+onelook.com,pound,to knock bluntly and repeatedly,1
+onelook.com,djembe,"a goblet shaped, african drum played with hands",1
+
+onelook.com,educationist,someone who educates or reasons about education as a profession,-1
+onelook.com,lyceum,a small lecture theatre,100
+onelook.com,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",4
+onelook.com,development,progress in growth as a child,1
+onelook.com,society,a set of conventions and norms set in place by a community of humans,3
+onelook.com,lesson,a unit of teaching in time or topic,1
+onelook.com,course,a collection of lessons often with a unified goal or story,3
+onelook.com,classwork,component of learning that is actively completed in class,1
+onelook.com,homework,component of learning that is completed at home after time spent with a teacher,1
+onelook.com,teacher,leader and educator of a class with specialised knowledge,3
+onelook.com,tuition,specialised teaching often personalised or paid for,7
+onelook.com,tutoring,private often additional teaching,1
+onelook.com,knowledge,collection of justified beliefs able to be recalled,1
+onelook.com,experience,knowledge gained by having observed a variety of situations,1
+onelook.com,skill,practical knowledge,-1
+onelook.com,training,practise of a special skill often with instruction,1
+onelook.com,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,1
+onelook.com,literacy,being able to read and write,1
+onelook.com,preparation,the process of transitioning into a state of readiness for a certain task,1
+onelook.com,erudition,"having or obtaining rare, deep knowledge",77
+onelook.com,tutelage,"private, individual teaching",14
+onelook.com,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",1
+onelook.com,educational,with benefit regarding teaching or learning,1
+onelook.com,school,institution of teaching and learning,1
+onelook.com,student,a person being taught in an institution,1
+onelook.com,pedagogy,the academic study of approaches to teaching and education,1
+onelook.com,curriculum,a pre-set outline of topics of study,1
+onelook.com,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",4
+onelook.com,profession,a primary occupation one earns money with,2
+onelook.com,schooling,the collection of instruction and teaching given at an institution often a school,25
+onelook.com,learning,the process of acquiring a skill or knowledge,1
+onelook.com,instruction,the process of telling someone what to do and how to do it,1
+onelook.com,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",1
+onelook.com,adult,someone responsible for oneself,-1
+onelook.com,coeducation,the educational paradigm of mixing children of different genders at school,1
+onelook.com,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,25
+onelook.com,education,the field of learning and teaching,1
+onelook.com,university,an institution of higher learning marked by programs that award degrees and research,1
+onelook.com,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,-1
+onelook.com,classroom,a room designated for teaching small groups,1
+onelook.com,didactics,"teaching in a unforgiving, stern manner often moral",-1
+onelook.com,research,gathering of knowledge and novel insights,3
+onelook.com,preschool,"time, age or institution before school",1
+onelook.com,humanities,a collection of fields of study relating to the human experience,1
+onelook.com,undergraduate,before obtaining a degree,2
+onelook.com,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,1
+
+onelook.com,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,10
+onelook.com,psychology,the field of study of human behaviour,1
+onelook.com,sympathy,a feeling marked by similarity or connection,-1
+onelook.com,fear,feeling in response to danger or anticipated powerlessness or vulnerability,2
+onelook.com,chord,a collection of musical notes often creating a sentiment,-1
+onelook.com,mood,the combination of emotions felt at a point in time,1
+onelook.com,ardor,"feeling an emotion to a great extent, often enthusiasm",4
+onelook.com,anxiety,a feeling of uncertainty or fear often in anticipation,1
+onelook.com,impression,a shape or emotional state left by something,1
+onelook.com,sentiment,a collection of emotions often of a group of people regarding a particular subject,1
+onelook.com,fervency,feeling marked by strength and sincerity,-1
+onelook.com,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,-1
+onelook.com,love,"the feeling of deep affection for a small, select group of people",-1
+onelook.com,intensity,measure of forcefulness or vibrance,1
+onelook.com,anger,"strong, sometimes aggressive feeling of extreme frustration",2
+onelook.com,fire,flaming appearance of energy produced by combustion,2
+onelook.com,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,4
+onelook.com,heat,expression of high energy,-1
+onelook.com,joy,a feeling of extreme happyness or exultation,5
+onelook.com,perception,a notion created by observation,-1
+onelook.com,happiness,a positive feeling marked by pleasure or satisfaction,2
+onelook.com,enthusiasm,feeling of excitement marked by great energy and anticipation,2
+onelook.com,sensation,perception of a physical feeling,1
+onelook.com,sense,logical coherence or rationality,-1
+onelook.com,consciousness,the ability to observe one's thoughts,-1
+onelook.com,excitement,the feeling of being happy in anticipation,1
+onelook.com,emotionality,the state of having or expressing strong feelings,-1
+onelook.com,vehemence,measure of great intensity,-1
+onelook.com,violence,display or act of physical force causing harm,1
+onelook.com,compassion,the feeling or acting upon profound understanding and kindness,1
+onelook.com,empathy,the ability to put oneself into someone else's situation,1
+onelook.com,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,-1
+onelook.com,feeling,a less defined emotion,-1
+onelook.com,emotional,marked by emotion often in negative context,1
+onelook.com,emotion,a defined mental state in response to a situation or event,1
+onelook.com,fervor,a feeling marked by strength and sincerity,7
+onelook.com,awe,the state of feeling a combination of profound respect and admiration,1
+onelook.com,indignation,a feeling of anger or frustration caused by the perception of something unjust,2
+
+onelook.com,look,to focus one's gaze in a particular direction,3
+onelook.com,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",-1
+onelook.com,falcon,a bird of prey often trained for hunting,1
+onelook.com,ferret,"a small, domesticated mammal used for hunting rabbits",1
+onelook.com,fowl,a type of bird kept for producing meat or eggs,60
+onelook.com,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,1
+onelook.com,shoot,fire a projectile or arrow at a target with a weapon,1
+onelook.com,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,1
+onelook.com,predation,"the process of a predator hunting, killing and eating its prey",1
+onelook.com,hunter,someone who hunts,1
+onelook.com,prey,an animal that is the object of hunting,2
+onelook.com,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,-1
+onelook.com,scouring,to search carefully with vigorous effort,-1
+onelook.com,shop,an institution or place offering goods for sale,2
+onelook.com,hound,a type of dog bred or trained for hunting,58
+onelook.com,chase,to follow in an effort to catch or attack,2
+onelook.com,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",1
+onelook.com,prospect,the outlook or anticipated result,1
+onelook.com,club,a heavy wooden bat used as a weapon,1
+onelook.com,pursuit,the process of following a particular object or goal in focus,1
+onelook.com,trap,a device or situation that appears to be something else but is designed to capture a victim,1
+onelook.com,trace,a series of hints or marks that can be followed,-1
+onelook.com,kill,to take the life of something,1
+onelook.com,snare,a small trap for an animal,1
+onelook.com,ambush,a surprise attack,1
+onelook.com,bounty,money advertised to be payed in reward of some action,1
+onelook.com,gun,a weapon made from metal that fires a bullet,1
+onelook.com,probe,to carefully advance,-1
+onelook.com,manhunt,an organised search for a person,1
+onelook.com,quest,a journey with a particular goal,1
+onelook.com,forage,to search for and collect plants or fungi for food or material in the wild,1
+onelook.com,catch,to take hold of something mid air,1
+onelook.com,track,a trace left in the ground,4
+onelook.com,drive,to chase or heard a particular group of animals in a hunt,3
+onelook.com,foraging,the process of searching for and collecting food or material in the wild,1
+onelook.com,pursue,to follow an object or goal with dedication,1
+onelook.com,snipe,to hurt or kill someone from a hiding place at a distance,1
+onelook.com,run,to move quickly using one's legs,1
+onelook.com,search,the traversal of a collection or area with the aim of finding a particular thing,1
+onelook.com,hunt,"to identify a target, pursure and capture it",1
+onelook.com,whale,very large mammal that lives in water,1
+onelook.com,shakedown,the act of searching thoroughly a person,-1
+onelook.com,explore,to search with curiosity,1
+
+onelook.com,technology,"the field of human advancement in machines, automation and communication",1
+onelook.com,device,a portable unit of electronic machinery,1
+onelook.com,robotics,"the field to make mechanical, moving aids to humans",1
+onelook.com,technical,marked by precision,-1
+onelook.com,development,human progress,2
+onelook.com,invention,a novel device or mechanism,2
+onelook.com,telephone,a device enabling remote communication,-1
+onelook.com,biomedical,relating to the field of biology and medicine,1
+onelook.com,machine,a collection of mechanical parts interacting to achieve a greater goal,5
+onelook.com,expertise,great knowledge,1
+onelook.com,instrument,a specialised tool,-1
+onelook.com,automation,the goal or process to reduce the requirement for manual labour,1
+onelook.com,manufacturing,the process of assembling usually by hand,-1
+onelook.com,progress,momentum marked by an increase in quality or quantity,141
+onelook.com,wireless,without wires or physical connection,1
+onelook.com,computer,a calculating machine operating in binary,1
+onelook.com,digital,discrete valued,-1
+onelook.com,computing,calculating in a mechanical manner,-1
+onelook.com,communication,conveying a message and response,1
+onelook.com,internet,an electronically connected net of resources and communication channels,1
+onelook.com,scientific,marked by empiricism and curiosity,-1
+onelook.com,nanotechnology,technology in the scale of atoms and molecules,1
+onelook.com,devices,"multiple units of portable, electronic machinery",1
+onelook.com,energy,the work or effort needed or given,-1
+onelook.com,hardware,physical components of a machine or system,1
+onelook.com,technological,relating to technology,1
+onelook.com,gadget,a device with nifty purpose,1
+onelook.com,systems,multiple sets of connected components that work together,-1
+onelook.com,innovation,the spirit of novelty and progress,1
+onelook.com,wheel,a circular object on an axis facilitating motion,1
+onelook.com,equipment,a set of tools or supplies needed for a job,3
+onelook.com,biotechnology,a subfield of technology involving or relating to living organisms,1
+onelook.com,software,non physical component of a machine or technological process,1
+onelook.com,science,the empirical endeavour to quantify and explain observable phenomena,1
+onelook.com,mechanism,a set of interacting parts to achieve a small function,-1
+onelook.com,electronics,a set of components related to the conduction and control of electricity,-1
+onelook.com,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",1
+onelook.com,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,1
+onelook.com,application,directional addition of something,-1
+onelook.com,tech,short for technology,1
+onelook.com,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",1
+onelook.com,tool,a device intended for and used by a human to help with a specfic task,1
+onelook.com,industry,the act or field of labour and manufacture,1
+onelook.com,bionics,technology inspired by biology,3

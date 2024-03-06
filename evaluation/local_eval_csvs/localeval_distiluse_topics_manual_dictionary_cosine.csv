@@ -1,0 +1,215 @@
+model name,word,test set definition,ranking
+distiluse-base-multilingual-cased-v1,can,a cylindrical container made from metal,10
+distiluse-base-multilingual-cased-v1,timpani,a thunder-like drum,3
+distiluse-base-multilingual-cased-v1,sound,"distinguishable, audible signal",5
+distiluse-base-multilingual-cased-v1,guitar,a popular musical instrument with strings and fretted fingerboard,2
+distiluse-base-multilingual-cased-v1,orchestral,marked by involvement of an orchestra,1
+distiluse-base-multilingual-cased-v1,cannister,"a round container with a lid, usually made from metal",1
+distiluse-base-multilingual-cased-v1,trumpet,a musical instrument made from brass associated with fanfares,8
+distiluse-base-multilingual-cased-v1,bucket,a cylindrical container with top face as opening often with a handle,5
+distiluse-base-multilingual-cased-v1,saxophone,a reeded instrument often used in jazz music,11
+distiluse-base-multilingual-cased-v1,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,5
+distiluse-base-multilingual-cased-v1,bat,a wooden tool designed to hit something,1
+distiluse-base-multilingual-cased-v1,barrel,a large cylindrical container made from wood,1
+distiluse-base-multilingual-cased-v1,cram,to force large amount into a smaller space,1
+distiluse-base-multilingual-cased-v1,harmonica,"a small, informal musical instrument played by mouth producing chords",6
+distiluse-base-multilingual-cased-v1,thump,a blunt sound,1
+distiluse-base-multilingual-cased-v1,band,an informal group of musicians,1
+distiluse-base-multilingual-cased-v1,pat,a gentle but fast touch with fingers or palm,1
+distiluse-base-multilingual-cased-v1,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",1
+distiluse-base-multilingual-cased-v1,tin,a small container made from metal,1
+distiluse-base-multilingual-cased-v1,rap,spoken song often marked by speed,1
+distiluse-base-multilingual-cased-v1,drumhead,material making up the vibrating surface of a drum,1
+distiluse-base-multilingual-cased-v1,bongo,a small hand drum often attached in a pair,2
+distiluse-base-multilingual-cased-v1,knock,swiftly hit surface with knuckles creating a sound,4
+distiluse-base-multilingual-cased-v1,pail,a cylindrical container with top face as opening often with a handle,1
+distiluse-base-multilingual-cased-v1,clap,a swift motion connecting the palms of one's hands creating a sound,1
+distiluse-base-multilingual-cased-v1,slam,to move something forcefully with the expectation it comes to a quick stop,17
+distiluse-base-multilingual-cased-v1,percussion,the collection of instruments or sounds produced by hitting objects,9
+distiluse-base-multilingual-cased-v1,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,1
+distiluse-base-multilingual-cased-v1,snare,a small trap for animals,3
+distiluse-base-multilingual-cased-v1,music,the artistical and intentional arrangement of sounds,1
+distiluse-base-multilingual-cased-v1,drummer,someone who plays the drums,1
+distiluse-base-multilingual-cased-v1,beat,a rhythm created by percussion,24
+distiluse-base-multilingual-cased-v1,bugle,"a small, simple signaling brass instrument",1
+distiluse-base-multilingual-cased-v1,tap,to pat gently with fingertips,5
+distiluse-base-multilingual-cased-v1,drum,percussive instrument often used to create rhythm,16
+distiluse-base-multilingual-cased-v1,hit,forceful and fast motion to connect with object,4
+distiluse-base-multilingual-cased-v1,thrum,a motion to play all strings of a guitar,1
+distiluse-base-multilingual-cased-v1,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+distiluse-base-multilingual-cased-v1,cymbal,percussive instrument made from thin metal often used in pairs,1
+distiluse-base-multilingual-cased-v1,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+distiluse-base-multilingual-cased-v1,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",1
+distiluse-base-multilingual-cased-v1,pound,to knock bluntly and repeatedly,1
+distiluse-base-multilingual-cased-v1,djembe,"a goblet shaped, african drum played with hands",1
+distiluse-base-multilingual-cased-v1,educationist,someone who educates or reasons about education as a profession,11
+distiluse-base-multilingual-cased-v1,lyceum,a small lecture theatre,83
+distiluse-base-multilingual-cased-v1,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",2
+distiluse-base-multilingual-cased-v1,development,progress in growth as a child,1
+distiluse-base-multilingual-cased-v1,society,a set of conventions and norms set in place by a community of humans,1
+distiluse-base-multilingual-cased-v1,lesson,a unit of teaching in time or topic,29
+distiluse-base-multilingual-cased-v1,course,a collection of lessons often with a unified goal or story,88
+distiluse-base-multilingual-cased-v1,classwork,component of learning that is actively completed in class,1
+distiluse-base-multilingual-cased-v1,homework,component of learning that is completed at home after time spent with a teacher,3
+distiluse-base-multilingual-cased-v1,teacher,leader and educator of a class with specialised knowledge,1
+distiluse-base-multilingual-cased-v1,tuition,specialised teaching often personalised or paid for,2
+distiluse-base-multilingual-cased-v1,tutoring,private often additional teaching,2
+distiluse-base-multilingual-cased-v1,knowledge,collection of justified beliefs able to be recalled,22
+distiluse-base-multilingual-cased-v1,experience,knowledge gained by having observed a variety of situations,63
+distiluse-base-multilingual-cased-v1,skill,practical knowledge,30
+distiluse-base-multilingual-cased-v1,training,practise of a special skill often with instruction,21
+distiluse-base-multilingual-cased-v1,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,6
+distiluse-base-multilingual-cased-v1,literacy,being able to read and write,1
+distiluse-base-multilingual-cased-v1,preparation,the process of transitioning into a state of readiness for a certain task,1
+distiluse-base-multilingual-cased-v1,erudition,"having or obtaining rare, deep knowledge",2
+distiluse-base-multilingual-cased-v1,tutelage,"private, individual teaching",2
+distiluse-base-multilingual-cased-v1,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",1
+distiluse-base-multilingual-cased-v1,educational,with benefit regarding teaching or learning,1
+distiluse-base-multilingual-cased-v1,school,institution of teaching and learning,6
+distiluse-base-multilingual-cased-v1,student,a person being taught in an institution,6
+distiluse-base-multilingual-cased-v1,pedagogy,the academic study of approaches to teaching and education,14
+distiluse-base-multilingual-cased-v1,curriculum,a pre-set outline of topics of study,1
+distiluse-base-multilingual-cased-v1,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",2
+distiluse-base-multilingual-cased-v1,profession,a primary occupation one earns money with,2
+distiluse-base-multilingual-cased-v1,schooling,the collection of instruction and teaching given at an institution often a school,1
+distiluse-base-multilingual-cased-v1,learning,the process of acquiring a skill or knowledge,1
+distiluse-base-multilingual-cased-v1,instruction,the process of telling someone what to do and how to do it,11
+distiluse-base-multilingual-cased-v1,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",1
+distiluse-base-multilingual-cased-v1,adult,someone responsible for oneself,4
+distiluse-base-multilingual-cased-v1,coeducation,the educational paradigm of mixing children of different genders at school,2
+distiluse-base-multilingual-cased-v1,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,12
+distiluse-base-multilingual-cased-v1,education,the field of learning and teaching,5
+distiluse-base-multilingual-cased-v1,university,an institution of higher learning marked by programs that award degrees and research,1
+distiluse-base-multilingual-cased-v1,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,6
+distiluse-base-multilingual-cased-v1,classroom,a room designated for teaching small groups,2
+distiluse-base-multilingual-cased-v1,didactics,"teaching in a unforgiving, stern manner often moral",2
+distiluse-base-multilingual-cased-v1,research,gathering of knowledge and novel insights,5
+distiluse-base-multilingual-cased-v1,preschool,"time, age or institution before school",1
+distiluse-base-multilingual-cased-v1,humanities,a collection of fields of study relating to the human experience,2
+distiluse-base-multilingual-cased-v1,undergraduate,before obtaining a degree,1
+distiluse-base-multilingual-cased-v1,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,1
+distiluse-base-multilingual-cased-v1,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,1
+distiluse-base-multilingual-cased-v1,psychology,the field of study of human behaviour,1
+distiluse-base-multilingual-cased-v1,sympathy,a feeling marked by similarity or connection,8
+distiluse-base-multilingual-cased-v1,fear,feeling in response to danger or anticipated powerlessness or vulnerability,1
+distiluse-base-multilingual-cased-v1,chord,a collection of musical notes often creating a sentiment,9
+distiluse-base-multilingual-cased-v1,mood,the combination of emotions felt at a point in time,6
+distiluse-base-multilingual-cased-v1,ardor,"feeling an emotion to a great extent, often enthusiasm",1
+distiluse-base-multilingual-cased-v1,anxiety,a feeling of uncertainty or fear often in anticipation,3
+distiluse-base-multilingual-cased-v1,impression,a shape or emotional state left by something,13
+distiluse-base-multilingual-cased-v1,sentiment,a collection of emotions often of a group of people regarding a particular subject,3
+distiluse-base-multilingual-cased-v1,fervency,feeling marked by strength and sincerity,35
+distiluse-base-multilingual-cased-v1,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,4
+distiluse-base-multilingual-cased-v1,love,"the feeling of deep affection for a small, select group of people",3
+distiluse-base-multilingual-cased-v1,intensity,measure of forcefulness or vibrance,4
+distiluse-base-multilingual-cased-v1,anger,"strong, sometimes aggressive feeling of extreme frustration",1
+distiluse-base-multilingual-cased-v1,fire,flaming appearance of energy produced by combustion,50
+distiluse-base-multilingual-cased-v1,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,1
+distiluse-base-multilingual-cased-v1,heat,expression of high energy,20
+distiluse-base-multilingual-cased-v1,joy,a feeling of extreme happyness or exultation,3
+distiluse-base-multilingual-cased-v1,perception,a notion created by observation,7
+distiluse-base-multilingual-cased-v1,happiness,a positive feeling marked by pleasure or satisfaction,1
+distiluse-base-multilingual-cased-v1,enthusiasm,feeling of excitement marked by great energy and anticipation,13
+distiluse-base-multilingual-cased-v1,sensation,perception of a physical feeling,2
+distiluse-base-multilingual-cased-v1,sense,logical coherence or rationality,-1
+distiluse-base-multilingual-cased-v1,consciousness,the ability to observe one's thoughts,8
+distiluse-base-multilingual-cased-v1,excitement,the feeling of being happy in anticipation,22
+distiluse-base-multilingual-cased-v1,emotionality,the state of having or expressing strong feelings,2
+distiluse-base-multilingual-cased-v1,vehemence,measure of great intensity,2
+distiluse-base-multilingual-cased-v1,violence,display or act of physical force causing harm,1
+distiluse-base-multilingual-cased-v1,compassion,the feeling or acting upon profound understanding and kindness,27
+distiluse-base-multilingual-cased-v1,empathy,the ability to put oneself into someone else's situation,1
+distiluse-base-multilingual-cased-v1,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,6
+distiluse-base-multilingual-cased-v1,feeling,a less defined emotion,10
+distiluse-base-multilingual-cased-v1,emotional,marked by emotion often in negative context,1
+distiluse-base-multilingual-cased-v1,emotion,a defined mental state in response to a situation or event,23
+distiluse-base-multilingual-cased-v1,fervor,a feeling marked by strength and sincerity,3
+distiluse-base-multilingual-cased-v1,awe,the state of feeling a combination of profound respect and admiration,12
+distiluse-base-multilingual-cased-v1,indignation,a feeling of anger or frustration caused by the perception of something unjust,-1
+distiluse-base-multilingual-cased-v1,look,to focus one's gaze in a particular direction,1
+distiluse-base-multilingual-cased-v1,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",1
+distiluse-base-multilingual-cased-v1,falcon,a bird of prey often trained for hunting,6
+distiluse-base-multilingual-cased-v1,ferret,"a small, domesticated mammal used for hunting rabbits",3
+distiluse-base-multilingual-cased-v1,fowl,a type of bird kept for producing meat or eggs,2
+distiluse-base-multilingual-cased-v1,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,1
+distiluse-base-multilingual-cased-v1,shoot,fire a projectile or arrow at a target with a weapon,1
+distiluse-base-multilingual-cased-v1,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,98
+distiluse-base-multilingual-cased-v1,predation,"the process of a predator hunting, killing and eating its prey",18
+distiluse-base-multilingual-cased-v1,hunter,someone who hunts,1
+distiluse-base-multilingual-cased-v1,prey,an animal that is the object of hunting,1
+distiluse-base-multilingual-cased-v1,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,11
+distiluse-base-multilingual-cased-v1,scouring,to search carefully with vigorous effort,2
+distiluse-base-multilingual-cased-v1,shop,an institution or place offering goods for sale,3
+distiluse-base-multilingual-cased-v1,hound,a type of dog bred or trained for hunting,3
+distiluse-base-multilingual-cased-v1,chase,to follow in an effort to catch or attack,3
+distiluse-base-multilingual-cased-v1,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",1
+distiluse-base-multilingual-cased-v1,prospect,the outlook or anticipated result,1
+distiluse-base-multilingual-cased-v1,club,a heavy wooden bat used as a weapon,1
+distiluse-base-multilingual-cased-v1,pursuit,the process of following a particular object or goal in focus,12
+distiluse-base-multilingual-cased-v1,trap,a device or situation that appears to be something else but is designed to capture a victim,9
+distiluse-base-multilingual-cased-v1,trace,a series of hints or marks that can be followed,2
+distiluse-base-multilingual-cased-v1,kill,to take the life of something,1
+distiluse-base-multilingual-cased-v1,snare,a small trap for an animal,3
+distiluse-base-multilingual-cased-v1,ambush,a surprise attack,1
+distiluse-base-multilingual-cased-v1,bounty,money advertised to be payed in reward of some action,16
+distiluse-base-multilingual-cased-v1,gun,a weapon made from metal that fires a bullet,1
+distiluse-base-multilingual-cased-v1,probe,to carefully advance,-1
+distiluse-base-multilingual-cased-v1,manhunt,an organised search for a person,1
+distiluse-base-multilingual-cased-v1,quest,a journey with a particular goal,32
+distiluse-base-multilingual-cased-v1,forage,to search for and collect plants or fungi for food or material in the wild,1
+distiluse-base-multilingual-cased-v1,catch,to take hold of something mid air,10
+distiluse-base-multilingual-cased-v1,track,a trace left in the ground,4
+distiluse-base-multilingual-cased-v1,drive,to chase or heard a particular group of animals in a hunt,11
+distiluse-base-multilingual-cased-v1,foraging,the process of searching for and collecting food or material in the wild,2
+distiluse-base-multilingual-cased-v1,pursue,to follow an object or goal with dedication,9
+distiluse-base-multilingual-cased-v1,snipe,to hurt or kill someone from a hiding place at a distance,-1
+distiluse-base-multilingual-cased-v1,run,to move quickly using one's legs,1
+distiluse-base-multilingual-cased-v1,search,the traversal of a collection or area with the aim of finding a particular thing,7
+distiluse-base-multilingual-cased-v1,hunt,"to identify a target, pursure and capture it",43
+distiluse-base-multilingual-cased-v1,whale,very large mammal that lives in water,10
+distiluse-base-multilingual-cased-v1,shakedown,the act of searching thoroughly a person,1
+distiluse-base-multilingual-cased-v1,explore,to search with curiosity,7
+distiluse-base-multilingual-cased-v1,technology,"the field of human advancement in machines, automation and communication",49
+distiluse-base-multilingual-cased-v1,device,a portable unit of electronic machinery,21
+distiluse-base-multilingual-cased-v1,robotics,"the field to make mechanical, moving aids to humans",5
+distiluse-base-multilingual-cased-v1,technical,marked by precision,19
+distiluse-base-multilingual-cased-v1,development,human progress,2
+distiluse-base-multilingual-cased-v1,invention,a novel device or mechanism,20
+distiluse-base-multilingual-cased-v1,telephone,a device enabling remote communication,4
+distiluse-base-multilingual-cased-v1,biomedical,relating to the field of biology and medicine,1
+distiluse-base-multilingual-cased-v1,machine,a collection of mechanical parts interacting to achieve a greater goal,1
+distiluse-base-multilingual-cased-v1,expertise,great knowledge,9
+distiluse-base-multilingual-cased-v1,instrument,a specialised tool,10
+distiluse-base-multilingual-cased-v1,automation,the goal or process to reduce the requirement for manual labour,10
+distiluse-base-multilingual-cased-v1,manufacturing,the process of assembling usually by hand,8
+distiluse-base-multilingual-cased-v1,progress,momentum marked by an increase in quality or quantity,19
+distiluse-base-multilingual-cased-v1,wireless,without wires or physical connection,1
+distiluse-base-multilingual-cased-v1,computer,a calculating machine operating in binary,1
+distiluse-base-multilingual-cased-v1,digital,discrete valued,17
+distiluse-base-multilingual-cased-v1,computing,calculating in a mechanical manner,1
+distiluse-base-multilingual-cased-v1,communication,conveying a message and response,1
+distiluse-base-multilingual-cased-v1,internet,an electronically connected net of resources and communication channels,1
+distiluse-base-multilingual-cased-v1,scientific,marked by empiricism and curiosity,8
+distiluse-base-multilingual-cased-v1,nanotechnology,technology in the scale of atoms and molecules,1
+distiluse-base-multilingual-cased-v1,devices,"multiple units of portable, electronic machinery",1
+distiluse-base-multilingual-cased-v1,energy,the work or effort needed or given,1
+distiluse-base-multilingual-cased-v1,hardware,physical components of a machine or system,10
+distiluse-base-multilingual-cased-v1,technological,relating to technology,2
+distiluse-base-multilingual-cased-v1,gadget,a device with nifty purpose,6
+distiluse-base-multilingual-cased-v1,systems,multiple sets of connected components that work together,4
+distiluse-base-multilingual-cased-v1,innovation,the spirit of novelty and progress,1
+distiluse-base-multilingual-cased-v1,wheel,a circular object on an axis facilitating motion,2
+distiluse-base-multilingual-cased-v1,equipment,a set of tools or supplies needed for a job,2
+distiluse-base-multilingual-cased-v1,biotechnology,a subfield of technology involving or relating to living organisms,15
+distiluse-base-multilingual-cased-v1,software,non physical component of a machine or technological process,70
+distiluse-base-multilingual-cased-v1,science,the empirical endeavour to quantify and explain observable phenomena,1
+distiluse-base-multilingual-cased-v1,mechanism,a set of interacting parts to achieve a small function,-1
+distiluse-base-multilingual-cased-v1,electronics,a set of components related to the conduction and control of electricity,9
+distiluse-base-multilingual-cased-v1,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",30
+distiluse-base-multilingual-cased-v1,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,1
+distiluse-base-multilingual-cased-v1,application,directional addition of something,20
+distiluse-base-multilingual-cased-v1,tech,short for technology,1
+distiluse-base-multilingual-cased-v1,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",3
+distiluse-base-multilingual-cased-v1,tool,a device intended for and used by a human to help with a specfic task,3
+distiluse-base-multilingual-cased-v1,industry,the act or field of labour and manufacture,11
+distiluse-base-multilingual-cased-v1,bionics,technology inspired by biology,10

@@ -1,0 +1,45 @@
+model name,word,test set definition,ranking
+onelook.com,technology,"the field of human advancement in machines, automation and communication",1
+onelook.com,device,a portable unit of electronic machinery,1
+onelook.com,robotics,"the field to make mechanical, moving aids to humans",1
+onelook.com,technical,marked by precision,-1
+onelook.com,development,human progress,2
+onelook.com,invention,a novel device or mechanism,2
+onelook.com,telephone,a device enabling remote communication,-1
+onelook.com,biomedical,relating to the field of biology and medicine,1
+onelook.com,machine,a collection of mechanical parts interacting to achieve a greater goal,5
+onelook.com,expertise,great knowledge,1
+onelook.com,instrument,a specialised tool,-1
+onelook.com,automation,the goal or process to reduce the requirement for manual labour,1
+onelook.com,manufacturing,the process of assembling usually by hand,-1
+onelook.com,progress,momentum marked by an increase in quality or quantity,141
+onelook.com,wireless,without wires or physical connection,1
+onelook.com,computer,a calculating machine operating in binary,1
+onelook.com,digital,discrete valued,-1
+onelook.com,computing,calculating in a mechanical manner,-1
+onelook.com,communication,conveying a message and response,1
+onelook.com,internet,an electronically connected net of resources and communication channels,1
+onelook.com,scientific,marked by empiricism and curiosity,-1
+onelook.com,nanotechnology,technology in the scale of atoms and molecules,1
+onelook.com,devices,"multiple units of portable, electronic machinery",1
+onelook.com,energy,the work or effort needed or given,-1
+onelook.com,hardware,physical components of a machine or system,1
+onelook.com,technological,relating to technology,1
+onelook.com,gadget,a device with nifty purpose,1
+onelook.com,systems,multiple sets of connected components that work together,-1
+onelook.com,innovation,the spirit of novelty and progress,1
+onelook.com,wheel,a circular object on an axis facilitating motion,1
+onelook.com,equipment,a set of tools or supplies needed for a job,3
+onelook.com,biotechnology,a subfield of technology involving or relating to living organisms,1
+onelook.com,software,non physical component of a machine or technological process,1
+onelook.com,science,the empirical endeavour to quantify and explain observable phenomena,1
+onelook.com,mechanism,a set of interacting parts to achieve a small function,-1
+onelook.com,electronics,a set of components related to the conduction and control of electricity,-1
+onelook.com,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",1
+onelook.com,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,1
+onelook.com,application,directional addition of something,-1
+onelook.com,tech,short for technology,1
+onelook.com,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",1
+onelook.com,tool,a device intended for and used by a human to help with a specfic task,1
+onelook.com,industry,the act or field of labour and manufacture,1
+onelook.com,bionics,technology inspired by biology,3

@@ -1,0 +1,44 @@
+model name,word,test set definition,ranking
+multi-qa-distilbert-cos-v1,look,to focus one's gaze in a particular direction,1
+multi-qa-distilbert-cos-v1,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",1
+multi-qa-distilbert-cos-v1,falcon,a bird of prey often trained for hunting,1
+multi-qa-distilbert-cos-v1,ferret,"a small, domesticated mammal used for hunting rabbits",7
+multi-qa-distilbert-cos-v1,fowl,a type of bird kept for producing meat or eggs,5
+multi-qa-distilbert-cos-v1,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,2
+multi-qa-distilbert-cos-v1,shoot,fire a projectile or arrow at a target with a weapon,5
+multi-qa-distilbert-cos-v1,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,1
+multi-qa-distilbert-cos-v1,predation,"the process of a predator hunting, killing and eating its prey",1
+multi-qa-distilbert-cos-v1,hunter,someone who hunts,2
+multi-qa-distilbert-cos-v1,prey,an animal that is the object of hunting,-1
+multi-qa-distilbert-cos-v1,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,-1
+multi-qa-distilbert-cos-v1,scouring,to search carefully with vigorous effort,-1
+multi-qa-distilbert-cos-v1,shop,an institution or place offering goods for sale,-1
+multi-qa-distilbert-cos-v1,hound,a type of dog bred or trained for hunting,-1
+multi-qa-distilbert-cos-v1,chase,to follow in an effort to catch or attack,-1
+multi-qa-distilbert-cos-v1,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",-1
+multi-qa-distilbert-cos-v1,prospect,the outlook or anticipated result,-1
+multi-qa-distilbert-cos-v1,club,a heavy wooden bat used as a weapon,-1
+multi-qa-distilbert-cos-v1,pursuit,the process of following a particular object or goal in focus,-1
+multi-qa-distilbert-cos-v1,trap,a device or situation that appears to be something else but is designed to capture a victim,-1
+multi-qa-distilbert-cos-v1,trace,a series of hints or marks that can be followed,-1
+multi-qa-distilbert-cos-v1,kill,to take the life of something,-1
+multi-qa-distilbert-cos-v1,snare,a small trap for an animal,-1
+multi-qa-distilbert-cos-v1,ambush,a surprise attack,-1
+multi-qa-distilbert-cos-v1,bounty,money advertised to be payed in reward of some action,-1
+multi-qa-distilbert-cos-v1,gun,a weapon made from metal that fires a bullet,-1
+multi-qa-distilbert-cos-v1,probe,to carefully advance,-1
+multi-qa-distilbert-cos-v1,manhunt,an organised search for a person,-1
+multi-qa-distilbert-cos-v1,quest,a journey with a particular goal,-1
+multi-qa-distilbert-cos-v1,forage,to search for and collect plants or fungi for food or material in the wild,2
+multi-qa-distilbert-cos-v1,catch,to take hold of something mid air,1
+multi-qa-distilbert-cos-v1,track,a trace left in the ground,1
+multi-qa-distilbert-cos-v1,drive,to chase or heard a particular group of animals in a hunt,6
+multi-qa-distilbert-cos-v1,foraging,the process of searching for and collecting food or material in the wild,2
+multi-qa-distilbert-cos-v1,pursue,to follow an object or goal with dedication,-1
+multi-qa-distilbert-cos-v1,snipe,to hurt or kill someone from a hiding place at a distance,2
+multi-qa-distilbert-cos-v1,run,to move quickly using one's legs,-1
+multi-qa-distilbert-cos-v1,search,the traversal of a collection or area with the aim of finding a particular thing,8
+multi-qa-distilbert-cos-v1,hunt,"to identify a target, pursure and capture it",-1
+multi-qa-distilbert-cos-v1,whale,very large mammal that lives in water,-1
+multi-qa-distilbert-cos-v1,shakedown,the act of searching thoroughly a person,-1
+multi-qa-distilbert-cos-v1,explore,to search with curiosity,-1

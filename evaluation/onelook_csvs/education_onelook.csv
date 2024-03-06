@@ -1,0 +1,47 @@
+model name,word,test set definition,ranking
+onelook.com,educationist,someone who educates or reasons about education as a profession,-1
+onelook.com,lyceum,a small lecture theatre,100
+onelook.com,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",4
+onelook.com,development,progress in growth as a child,1
+onelook.com,society,a set of conventions and norms set in place by a community of humans,3
+onelook.com,lesson,a unit of teaching in time or topic,1
+onelook.com,course,a collection of lessons often with a unified goal or story,3
+onelook.com,classwork,component of learning that is actively completed in class,1
+onelook.com,homework,component of learning that is completed at home after time spent with a teacher,1
+onelook.com,teacher,leader and educator of a class with specialised knowledge,3
+onelook.com,tuition,specialised teaching often personalised or paid for,7
+onelook.com,tutoring,private often additional teaching,1
+onelook.com,knowledge,collection of justified beliefs able to be recalled,1
+onelook.com,experience,knowledge gained by having observed a variety of situations,1
+onelook.com,skill,practical knowledge,-1
+onelook.com,training,practise of a special skill often with instruction,1
+onelook.com,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,1
+onelook.com,literacy,being able to read and write,1
+onelook.com,preparation,the process of transitioning into a state of readiness for a certain task,1
+onelook.com,erudition,"having or obtaining rare, deep knowledge",77
+onelook.com,tutelage,"private, individual teaching",14
+onelook.com,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",1
+onelook.com,educational,with benefit regarding teaching or learning,1
+onelook.com,school,institution of teaching and learning,1
+onelook.com,student,a person being taught in an institution,1
+onelook.com,pedagogy,the academic study of approaches to teaching and education,1
+onelook.com,curriculum,a pre-set outline of topics of study,1
+onelook.com,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",4
+onelook.com,profession,a primary occupation one earns money with,2
+onelook.com,schooling,the collection of instruction and teaching given at an institution often a school,25
+onelook.com,learning,the process of acquiring a skill or knowledge,1
+onelook.com,instruction,the process of telling someone what to do and how to do it,1
+onelook.com,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",1
+onelook.com,adult,someone responsible for oneself,-1
+onelook.com,coeducation,the educational paradigm of mixing children of different genders at school,1
+onelook.com,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,25
+onelook.com,education,the field of learning and teaching,1
+onelook.com,university,an institution of higher learning marked by programs that award degrees and research,1
+onelook.com,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,-1
+onelook.com,classroom,a room designated for teaching small groups,1
+onelook.com,didactics,"teaching in a unforgiving, stern manner often moral",-1
+onelook.com,research,gathering of knowledge and novel insights,3
+onelook.com,preschool,"time, age or institution before school",1
+onelook.com,humanities,a collection of fields of study relating to the human experience,1
+onelook.com,undergraduate,before obtaining a degree,2
+onelook.com,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,1

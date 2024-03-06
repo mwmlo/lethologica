@@ -1,0 +1,219 @@
+model name,word,test set definition,ranking
+reversedictionary.org,can,a cylindrical container made from metal,1
+reversedictionary.org,timpani,a thunder-like drum,-1
+reversedictionary.org,sound,"distinguishable, audible signal",3
+reversedictionary.org,guitar,a popular musical instrument with strings and fretted fingerboard,1
+reversedictionary.org,orchestral,marked by involvement of an orchestra,4
+reversedictionary.org,cannister,"a round container with a lid, usually made from metal",-1
+reversedictionary.org,trumpet,a musical instrument made from brass associated with fanfares,4
+reversedictionary.org,bucket,a cylindrical container with top face as opening often with a handle,2
+reversedictionary.org,saxophone,a reeded instrument often used in jazz music,30
+reversedictionary.org,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,1
+reversedictionary.org,bat,a wooden tool designed to hit something,29
+reversedictionary.org,barrel,a large cylindrical container made from wood,1
+reversedictionary.org,cram,to force large amount into a smaller space,5
+reversedictionary.org,harmonica,"a small, informal musical instrument played by mouth producing chords",1
+reversedictionary.org,thump,a blunt sound,1
+reversedictionary.org,band,an informal group of musicians,3
+reversedictionary.org,pat,a gentle but fast touch with fingers or palm,5
+reversedictionary.org,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",4
+reversedictionary.org,tin,a small container made from metal,3
+reversedictionary.org,rap,spoken song often marked by speed,-1
+reversedictionary.org,drumhead,material making up the vibrating surface of a drum,5
+reversedictionary.org,bongo,a small hand drum often attached in a pair,4
+reversedictionary.org,knock,swiftly hit surface with knuckles creating a sound,5
+reversedictionary.org,pail,a cylindrical container with top face as opening often with a handle,3
+reversedictionary.org,clap,a swift motion connecting the palms of one's hands creating a sound,1
+reversedictionary.org,slam,to move something forcefully with the expectation it comes to a quick stop,25
+reversedictionary.org,percussion,the collection of instruments or sounds produced by hitting objects,6
+reversedictionary.org,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,3
+reversedictionary.org,snare,a small trap for animals,1
+reversedictionary.org,music,the artistical and intentional arrangement of sounds,17
+reversedictionary.org,drummer,someone who plays the drums,1
+reversedictionary.org,beat,a rhythm created by percussion,4
+reversedictionary.org,bugle,"a small, simple signaling brass instrument",3
+reversedictionary.org,tap,to pat gently with fingertips,9
+reversedictionary.org,drum,percussive instrument often used to create rhythm,18
+reversedictionary.org,hit,forceful and fast motion to connect with object,26
+reversedictionary.org,thrum,a motion to play all strings of a guitar,15
+reversedictionary.org,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+reversedictionary.org,cymbal,percussive instrument made from thin metal often used in pairs,3
+reversedictionary.org,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+reversedictionary.org,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",1
+reversedictionary.org,pound,to knock bluntly and repeatedly,3
+reversedictionary.org,djembe,"a goblet shaped, african drum played with hands",22
+
+reversedictionary.org,educationist,someone who educates or reasons about education as a profession,692
+reversedictionary.org,lyceum,a small lecture theatre,-1
+reversedictionary.org,kindergarten,"an institution providing childcare, education and socialisation for pre-school children",3
+reversedictionary.org,development,progress in growth as a child,59
+reversedictionary.org,society,a set of conventions and norms set in place by a community of humans,781
+reversedictionary.org,lesson,a unit of teaching in time or topic,36
+reversedictionary.org,course,a collection of lessons often with a unified goal or story,10
+reversedictionary.org,classwork,component of learning that is actively completed in class,6
+reversedictionary.org,homework,component of learning that is completed at home after time spent with a teacher,2
+reversedictionary.org,teacher,leader and educator of a class with specialised knowledge,-1
+reversedictionary.org,tuition,specialised teaching often personalised or paid for,1
+reversedictionary.org,tutoring,private often additional teaching,-1
+reversedictionary.org,knowledge,collection of justified beliefs able to be recalled,884
+reversedictionary.org,experience,knowledge gained by having observed a variety of situations,1
+reversedictionary.org,skill,practical knowledge,6
+reversedictionary.org,training,practise of a special skill often with instruction,47
+reversedictionary.org,apprenticeship,a course of training often with the aim of making a skill a profession commenced after school,383
+reversedictionary.org,literacy,being able to read and write,3
+reversedictionary.org,preparation,the process of transitioning into a state of readiness for a certain task,6
+reversedictionary.org,erudition,"having or obtaining rare, deep knowledge",110
+reversedictionary.org,tutelage,"private, individual teaching",10
+reversedictionary.org,medicine,"the field concerning the body and mind, its illnesses, diagnosis and cures",11
+reversedictionary.org,educational,with benefit regarding teaching or learning,121
+reversedictionary.org,school,institution of teaching and learning,1
+reversedictionary.org,student,a person being taught in an institution,39
+reversedictionary.org,pedagogy,the academic study of approaches to teaching and education,1
+reversedictionary.org,curriculum,a pre-set outline of topics of study,66
+reversedictionary.org,culture,"an abstract collection of norms, attitudes, traditions and conventions specific to a group of people",1
+reversedictionary.org,profession,a primary occupation one earns money with,111
+reversedictionary.org,schooling,the collection of instruction and teaching given at an institution often a school,2
+reversedictionary.org,learning,the process of acquiring a skill or knowledge,1
+reversedictionary.org,instruction,the process of telling someone what to do and how to do it,1
+reversedictionary.org,science,"the empirical study of observable phenomena aiming ot quantify, explain and predict",75
+reversedictionary.org,adult,someone responsible for oneself,328
+reversedictionary.org,coeducation,the educational paradigm of mixing children of different genders at school,210
+reversedictionary.org,scholarship,a usual financial reward and recognition of exceeding perfomance enabling a student to enter an institution,8
+reversedictionary.org,education,the field of learning and teaching,1
+reversedictionary.org,university,an institution of higher learning marked by programs that award degrees and research,1
+reversedictionary.org,breeding,selective procreation to develop a certain characteristic often marked by a large quantity,-1
+reversedictionary.org,classroom,a room designated for teaching small groups,142
+reversedictionary.org,didactics,"teaching in a unforgiving, stern manner often moral",-1
+reversedictionary.org,research,gathering of knowledge and novel insights,522
+reversedictionary.org,preschool,"time, age or institution before school",13
+reversedictionary.org,humanities,a collection of fields of study relating to the human experience,-1
+reversedictionary.org,undergraduate,before obtaining a degree,286
+reversedictionary.org,homeschooling,the act of teaching at home often due to a rejection of institutional teaching,14
+
+reversedictionary.org,sadness,the state of negative emotion often after an unfortunate event or a diversion of reality and expectation,384
+reversedictionary.org,psychology,the field of study of human behaviour,3
+reversedictionary.org,sympathy,a feeling marked by similarity or connection,361
+reversedictionary.org,fear,feeling in response to danger or anticipated powerlessness or vulnerability,19
+reversedictionary.org,chord,a collection of musical notes often creating a sentiment,11
+reversedictionary.org,mood,the combination of emotions felt at a point in time,-1
+reversedictionary.org,ardor,"feeling an emotion to a great extent, often enthusiasm",145
+reversedictionary.org,anxiety,a feeling of uncertainty or fear often in anticipation,31
+reversedictionary.org,impression,a shape or emotional state left by something,-1
+reversedictionary.org,sentiment,a collection of emotions often of a group of people regarding a particular subject,-1
+reversedictionary.org,fervency,feeling marked by strength and sincerity,-1
+reversedictionary.org,frustration,the negative emotion felt after (a series of) event that were close to the desired outcome but did not achieve it,-1
+reversedictionary.org,love,"the feeling of deep affection for a small, select group of people",1
+reversedictionary.org,intensity,measure of forcefulness or vibrance,443
+reversedictionary.org,anger,"strong, sometimes aggressive feeling of extreme frustration",7
+reversedictionary.org,fire,flaming appearance of energy produced by combustion,25
+reversedictionary.org,sentimentality,a period of time or the quality of being marked by feeling deeply or intentionally,136
+reversedictionary.org,heat,expression of high energy,-1
+reversedictionary.org,joy,a feeling of extreme happyness or exultation,19
+reversedictionary.org,perception,a notion created by observation,46
+reversedictionary.org,happiness,a positive feeling marked by pleasure or satisfaction,-1
+reversedictionary.org,enthusiasm,feeling of excitement marked by great energy and anticipation,12
+reversedictionary.org,sensation,perception of a physical feeling,2
+reversedictionary.org,sense,logical coherence or rationality,14
+reversedictionary.org,consciousness,the ability to observe one's thoughts,-1
+reversedictionary.org,excitement,the feeling of being happy in anticipation,31
+reversedictionary.org,emotionality,the state of having or expressing strong feelings,-1
+reversedictionary.org,vehemence,measure of great intensity,188
+reversedictionary.org,violence,display or act of physical force causing harm,2
+reversedictionary.org,compassion,the feeling or acting upon profound understanding and kindness,174
+reversedictionary.org,empathy,the ability to put oneself into someone else's situation,11
+reversedictionary.org,humility,a self-presentation rooted in an honest assessment and awareness of one's skills and characteristics,72
+reversedictionary.org,feeling,a less defined emotion,1
+reversedictionary.org,emotional,marked by emotion often in negative context,1
+reversedictionary.org,emotion,a defined mental state in response to a situation or event,28
+reversedictionary.org,fervor,a feeling marked by strength and sincerity,28
+reversedictionary.org,awe,the state of feeling a combination of profound respect and admiration,2
+reversedictionary.org,indignation,a feeling of anger or frustration caused by the perception of something unjust,1
+
+reversedictionary.org,look,to focus one's gaze in a particular direction,1
+reversedictionary.org,foxhunt,"an event where foxes are hunted, usually on horses with dogs as a social activity",-1
+reversedictionary.org,falcon,a bird of prey often trained for hunting,8
+reversedictionary.org,ferret,"a small, domesticated mammal used for hunting rabbits",2
+reversedictionary.org,fowl,a type of bird kept for producing meat or eggs,2
+reversedictionary.org,dog,a domestic mammal kept as a pet often trained to aid humans in different situations,14
+reversedictionary.org,shoot,fire a projectile or arrow at a target with a weapon,2
+reversedictionary.org,stalk,to follow or approach prey in a sneaky manner with the intent of atacking,5
+reversedictionary.org,predation,"the process of a predator hunting, killing and eating its prey",9
+reversedictionary.org,hunter,someone who hunts,2
+reversedictionary.org,prey,an animal that is the object of hunting,20
+reversedictionary.org,searching,the process of principled traversal of a collection or area with the aim of finding a particular thing,-1
+reversedictionary.org,scouring,to search carefully with vigorous effort,-1
+reversedictionary.org,shop,an institution or place offering goods for sale,16
+reversedictionary.org,hound,a type of dog bred or trained for hunting,3
+reversedictionary.org,chase,to follow in an effort to catch or attack,6
+reversedictionary.org,hunting,"the activity involving the identification of a target, its pursuit and capture, by humans for sport or animals for survival",2
+reversedictionary.org,prospect,the outlook or anticipated result,14
+reversedictionary.org,club,a heavy wooden bat used as a weapon,1
+reversedictionary.org,pursuit,the process of following a particular object or goal in focus,19
+reversedictionary.org,trap,a device or situation that appears to be something else but is designed to capture a victim,13
+reversedictionary.org,trace,a series of hints or marks that can be followed,-1
+reversedictionary.org,kill,to take the life of something,16
+reversedictionary.org,snare,a small trap for an animal,2
+reversedictionary.org,ambush,a surprise attack,1
+reversedictionary.org,bounty,money advertised to be payed in reward of some action,38
+reversedictionary.org,gun,a weapon made from metal that fires a bullet,2
+reversedictionary.org,probe,to carefully advance,409
+reversedictionary.org,manhunt,an organised search for a person,3
+reversedictionary.org,quest,a journey with a particular goal,43
+reversedictionary.org,forage,to search for and collect plants or fungi for food or material in the wild,2
+reversedictionary.org,catch,to take hold of something mid air,1
+reversedictionary.org,track,a trace left in the ground,3
+reversedictionary.org,drive,to chase or heard a particular group of animals in a hunt,19
+reversedictionary.org,foraging,the process of searching for and collecting food or material in the wild,-1
+reversedictionary.org,pursue,to follow an object or goal with dedication,2
+reversedictionary.org,snipe,to hurt or kill someone from a hiding place at a distance,18
+reversedictionary.org,run,to move quickly using one's legs,1
+reversedictionary.org,search,the traversal of a collection or area with the aim of finding a particular thing,371
+reversedictionary.org,hunt,"to identify a target, pursure and capture it",6
+reversedictionary.org,whale,very large mammal that lives in water,1
+reversedictionary.org,shakedown,the act of searching thoroughly a person,-1
+reversedictionary.org,explore,to search with curiosity,17
+
+reversedictionary.org,technology,"the field of human advancement in machines, automation and communication",695
+reversedictionary.org,device,a portable unit of electronic machinery,-1
+reversedictionary.org,robotics,"the field to make mechanical, moving aids to humans",-1
+reversedictionary.org,technical,marked by precision,-1
+reversedictionary.org,development,human progress,234
+reversedictionary.org,invention,a novel device or mechanism,202
+reversedictionary.org,telephone,a device enabling remote communication,-1
+reversedictionary.org,biomedical,relating to the field of biology and medicine,5
+reversedictionary.org,machine,a collection of mechanical parts interacting to achieve a greater goal,147
+reversedictionary.org,expertise,great knowledge,13
+reversedictionary.org,instrument,a specialised tool,5
+reversedictionary.org,automation,the goal or process to reduce the requirement for manual labour,-1
+reversedictionary.org,manufacturing,the process of assembling usually by hand,172
+reversedictionary.org,progress,momentum marked by an increase in quality or quantity,111
+reversedictionary.org,wireless,without wires or physical connection,1
+reversedictionary.org,computer,a calculating machine operating in binary,13
+reversedictionary.org,digital,discrete valued,73
+reversedictionary.org,computing,calculating in a mechanical manner,-1
+reversedictionary.org,communication,conveying a message and response,9
+reversedictionary.org,internet,an electronically connected net of resources and communication channels,40
+reversedictionary.org,scientific,marked by empiricism and curiosity,298
+reversedictionary.org,nanotechnology,technology in the scale of atoms and molecules,3
+reversedictionary.org,devices,"multiple units of portable, electronic machinery",-1
+reversedictionary.org,energy,the work or effort needed or given,504
+reversedictionary.org,hardware,physical components of a machine or system,14
+reversedictionary.org,technological,relating to technology,1
+reversedictionary.org,gadget,a device with nifty purpose,4
+reversedictionary.org,systems,multiple sets of connected components that work together,-1
+reversedictionary.org,innovation,the spirit of novelty and progress,-1
+reversedictionary.org,wheel,a circular object on an axis facilitating motion,4
+reversedictionary.org,equipment,a set of tools or supplies needed for a job,2
+reversedictionary.org,biotechnology,a subfield of technology involving or relating to living organisms,204
+reversedictionary.org,software,non physical component of a machine or technological process,-1
+reversedictionary.org,science,the empirical endeavour to quantify and explain observable phenomena,40
+reversedictionary.org,mechanism,a set of interacting parts to achieve a small function,8
+reversedictionary.org,electronics,a set of components related to the conduction and control of electricity,401
+reversedictionary.org,engineering,"the act of designing, developing and fine-tuning several components for a specific goal",25
+reversedictionary.org,transhumanism,the belief or goal to escape the limits of the human biology using technological advances,488
+reversedictionary.org,application,directional addition of something,-1
+reversedictionary.org,tech,short for technology,6
+reversedictionary.org,apparatus,"a device or machine marked by use in a formal setting (science, medicine, engineering) or antiquity",-1
+reversedictionary.org,tool,a device intended for and used by a human to help with a specfic task,3
+reversedictionary.org,industry,the act or field of labour and manufacture,21
+reversedictionary.org,bionics,technology inspired by biology,-1

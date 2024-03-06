@@ -1,0 +1,211 @@
+model name,word,test set definition,ranking
+all-MiniLM-L6-v2,can,Buoy round bottom and conical top,1
+all-MiniLM-L6-v2,educationist,Specialist in educational theory,1
+all-MiniLM-L6-v2,lyceum,high school and college; Usually 9th to 12th grade,1
+all-MiniLM-L6-v2,technology,Practical application of science in commerce or industry,1
+all-MiniLM-L6-v2,device,"a device or invention that serves a purpose, especially a machine used to perform one or more relatively simple tasks",1
+all-MiniLM-L6-v2,look,"Use a gaze, especially in a direction or an object to look out a window, look at the floor",1
+all-MiniLM-L6-v2,robotics,The science or study of technology related to production design theory and the use of robots,1
+all-MiniLM-L6-v2,technical,related to or derived from technology,1
+all-MiniLM-L6-v2,foxhunt,Hunting wolves and dogs,1
+all-MiniLM-L6-v2,falcon,"Any bird of prey in the falcon family, and especially in the falcon genus, having a short curved beak and long, pointed, strong wings adapted for rapid flight.",1
+all-MiniLM-L6-v2,ferret,"Stony mammals, usually albinos, Mustela Putorius furo, related to the ogre and usually trained to hunt mice or rabbits.",1
+all-MiniLM-L6-v2,timpani,A set of blankets,1
+all-MiniLM-L6-v2,sadness,The state or emotion of being sad,1
+all-MiniLM-L6-v2,kindergarten,A program or activity for four to six year olds that is an introduction to school,1
+all-MiniLM-L6-v2,development,Job development,1
+all-MiniLM-L6-v2,sound,"Vibrations are transmitted through an elastic solid, liquid or gas with frequencies in the Hertz range that can be detected by human hearing.",-1
+all-MiniLM-L6-v2,psychology,The science that deals with cognitive processes and behavior,-1
+all-MiniLM-L6-v2,invention,The act or process of inventing uses one's own inventive techniques,-1
+all-MiniLM-L6-v2,society,A set of social relationships between people,-1
+all-MiniLM-L6-v2,telephone,An instrument that converts voice and other sound signals into a form that can be transmitted over long distances and receives the waves and converts them into sound signals.,-1
+all-MiniLM-L6-v2,sympathy,A relationship or association between people and things in which what affects one has a corresponding effect on the other,-1
+all-MiniLM-L6-v2,fowl,"Any bird of the order Galliformes, especially the common domestic fowl gallus gallus",-1
+all-MiniLM-L6-v2,fear,A feeling of restlessness and anxiety due to the presence or impending danger,-1
+all-MiniLM-L6-v2,lesson,Some lessons can be learned by observing nature,-1
+all-MiniLM-L6-v2,chord,A combination of three or more notes sounding together,-1
+all-MiniLM-L6-v2,guitar,"A musical instrument with a round, flat back that curves at the center of a long neck and usually has six strings that are plucked or plucked.",-1
+all-MiniLM-L6-v2,mood,A state of mind or emotion,-1
+all-MiniLM-L6-v2,course,A comprehensive set of prescribed studies covering the four-year engineering curriculum,-1
+all-MiniLM-L6-v2,biomedical,or related to biomedicine,-1
+all-MiniLM-L6-v2,orchestral,Of or related to music of an orchestra,-1
+all-MiniLM-L6-v2,ardor,Feeling of burning intensity,-1
+all-MiniLM-L6-v2,cannister,Especially the typical cylindrical storage bin,-1
+all-MiniLM-L6-v2,dog,"Canis familis is a carnivorous mammal, related to wolves and foxes and bred in several breeds.",-1
+all-MiniLM-L6-v2,classwork,Part of a scientist's work is done in the classroom,-1
+all-MiniLM-L6-v2,shoot,To injure or kill by a projectile fired from a gun,-1
+all-MiniLM-L6-v2,trumpet,"A brass instrument for the soprano, consisting of a long metal tube coiled once and ending in a bell, began in the modern type, with three pipes to produce a difference in tone.",-1
+all-MiniLM-L6-v2,homework,Tasks such as schoolwork or homework,-1
+all-MiniLM-L6-v2,bucket,A cylindrical container used for storing or transporting buckets of liquids or solids,-1
+all-MiniLM-L6-v2,anxiety,A state of fear and worry about an uncertain future,-1
+all-MiniLM-L6-v2,teacher,"A person who teaches, especially one who teaches",-1
+all-MiniLM-L6-v2,tuition,"Tuition fees, especially at a formal educational institution",-1
+all-MiniLM-L6-v2,stalk,The stem or main axis of a plant,-1
+all-MiniLM-L6-v2,machine,A device with fixed and moving parts that converts mechanical energy into a more useful form,-1
+all-MiniLM-L6-v2,predation,The act or habit of stealing or stealing,-1
+all-MiniLM-L6-v2,hunter,Someone who hunts game,-1
+all-MiniLM-L6-v2,saxophone,"A woodwind instrument with a reed mouthpiece and usually a curved conical metal pipe, covering the soprano-alto-tenor and baritone scales.",-1
+all-MiniLM-L6-v2,impression,An emotional feeling or image that persists as a result of an experience,-1
+all-MiniLM-L6-v2,flute,A high woodwind instrument consisting of a thin tube closed at one end with keys and finger holes on the side and a hole near the closed end through which the breath is taken.,-1
+all-MiniLM-L6-v2,sentiment,"An opinion or attitude, especially one based largely on emotion rather than reason, and an anti-American sentiment sweeping through the nation.",-1
+all-MiniLM-L6-v2,fervency,The state or quality of being warm,-1
+all-MiniLM-L6-v2,tutoring,Private tutor,-1
+all-MiniLM-L6-v2,knowledge,state or fact of knowledge,-1
+all-MiniLM-L6-v2,experience,Capture a thought or emotion through the senses or mind during a child's first snow experience,-1
+all-MiniLM-L6-v2,frustration,An act or example of frustration,-1
+all-MiniLM-L6-v2,bat,A strong wooden stick of sticks,-1
+all-MiniLM-L6-v2,prey,An animal that hunts or catches food,-1
+all-MiniLM-L6-v2,searching,To investigate or scrutinize exploratory research into past relationships,-1
+all-MiniLM-L6-v2,barrel,"A large cylindrical container, usually made of sticks tied into rings with a flat top and bottom of the same diameter.",-1
+all-MiniLM-L6-v2,cram,Forcefully grasping or squeezing objects with insufficient space,-1
+all-MiniLM-L6-v2,love,"Deep feelings of inexplicable tenderness of love and prayer for someone, for example, recognition of family in attractive qualities or a feeling of deep unity.",-1
+all-MiniLM-L6-v2,skill,Skills or knowledge acquired or developed through education or experience,-1
+all-MiniLM-L6-v2,harmonica,A small rectangular instrument consisting of a series of loose reeds inserted into the air hole at the back and played by breathing or blowing.,-1
+all-MiniLM-L6-v2,thump,hitting with a blunt object,-1
+all-MiniLM-L6-v2,intensity,Extremely concentrated force or power,-1
+all-MiniLM-L6-v2,band,A group of musicians performs as an ensemble,-1
+all-MiniLM-L6-v2,expertise,Expert advice or opinion,-1
+all-MiniLM-L6-v2,training,The process or routine of an athlete,-1
+all-MiniLM-L6-v2,pat,A quick light stroke with the fingers or hands,-1
+all-MiniLM-L6-v2,instrument,"A measuring or controlling device, especially one that functions as part of a control system",-1
+all-MiniLM-L6-v2,apprenticeship,The student's status or time worked,-1
+all-MiniLM-L6-v2,automation,Automated operation or equipment control is a process or system,-1
+all-MiniLM-L6-v2,scouring,Check the location carefully,-1
+all-MiniLM-L6-v2,literacy,"The state or quality of literacy, especially the ability to read and write",-1
+all-MiniLM-L6-v2,preparation,The act or process of preparation,-1
+all-MiniLM-L6-v2,jazz,"A Native American musical style characterized by a strong but flexible rhythmic structure, solo and ensemble improvisation of basic melodies and chord patterns, and, more recently, a highly complex harmonic idiom.",-1
+all-MiniLM-L6-v2,manufacturing,the action of the verb do,-1
+all-MiniLM-L6-v2,erudition,deep learning,-1
+all-MiniLM-L6-v2,tin,A nodular silver metal element found mainly in casities,-1
+all-MiniLM-L6-v2,progress,act in a way to achieve the goal,-1
+all-MiniLM-L6-v2,anger,A strong feeling of anger or rage,-1
+all-MiniLM-L6-v2,wireless,The word wireless is often used to refer to any type of electrical or electronic operation that takes place without a wired connection.,-1
+all-MiniLM-L6-v2,shop,A small store or a specialty department in a large store,-1
+all-MiniLM-L6-v2,tutelage,"Students are taught individually, usually by a private teacher",-1
+all-MiniLM-L6-v2,computer,"A computing device, especially a programmable electronic machine, that performs mathematical or logical operations at high speed or collects, stores, or processes relevant information.",-1
+all-MiniLM-L6-v2,medicine,"The science of the diagnosis, treatment, or prevention of diseases and other disorders of the body or mind",-1
+all-MiniLM-L6-v2,digital,"connecting or resembling a digit, especially a finger",-1
+all-MiniLM-L6-v2,rap,A quick punch or kick,-1
+all-MiniLM-L6-v2,educational,or related to education,-1
+all-MiniLM-L6-v2,computing,"Determine the amount of tax using mathematics, especially numerical methods",-1
+all-MiniLM-L6-v2,communication,The act of sending a communication,-1
+all-MiniLM-L6-v2,fire,MOTIVATION,-1
+all-MiniLM-L6-v2,hound,"Any breed of domestic dog, often used for hunting, with lop ears, short coat and a low voice.",-1
+all-MiniLM-L6-v2,school,An educational institution for children or minors,-1
+all-MiniLM-L6-v2,drumhead,The material is stretched over one end of the drum or the other,-1
+all-MiniLM-L6-v2,internet,An interconnected system of networks that connects computers around the world using the TCP IP protocol,-1
+all-MiniLM-L6-v2,scientific,deploy or apply scientific methodology,-1
+all-MiniLM-L6-v2,bongo,One of the pairs played a drum together with short hands,-1
+all-MiniLM-L6-v2,nanotechnology,The science and technology of creating devices such as electronic circuits from individual atoms and molecules,-1
+all-MiniLM-L6-v2,student,Anyone who studies or takes classes at a college or university,-1
+all-MiniLM-L6-v2,knock,Big hit,-1
+all-MiniLM-L6-v2,devices,counting device,-1
+all-MiniLM-L6-v2,chase,a quick pursuit to catch or pursue a thief,-1
+all-MiniLM-L6-v2,hunting,tracking activity or game,-1
+all-MiniLM-L6-v2,pedagogy,the art or profession of teaching,-1
+all-MiniLM-L6-v2,prospect,examine or examine,-1
+all-MiniLM-L6-v2,curriculum,all courses offered by the institution,-1
+all-MiniLM-L6-v2,pail,a watertight cylindrical container with an opening at the top and a bucket handle,-1
+all-MiniLM-L6-v2,clap,"a sudden explosive clap, like the clapping of hands",-1
+all-MiniLM-L6-v2,club,"A strong, heavy stick, usually with a thick point, for use as a weapon by bandits",-1
+all-MiniLM-L6-v2,energy,the ability or endurance to do strenuous work,-1
+all-MiniLM-L6-v2,pursuit,to pursue or pursue a course of action or action,-1
+all-MiniLM-L6-v2,slam,to strike or beat with great force,-1
+all-MiniLM-L6-v2,percussion,"Knock between two bodies, especially when it makes a sound.",-1
+all-MiniLM-L6-v2,sentimentality,that the quality or state is excessive or emotionally affected,-1
+all-MiniLM-L6-v2,culture,"the whole of the practices, beliefs, arts, institutions, and other products of human activity and thought.",-1
+all-MiniLM-L6-v2,hardware,informatics A computer and related physical devices directly involved in data processing or communication processes,-1
+all-MiniLM-L6-v2,cylinder,"Mathematics is a rotating straight line that oscillates in a closed plane, either parallel or not parallel to the straight line.",-1
+all-MiniLM-L6-v2,trap,"for catching and restraining animals, such as a hidden burrow or trap",-1
+all-MiniLM-L6-v2,heat,"a form of energy associated with the motion of molecules or particles that can move through solid and liquid media in conduction, fluid, and radiation in space.",-1
+all-MiniLM-L6-v2,profession,"profession or vocation, one of the highest compliments a child can pay his or her parents is a career choice Joan Nathan",-1
+all-MiniLM-L6-v2,trace,"a track similar to a footprint made or left by a person, animal, or event",-1
+all-MiniLM-L6-v2,technological,"technology, especially scientific technology",-1
+all-MiniLM-L6-v2,joy,intense and especially ecstatic or ecstatic joy,-1
+all-MiniLM-L6-v2,gadget,a small specialized mechanical or electronic device,-1
+all-MiniLM-L6-v2,kill,kill,-1
+all-MiniLM-L6-v2,systems,plural form of system,-1
+all-MiniLM-L6-v2,innovation,introduce something new,-1
+all-MiniLM-L6-v2,snare,Fishing gear is often part of the line for hunting birds and small mammals.,-1
+all-MiniLM-L6-v2,ambush,expect a sudden attack,-1
+all-MiniLM-L6-v2,wheel,A wheel is a mechanical device in the shape of a disk or sphere,-1
+all-MiniLM-L6-v2,equipment,device configuration or device status,-1
+all-MiniLM-L6-v2,bounty,freedom in giving,-1
+all-MiniLM-L6-v2,schooling,teaching or learning in school,-1
+all-MiniLM-L6-v2,gun,A metal tube weapon that fired a flat course at high speed.,-1
+all-MiniLM-L6-v2,perception,the ability to act or feel,-1
+all-MiniLM-L6-v2,probe,a scouting expedition or group specially formed to obtain information and knowledge in a distant or unknown country,-1
+all-MiniLM-L6-v2,music,"the art of timing sounds through the interplay of melody, rhythm, and timbre to create a timeless, cohesive, evocative composition.",-1
+all-MiniLM-L6-v2,learning,"the process, practice, or process of acquiring knowledge or skills",-1
+all-MiniLM-L6-v2,happiness,a feeling of happy joy,-1
+all-MiniLM-L6-v2,drummer,drummer in the band,-1
+all-MiniLM-L6-v2,manhunt,"search for a large organized person, usually an escaped criminal",-1
+all-MiniLM-L6-v2,biotechnology,"The use of microorganisms, such as bacteria or biological agents such as yeast or enzymes, for a specific industrial or manufacturing process.",-1
+all-MiniLM-L6-v2,enthusiasm,great passion or interest in a subject or cause,-1
+all-MiniLM-L6-v2,beat,beat again and again,-1
+all-MiniLM-L6-v2,sensation,"a sensation associated with a sensory organ or position of the body, a burning sensation;",-1
+all-MiniLM-L6-v2,instruction,experience or teaching profession,-1
+all-MiniLM-L6-v2,software,Symbolic languages ​​that govern the organization and operation of computer programs and hardware.,-1
+all-MiniLM-L6-v2,sense,"Any senses that received external or internal stimuli, such as hearing, sight, smell, taste, and balance.",-1
+all-MiniLM-L6-v2,bugle,the brass instrument is shorter than the trumpet and has no key or valve,-1
+all-MiniLM-L6-v2,consciousness,the state or condition of being conscious,-1
+all-MiniLM-L6-v2,quest,software search or tracking activity or pattern,-1
+all-MiniLM-L6-v2,science,"observation, identification, description of experimental evidence and theoretical explanation of phenomena.",-1
+all-MiniLM-L6-v2,forage,to forage or search for food or supplies,-1
+all-MiniLM-L6-v2,tap,"to strike lightly, by kicking or pounding",-1
+all-MiniLM-L6-v2,adult,reaching maturity or maturity,-1
+all-MiniLM-L6-v2,excitement,interesting performance or example,-1
+all-MiniLM-L6-v2,drum,"A piercing made of a hollow cylinder or hemisphere, tightly extended at one or both ends, and struck by hand or sticks.",-1
+all-MiniLM-L6-v2,catch,"to catch or capture, especially after a chase",-1
+all-MiniLM-L6-v2,track,a mark or trace left by an event,-1
+all-MiniLM-L6-v2,drive,push forward or forward thrust pushing horses into the corridor,-1
+all-MiniLM-L6-v2,mechanism,machine or mechanical device,-1
+all-MiniLM-L6-v2,foraging,to forage or search for food or supplies,-1
+all-MiniLM-L6-v2,pursue,hunting or capturing a fox pursued by hunters,-1
+all-MiniLM-L6-v2,coeducation,an educational system in which both men and women attend the same institution or classes,-1
+all-MiniLM-L6-v2,electronics,science and technology of electronic phenomena.,-1
+all-MiniLM-L6-v2,scholarship,A review of the researcher's or academic's roles and responsibilities.,-1
+all-MiniLM-L6-v2,engineering,"Scientific and mathematical principles for practical applications such as the design, construction and operation of efficient and effective technical structures and systems and processes.",-1
+all-MiniLM-L6-v2,transhumanism,"A philosophy of using science and technology, especially neurotechnology, biotechnology, and nanotechnology, to overcome human disabilities and improve human life.",-1
+all-MiniLM-L6-v2,hit,"After the assault, he confronted the guard.",-1
+all-MiniLM-L6-v2,thrum,play a string instrument or a guitar solo,-1
+all-MiniLM-L6-v2,education,learning or learning process,-1
+all-MiniLM-L6-v2,snipe,"Various large birds of the genus Gallinago or Capella, associated with Indian and scrub, especially g",-1
+all-MiniLM-L6-v2,emotionality,state or quality of emotional being,-1
+all-MiniLM-L6-v2,university,"a university with teaching and research facilities, including a bachelor's degree offering master's and doctoral degrees, as well as a bachelor's degree.",-1
+all-MiniLM-L6-v2,trombone,A windmill consisting of a long cylindrical tube terminating in two bell-shaped mouthpieces and a U-shaped sliding slide for producing different sounds.,-1
+all-MiniLM-L6-v2,vehemence,strong strength or ability to concentrate,-1
+all-MiniLM-L6-v2,violence,the use of physical force to commit crimes such as offensive or intentional violence,-1
+all-MiniLM-L6-v2,breeding,a man of good birth,-1
+all-MiniLM-L6-v2,run,"move quickly with your feet, allowing both feet to leave the ground with each step",-1
+all-MiniLM-L6-v2,classroom,"school takes place outside the school, especially in the second grade",-1
+all-MiniLM-L6-v2,application,claim,-1
+all-MiniLM-L6-v2,search,make sure you find what you know,-1
+all-MiniLM-L6-v2,cymbal,Made of a perforated brass plate that produces a powerful tone when struck with a drum or drum.,-1
+all-MiniLM-L6-v2,didactics,teaching pedagogy,-1
+all-MiniLM-L6-v2,compassion,Extreme compassion in an attempt to alleviate another’s suffering.,-1
+all-MiniLM-L6-v2,piano,Musical instruments are played with hand-picked keyboards that produce a sound that can be tapped or established with pedals.,-1
+all-MiniLM-L6-v2,empathy,Identify and understand another person’s feelings and reasons.,-1
+all-MiniLM-L6-v2,tech,technology,-1
+all-MiniLM-L6-v2,humility,the quality or state of poor condition,-1
+all-MiniLM-L6-v2,tambourine,An instrument made of a small head with a sound disc on the edge and played by shaking and tapping with the hand.,-1
+all-MiniLM-L6-v2,feeling,a sense that includes tactical sense,-1
+all-MiniLM-L6-v2,research,scientific or academic research or analysis,-1
+all-MiniLM-L6-v2,hunt,Continue playing for food or games,-1
+all-MiniLM-L6-v2,preschool,corresponding to the childhood years before starting primary school,-1
+all-MiniLM-L6-v2,emotional,or related to feelings,-1
+all-MiniLM-L6-v2,apparatus,a device or apparatus for a special purpose,-1
+all-MiniLM-L6-v2,humanities,being the most human,-1
+all-MiniLM-L6-v2,undergraduate,College or university student with an undergraduate degree or equivalent,-1
+all-MiniLM-L6-v2,whale,For biological order see Seashores,-1
+all-MiniLM-L6-v2,homeschooling,teach children at home instead of sending them to school,-1
+all-MiniLM-L6-v2,shakedown,detailed search,-1
+all-MiniLM-L6-v2,tool,a tool such as a saw for performing or controlling manual or mechanical work,-1
+all-MiniLM-L6-v2,emotion,"a state of mind that occurs alone, effortlessly and without many mental changes that result in happiness, sadness, honor, respect, hatred and love.",-1
+all-MiniLM-L6-v2,industry,commercial production and marketing of products,-1
+all-MiniLM-L6-v2,pound,hit often and hard,-1
+all-MiniLM-L6-v2,fervor,extreme heat and strong emotions,-1
+all-MiniLM-L6-v2,explore,systematically explore each possibility,-1
+all-MiniLM-L6-v2,awe,"a feeling of wonder, awe and wonder inspired by the power of a genius of great beauty, glory or astonishment when thinking of a small work.",-1
+all-MiniLM-L6-v2,bionics,"application of biological principles in engineering research and design, particularly in electronic systems",-1
+all-MiniLM-L6-v2,djembe,A large leather covered drum that was beaten with the hands used in West Africa with mixed music,-1

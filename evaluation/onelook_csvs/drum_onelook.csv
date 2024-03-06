@@ -1,0 +1,44 @@
+model name,word,test set definition,ranking
+onelook.com,can,a cylindrical container made from metal,-1
+onelook.com,timpani,a thunder-like drum,2
+onelook.com,sound,"distinguishable, audible signal",-1
+onelook.com,guitar,a popular musical instrument with strings and fretted fingerboard,1
+onelook.com,orchestral,marked by involvement of an orchestra,1
+onelook.com,cannister,"a round container with a lid, usually made from metal",-1
+onelook.com,trumpet,a musical instrument made from brass associated with fanfares,1
+onelook.com,bucket,a cylindrical container with top face as opening often with a handle,-1
+onelook.com,saxophone,a reeded instrument often used in jazz music,1
+onelook.com,flute,a musical instrument shaped like a tube with holes the covering of which changes pitch,114
+onelook.com,bat,a wooden tool designed to hit something,-1
+onelook.com,barrel,a large cylindrical container made from wood,1
+onelook.com,cram,to force large amount into a smaller space,10
+onelook.com,harmonica,"a small, informal musical instrument played by mouth producing chords",1
+onelook.com,thump,a blunt sound,3
+onelook.com,band,an informal group of musicians,1
+onelook.com,pat,a gentle but fast touch with fingers or palm,3
+onelook.com,jazz,"a style of music marked by specific chord progression and resolution played by brass instruments, piano and double base",159
+onelook.com,tin,a small container made from metal,1
+onelook.com,rap,spoken song often marked by speed,1
+onelook.com,drumhead,material making up the vibrating surface of a drum,1
+onelook.com,bongo,a small hand drum often attached in a pair,3
+onelook.com,knock,swiftly hit surface with knuckles creating a sound,1
+onelook.com,pail,a cylindrical container with top face as opening often with a handle,-1
+onelook.com,clap,a swift motion connecting the palms of one's hands creating a sound,1
+onelook.com,slam,to move something forcefully with the expectation it comes to a quick stop,-1
+onelook.com,percussion,the collection of instruments or sounds produced by hitting objects,1
+onelook.com,cylinder,three dimensional shaped marked by two identical circular faces and curved rectangular connecting face,10
+onelook.com,snare,a small trap for animals,1
+onelook.com,music,the artistical and intentional arrangement of sounds,1
+onelook.com,drummer,someone who plays the drums,1
+onelook.com,beat,a rhythm created by percussion,1
+onelook.com,bugle,"a small, simple signaling brass instrument",1
+onelook.com,tap,to pat gently with fingertips,-1
+onelook.com,drum,percussive instrument often used to create rhythm,1
+onelook.com,hit,forceful and fast motion to connect with object,2
+onelook.com,thrum,a motion to play all strings of a guitar,10
+onelook.com,trombone,a long brass instrument changing pitch by sliding a u-shaped tube,1
+onelook.com,cymbal,percussive instrument made from thin metal often used in pairs,1
+onelook.com,piano,a musical instrument with keys creating sound by hitting tuned strings with hammers,1
+onelook.com,tambourine,"a small, handheld percussive instrument with a collection of small metal places and often a drumhead",13
+onelook.com,pound,to knock bluntly and repeatedly,1
+onelook.com,djembe,"a goblet shaped, african drum played with hands",1
