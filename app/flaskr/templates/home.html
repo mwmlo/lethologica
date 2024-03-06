@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lethologica</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='logo_transparent.png') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles-desktop.css') }}"
+        media="screen and (orientation: landscape)">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles-mobile.css') }}"
+        media="screen and (orientation: portrait)">
+    <script src="{{ url_for('static',filename='encode.js') }}" type="module" defer></script>
+    <script src="{{ url_for('static',filename='credits.js') }}" type="module" defer></script>
+    <script src="{{ url_for('static',filename='definitions.js') }}" type="module" defer></script>
+    <script src="{{ url_for('static',filename='spellcheck.js') }}" type="module" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.9/dist/purify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typo-js@1.2.4/typo.min.js"></script>
+</head>
+
+<body>
+    <header id="scroll_padding"></header>
+    <header class="header"></header>
+    <img id="logo" src="{{ url_for('static', filename='logo_transparent.png') }}" />
+    <div id="title">
+        <h1>Lethologica</h1>
+        <p class="caption">Search for words by their definition.</p>
+    </div>
+    <form class="form" id="def_form" action="/" method="POST">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+        <input type="text" id="def" name="def"
+            placeholder="E.g. person who creates dance, plants that grow underwater, ..." {% if query !=None %}
+            value="{{query}}" {% endif %}><br>
+        <input type="submit" value="Search" id="submit_btn">
+    </form>
+    <div id="spellcheck" class="spellcheck">
+        {% if (spellchecked and spellchecked == query) %}
+        <div> Potential spelling mistake, please double check your query</div>
+        {% elif (spellchecked and spellchecked != "") %}
+        <div> Potential spelling mistake, did you mean: </div>
+        <div class="explore-spellcheck" id="{{spellchecked}}">
+            <span class="magnifying-glass" id="{{spellchecked}}" style="margin-left: 0.4em"></span>
+            "{{spellchecked}}"
+        </div>
+        {% endif %}
+    </div>
+    <div id="results">
+        <div class="loader book" id="loader">
+            <figure class="page"></figure>
+        </div>
+        <p class="loader caption">Searching for your word...</p>
+        <div id="query_results">
+            {% if query != None %}
+                {% if results|length == 0 %}
+                    <div> Sorry, no results available. </div>
+                {% elif results[0].score == -1 %}
+                    <div> Please enter a valid definition! </div>
+                {% else %}
+                <div id="filters">
+                    <div class="show">
+                        Show:
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_common" name="show_common" value="show_common" checked>
+                        <label for="show_common">Common Words</label>
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_noun" name="show_noun" value="show_noun" checked>
+                        <label for="show_noun">Nouns</label>
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_verb" name="show_verb" value="show_verb" checked>
+                        <label for="show_verb">Verbs</label>
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_adj" name="show_adj" value="show_adj" checked>
+                        <label for="show_adj">Adjectives</label>
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_adv" name="show_adv" value="show_adv" checked>
+                        <label for="show_adv">Adverbs</label>
+                    </div>
+                    <div class="filter">
+                        <input type="checkbox" id="show_misc" name="show_misc" value="show_misc" checked>
+                        <label for="show_misc">Misc</label>
+                    </div>
+                </div>
+                    <div> Results for "{{query}}". Click results to see definitions. Click the magnifying glass to explore the definition.</div>
+                    <ul>
+                        {% for i in range(results|length) %}
+                            {% set result = results[i] %}
+                            {% set color = colors["red"] %}
+                            {% if result.score >= thresholds["blue"] %}
+                                {% set color = colors["blue"] %}
+                            {% elif result.score > thresholds["green"] %}
+                                {% set color = colors["green"] %}
+                            {% elif result.score > thresholds["yellow"] %}
+                                {% set color = colors["yellow"] %}
+                            {% elif result.score > thresholds["orange"] %}
+                                {% set color = colors["orange"] %}
+                            {% endif %}
+                            <li class="def_card" id="card_{{i}}">
+                                <div class="res_score">
+                                    <div class="res_word" id="result_{{i}}"> {{ result.word }}</div>
+                                    <div class="info">
+                                        {% if result.common %}
+                                            <div class="common">Common</div>
+                                        {% endif %}
+                                        {% if result.pos == "other" %}
+                                            <div class="pos">(misc)</div>
+                                        {% else %}
+                                            <div class="pos">({{ result.pos }})</div>
+                                        {% endif %}
+                                        <div class="score" style="background-color: #{{color}};"> {{ result.score }} </div>
+                                    </div>
+                                </div>
+                                <div class="definition" id="definition_{{i}}">
+                                    {% for defEx in result.defEx %}
+                                    <div class = "def-item">
+                                        <span class="explore-button" id="{{defEx[0]}}"></span>
+                                        {{ defEx[0] | safe }}</div>
+                                        {% if defEx[1]|length > 0 %}
+                                            <p><i>E.g. "{{ defEx[1] | safe }}"</i></p>
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            </li>
+                        {% endfor %}
+                        <button id="show_more">Show more</button>
+                    </ul>
+                    <p id="filter-hint" hidden>Change filters to view more results</p>
+                {% endif %}
+            {% endif %}
+        </div>
+    </div>
+    <div id="credits" class="popup">
+        <div class="popup-content">
+            <span class="close" id="closeCreditsPopup">&times;</span>
+            <p>The dataset for reverse dictionary searches is based on definitions from Open English WordNet and
+                Wikitionary.</p>
+            <p>
+                <b>Open English WordNet</b> is derived from <a href="http://wordnet.princeton.edu/">Princeton
+                    WordNet</a> by the Open English WordNet Community and released under the <a
+                    href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC-BY) 4.0
+                    License]</a>.
+            <blockquote>
+                John P. McCrae, Alexandre Rademaker, Francis Bond, Ewa Rudnicka and Christiane Fellbaum (2019) <a
+                    href="https://aclanthology.org/2019.gwc-1.31/">English WordNet 2019 - An Open-Source WordNet for
+                    English</a>. In Proceedings of the 10th Global WordNet Conference - GWC 2019, Wrocław.
+            </blockquote>
+            </p>
+            <p>
+                <b>Wiktionary</b>: Definitions and other text are dual-licensed under the <a
+                    href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0
+                    Unported
+                    License (CC-BY-SA)</a> and the <a href="https://www.gnu.org/licenses/fdl-1.3.en.html">GNU Free
+                    Documentation License (GFDL)</a>.
+            </p>
+            <p>We distribute our dataset, which builds upon these licensed materials, under the same licenses. Our
+                dataset is available <a
+                    href="https://drive.google.com/file/d/1PMTHKrc8ND1fOHCLhM4qr1BtRT7kYvq-/view?usp=sharing">here</a>.
+            </p>
+            <p>The spellchecker is based on a subset of the original English wordlist created by Kevin Atkinson for
+                Pspell and  Aspell and thus is covered by his original LGPL license.  The affix file is a heavily
+                modified version of the original english.aff file which was released as part of Geoff Kuenning's
+                Ispell and as such is covered by his BSD license. As used in the typo-js library <a
+                href="https://github.com/cfinke/Typo.js/tree/master/typo/dictionaries/en_US">here</a>.
+            </p>
+        </div>
+    </div>
+    <div id="about" class="popup">
+        <div class="popup-content">
+            <span class="close" id="closeAboutPopup">&times;</span>
+            <p>This reverse dictionary is based on a “Transformer” Machine Learning Model which is run directly in your
+                browser. We use a pre-trained model called <a
+                    href="https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1">multi-qa-distilbert</a>,
+                which was tuned for semantic search. Your browser caches this when you first open the page, so depending
+                on your internet connection your first query may take a moment longer than your next ones. It will be
+                deleted by your browser automatically.</p>
+            <p>A <b>Transformer model</b> translates a sentence into a list of numbers. When you search a word, we turn
+                your
+                query into a numerical representation, and check it against those of our stored definitions. The ones we
+                show you are the closest we could find.</p>
+            <p>These models draw statistical connections between words by being trained on massive datasets. As with
+                many AI models, this is different from “understanding” the data. As a result, these models are known to
+                have issues with negation and other features which affect the whole meaning of the entire sentence but
+                may appear to the model to be just another word to be encoded.</p>
+        </div>
+    </div>
+    <!-- Access results in Javascript -->
+    <div id="results_access" style="display: none;">{{ results | tojson | safe }}</div>
+    <footer class="footer">
+        <button id="aboutPopup">
+            About
+        </button>
+        <div class="cat" id="cat1">
+            <img src="static/cat-running.gif" alt="Cat">
+        </div>
+        <div class="cat" id="cat2">
+            <img src="static/cat-running.gif" alt="Cat">
+        </div>
+        <p> This is a reverse dictionary made for the Software Engineering Group Project of Imperial College London.
+        </p>
+        <button id="creditsPopup">
+            Credits
+        </button>
+    </footer>
+</body>
+
+</html>

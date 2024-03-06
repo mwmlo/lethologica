@@ -1,0 +1,155 @@
+# To contribute improvements to CI/CD templates, please follow the Development guide at:
+# https://docs.gitlab.com/ee/development/cicd/templates.html
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Python.gitlab-ci.yml
+
+# Official language image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/python/tags/
+
+image: python:3.10.12
+
+stages:
+  - build
+  - test_python
+  - test_ui
+  - integration_test
+  - deploy_vm
+  - deploy_docker
+  - deploy_azure
+  - deploy_render
+
+before_script:
+  # Shell executor: Docker Engine must be installed on runner
+  # Check that Docker is installed
+  - docker info
+  # Remove any dangling Docker volumes
+  - echo y | sudo docker system prune --all
+  - export PATH=$PATH:/home/gitlab-runner/.local/bin
+  - python3 --version ; pip --version # For debugging
+  - pip install virtualenv
+  - virtualenv venv
+  - export PYTHONPATH=.
+  - export FLASK_APP=web
+  - sudo apt-get update -qy
+  - sudo apt-get install -y python3-dev python3-pip
+
+linting:
+  stage: .pre
+  script:
+    - pre-commit run --all-files
+
+build:
+  stage: build
+  script:
+    - pip install -r requirements.txt
+    - python3 -m build --wheel ./app
+    - echo "Dependencies installed!"
+  artifacts:
+    paths:
+      - app/dist/flaskr-0.0.0-py2.py3-none-any.whl
+    untracked: true
+
+test_python:
+  stage: test_python
+  dependencies:
+    - build
+  script:
+    - source venv/bin/activate
+    - pip install -r requirements.txt
+    - pip uninstall -y flaskr
+    - pip install app/dist/flaskr-0.0.0-py2.py3-none-any.whl
+    - coverage run -m pytest
+    - coverage report -m --fail-under=30
+    - coverage xml
+    - echo "Tests complete"
+  # coverage: '*TOTAL.*\s+(\d+%)$*'
+  artifacts:
+    reports:
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage.xml
+
+test_ui:
+  stage: test_ui
+  when: manual
+  dependencies:
+    - build
+  script:
+    - source venv/bin/activate
+    - pip install -r requirements.txt
+    - pip uninstall -y flaskr
+    - pip install app/dist/flaskr-0.0.0-py2.py3-none-any.whl
+    - python3 -m pytest app/tests/inttest_*
+    - echo "UI tests complete"
+
+integration_test:
+  stage: integration_test
+  when: manual
+  dependencies:
+    - build
+  script:
+    - source venv/bin/activate
+    - pip install -r requirements.txt
+    - pip uninstall -y flaskr
+    - pip install app/dist/flaskr-0.0.0-py2.py3-none-any.whl
+    - pytest database/inttest_*
+    - echo "Integration tests complete"
+
+deploy_vm:
+  stage: deploy_vm
+  only:
+    - master
+  dependencies:
+    - build
+  script:
+    - pip uninstall -y flaskr
+    - pip install app/dist/flaskr-0.0.0-py2.py3-none-any.whl
+    - pip list --format=freeze | grep "flaskr"
+    - ls -la app/dist
+    - sudo cat /etc/systemd/system/lethologica-server.service
+    - sudo systemctl restart lethologica-server.service
+    - sleep 10
+    - sudo systemctl status lethologica-server.service
+
+deploy_docker:
+  stage: deploy_docker
+  only:
+    - master
+  dependencies:
+    - build
+  before_script:
+    - docker login docker.io -u $DOCKER_USER -p $DOCKER_ACCESS_TOKEN
+  script:
+    # Build and push latest version to Docker Hub
+    - docker build --pull -t $CI_REGISTRY_IMAGE .
+    - docker push $CI_REGISTRY_IMAGE
+
+deploy_azure:
+  stage: deploy_azure
+  only:
+    - master
+  when: manual
+  dependencies:
+    - deploy_docker
+  before_script:
+    # Clean up previous containers if they exist
+    - docker stop azure || true && docker rm azure || true
+    # Run Azure CLI commands in Docker container with env variables
+    - docker run -e AZURE_APP_ID -e AZURE_PASSWORD -e AZURE_TENANT -e CONTAINER_APP_NAME -e RESOURCE_GROUP -e APP_ENV -e TARGET_PORT -e CI_REGISTRY_IMAGE -e API_KEY_PROD -e API_KEY_TEST --name azure -d -i -t mcr.microsoft.com/azure-cli /bin/sh
+  script:
+    - docker exec -i azure /bin/sh < deploy_azure.sh
+    # Clean up container after success
+    - docker stop azure || true && docker rm azure || true
+
+deploy_render:
+  stage: deploy_render
+  only:
+    - master
+  when: manual
+  dependencies:
+    - deploy_vm
+  script:
+    - git switch production # assumes branch is already set up
+    - git checkout origin/master -- app/* database/db_connector.py requirements.txt
+    - git commit --allow-empty -m "Deployment from CI"
+    - git push "https://gitlab-runner:$COMMIT_TOKEN@gitlab.doc.ic.ac.uk/g236002113/lethologica.git" production

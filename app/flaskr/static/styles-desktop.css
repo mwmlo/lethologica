@@ -1,0 +1,73 @@
+/* Styles for Desktop */
+
+body {
+    font-size: large;
+}
+
+#logo {
+    width: 150px;
+}
+
+#scroll_padding {
+    height: 115px;
+}
+
+/* Definition Submission */
+
+input,
+label {
+    font-size: large;
+}
+
+input[type=submit] {
+    font-size: large;
+}
+
+/* Word Results */
+
+/* Changes width depending on window size */
+@media (min-width: 801px) {
+    #results li {
+        min-width: 300px;
+        width: 30%;
+    }
+}
+@media (max-width: 800px) {
+    #results li {
+        min-width: 300px;
+        width: 60%;
+    }
+}
+
+#show_more {
+    font-size: large;
+}
+
+/* Header & Footer */
+
+.footer {
+    font-size: 14px;
+}
+
+.popup-content {
+    max-height: 50%;
+    width: 50%;
+}
+
+/* Spellcheck */
+
+.spellcheck {
+    flex-direction: row;
+}
+
+/* References pop up window */
+
+.footer p {
+    text-align: center;
+    /* To allow the paragraph to take up remaining space */
+}
+
+/* Cat image styling */
+.cat img {
+    width: 200px;
+}

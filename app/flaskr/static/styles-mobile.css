@@ -1,0 +1,61 @@
+/* Logo Colours: #fefbea #fff7d3 #ffd04c #4b506e #b83b39 #93755b */
+
+body {
+    font-size: xx-large;
+}
+
+#logo {
+    width: 200px;
+}
+
+#scroll_padding {
+    height: 165px;
+}
+
+/* Definition Submission */
+
+input,
+label {
+    font-size: xx-large;
+}
+
+input[type=submit] {
+    font-size: xx-large;
+}
+
+/* Word Results */
+
+#results li {
+    width: 75%;
+}
+
+#show_more {
+    font-size: xx-large;
+}
+
+/* Header & Footer */
+
+.footer {
+    font-size: x-large;
+}
+
+.popup-content {
+    max-height: 60%;
+    width: 70%;
+}
+
+.footer button {
+    font-size: x-large;
+}
+
+/* Spellcheck */
+
+.spellcheck {
+    flex-direction: column;
+}
+
+/* Cat image styling */
+
+.cat img {
+    width: 300px;
+}
